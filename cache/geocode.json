@@ -292,6 +292,10 @@
 28.563415,
 -81.585206
 ],
+"11 east smith street unit 108|winter garden|FL|34787": [
+28.56381,
+-81.585248
+],
 "11 east smith street unit 111|winter garden|FL|34787": [
 28.563887,
 -81.585251
@@ -753,6 +757,10 @@
 27.783604,
 -82.286132
 ],
+"1359 w. broad street|richmond|VA|23220": [
+37.553479,
+-77.455523
+],
 "1359 w. broad street|richmond|VA|23223": [
 37.553618,
 -77.45554
@@ -861,6 +869,10 @@
 28.695397,
 -81.32256
 ],
+"1478 sunshadow dr. # 112|casselberry|FL|32707": [
+28.695407,
+-81.322221
+],
 "1478 sunshadow dr. # 208|casselberry|FL|32707": [
 28.695426,
 -81.322345
@@ -876,6 +888,10 @@
 "1479 sunshadow dr. # 215|casselberry|FL|32707": [
 28.695222,
 -81.321734
+],
+"1487 sunshadow dr. # 203|casselberry|FL|32707": [
+28.69517,
+-81.320898
 ],
 "14879 huntcliff park way|orlando|FL|32824": [
 28.358024,
@@ -1352,6 +1368,10 @@
 28.699821,
 -81.322369
 ],
+"200 agnes court #14|orlando|FL|32801": [
+28.532647,
+-81.375471
+],
 "200 agnes court|orlando|FL|32801": [
 28.533019,
 -81.375866
@@ -1545,11 +1565,23 @@
 28.574227,
 -81.306623
 ],
+"2111 gachet ct #108|orlando|FL|32807": [
+28.574227,
+-81.306623
+],
+"2115 bouquet ct #102|orlando|FL|32807": [
+28.572801,
+-81.304599
+],
 "2115 bouquet ct #106|orlando|FL|32807": [
 28.572801,
 -81.304599
 ],
 "2115 bouquet ct #108|orlando|FL|32807": [
+28.572801,
+-81.304599
+],
+"2115 bouquet ct #206|orlando|FL|32807": [
 28.572801,
 -81.304599
 ],
@@ -2902,7 +2934,15 @@
 28.589296,
 -81.288701
 ],
+"3440 n. goldenrod road unit # 421|winter park|FL|32792": [
+28.589296,
+-81.288701
+],
 "3440 n. goldenrod road unit # 531|winter park|FL|32792": [
+28.589296,
+-81.288701
+],
+"3440 n. goldenrod road unit # 618|winter park|FL|32792": [
 28.589296,
 -81.288701
 ],
@@ -3039,6 +3079,22 @@
 28.76558,
 -81.341254
 ],
+"3726 cleveland heights blvd unit 35|lakeland|FL|33803": [
+27.995342,
+-81.947856
+],
+"3726 cleveland heights blvd unit 41|lakeland|FL|33803": [
+27.995342,
+-81.947856
+],
+"3726 cleveland heights blvd unit 55|lakeland|FL|33803": [
+27.995342,
+-81.947856
+],
+"3726 cleveland heights blvd|lakeland|FL|33803": [
+27.994822,
+-81.948669
+],
 "3728 county line rd|lakeland|FL|33811": [
 27.997189,
 -82.055776
@@ -3064,6 +3120,14 @@
 -82.380106
 ],
 "3751 sw 20th avenue - unit 144|gainesville|FL|32607": [
+29.633325,
+-82.380106
+],
+"3751 sw 20th avenue - unit 151|gainesville|FL|32607": [
+29.633325,
+-82.380106
+],
+"3751 sw 20th avenue - unit 18|gainesville|FL|32607": [
 29.633325,
 -82.380106
 ],
@@ -3380,7 +3444,19 @@
 30.308233,
 -81.614899
 ],
+"4800 atlantic blvd unit d226|jacksonville|FL|32207": [
+30.308233,
+-81.614899
+],
 "4800 atlantic blvd unit f111|jacksonville|FL|32207": [
+30.308233,
+-81.614899
+],
+"4800 atlantic blvd unit f115|jacksonville|FL|32207": [
+30.308233,
+-81.614899
+],
+"4800 atlantic blvd unit h260|jacksonville|FL|32207": [
 30.308233,
 -81.614899
 ],
@@ -3481,6 +3557,10 @@
 -77.435153
 ],
 "500 maury st unit 411|richmond|VA|23224": [
+37.520955,
+-77.435153
+],
+"500 maury st unit 416|richmond|VA|23224": [
 37.520955,
 -77.435153
 ],
@@ -3652,6 +3732,10 @@
 27.891469,
 -82.526898
 ],
+"5009 s westshore blvd|tampa|FL|33611": [
+27.891469,
+-82.526898
+],
 "5026 falmouth dr|orlando|FL|32812": [
 28.482355,
 -81.310904
@@ -3671,6 +3755,10 @@
 "505 casa marina place|sanford|FL|32771": [
 28.802361,
 -81.245153
+],
+"5100 moose drive|sandston|VA|23150": [
+37.516878,
+-77.344377
 ],
 "5108 skyway ct.|sandston|VA|23150": [
 37.514235,
@@ -3765,6 +3853,10 @@
 -77.341545
 ],
 "5200 lewis road #73|sandston|VA|23150": [
+37.516393,
+-77.341545
+],
+"5200 lewis road #95|sandston|VA|23150": [
 37.516393,
 -77.341545
 ],
@@ -3888,6 +3980,10 @@
 28.504067,
 -81.316489
 ],
+"5334 lake margaret drive unit # 334 - 0608|orlando|FL|32812": [
+28.50386,
+-81.316126
+],
 "5342 lake margaret drive unit # 342 - 0503|orlando|FL|32812": [
 28.505321,
 -81.316959
@@ -3923,6 +4019,10 @@
 "5392 lake margaret drive unit # 392 - 0822|orlando|FL|32812": [
 28.503576,
 -81.314863
+],
+"5403 loma vista loop|davenport|FL|33896": [
+28.252472,
+-81.646093
 ],
 "5405 napoli cove|lake mary|FL|32746": [
 28.765195,
@@ -4379,6 +4479,10 @@
 28.824521,
 -81.61583
 ],
+"704 suncrest loop # 206|casselberry|FL|32707": [
+28.694348,
+-81.3215
+],
 "704 suncrest loop # 306|casselberry|FL|32707": [
 28.694351,
 -81.32148
@@ -4386,6 +4490,10 @@
 "704 suncrest loop # 310|casselberry|FL|32707": [
 28.694264,
 -81.321457
+],
+"708 suncrest loop # 202|casselberry|FL|32707": [
+28.693949,
+-81.321416
 ],
 "708 suncrest loop # 210|casselberry|FL|32707": [
 28.693743,

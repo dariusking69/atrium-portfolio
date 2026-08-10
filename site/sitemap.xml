@@ -189,9 +189,10 @@
   <url><loc>https://portfolio.meetatrium.com/communities/crossings-at-conway-orlando/crossings-at-conway-studio-1-bath-288-sqft/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/communities/cutshaw-apartments-richmond/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/communities/cutshaw-apartments-richmond/cutshaw-apartments-2-beds-2-baths-930-sqft/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
-  <url><loc>https://portfolio.meetatrium.com/communities/delaney-court-orlando/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
+  <url><loc>https://portfolio.meetatrium.com/communities/delaney-court-orlando/</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
   <url><loc>https://portfolio.meetatrium.com/communities/delaney-court-orlando/delaney-court-1-bed-1-bath-550-sqft/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/communities/delaney-court-orlando/delaney-court-2-beds-1-bath-900-sqft/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
+  <url><loc>https://portfolio.meetatrium.com/communities/delaney-court-orlando/delaney-court-unit-1-bath-900-sqft/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/communities/dharma-apartments-orlando/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/communities/dharma-apartments-orlando/dharma-apartments-1-bed-1-bath-700-sqft/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/communities/dharma-apartments-orlando/dharma-apartments-2-beds-1-bath-835-sqft/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
@@ -340,7 +341,7 @@
   <url><loc>https://portfolio.meetatrium.com/communities/royal-villas-titusville/</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
   <url><loc>https://portfolio.meetatrium.com/communities/royal-villas-titusville/royal-villas-3-beds-2-5-baths-1658-sqft/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/communities/royal-villas-titusville/royal-villas-4-beds-2-5-baths-1658-sqft/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
-  <url><loc>https://portfolio.meetatrium.com/communities/salisbury-apartments-deland/</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://portfolio.meetatrium.com/communities/salisbury-apartments-deland/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/communities/salisbury-apartments-deland/salisbury-apartments-1-bed-1-bath-600-sqft/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/communities/salisbury-apartments-deland/salisbury-apartments-1-bed-1-bath-750-sqft/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/communities/salisbury-apartments-deland/salisbury-apartments-2-beds-1-bath-800-sqft/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
@@ -378,6 +379,7 @@
   <url><loc>https://portfolio.meetatrium.com/communities/six-hundred-west-main-charlottesvlle/six-hundred-west-main-studio-1-bath-440-sqft/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/communities/six-hundred-west-main-charlottesvlle/six-hundred-west-main-studio-1-bath-459-sqft/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/communities/smith-and-main-winter-garden/</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://portfolio.meetatrium.com/communities/smith-and-main-winter-garden/smith-and-main-1-bed-1-bath-743-sqft/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/communities/smith-and-main-winter-garden/smith-and-main-1-bed-1-bath-772-sqft/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/communities/smith-and-main-winter-garden/smith-and-main-1-bed-1-bath-783-sqft/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/communities/smith-and-main-winter-garden/smith-and-main-1-bed-1-bath-787-sqft/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
@@ -524,6 +526,9 @@
   <url><loc>https://portfolio.meetatrium.com/communities/westshore-marina-flats-tampa/westshore-marina-flats-2-beds-1-bath-889-sqft/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/communities/wmur61-orlando/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/communities/wmur61-orlando/wmur61-1-bed-1-bath-590-sqft/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
+  <url><loc>https://portfolio.meetatrium.com/communities/woodland-heights-apartments-lakeland/</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://portfolio.meetatrium.com/communities/woodland-heights-apartments-lakeland/woodland-heights-apartments-2-beds-2-baths-844-sqft/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
+  <url><loc>https://portfolio.meetatrium.com/communities/woodland-heights-apartments-lakeland/woodland-heights-apartments-2-beds-2-baths-908-sqft/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/1-e-king-st-orlando/</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/100-bantry-dr-lake-mary/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/100-e-orlando-street-orlando/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
@@ -558,7 +563,7 @@
   <url><loc>https://portfolio.meetatrium.com/homes/104-sycamore-ct-sanford/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/1040-kelly-creek-cir-oviedo/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/10401-lavande-drive-orlando/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
-  <url><loc>https://portfolio.meetatrium.com/homes/10413-cresto-del-sol-cir-orlando/</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://portfolio.meetatrium.com/homes/10413-cresto-del-sol-cir-orlando/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/10414-andover-point-cir-orlando/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/10424-sun-villa-blvd-orlando/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/1043-hornbeam-st-oviedo/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
@@ -730,7 +735,7 @@
   <url><loc>https://portfolio.meetatrium.com/homes/1766-travertine-terrace-sanford/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/17777-crescent-moon-loop-lakewood-ranch/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/1780-carley-court-orlando/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
-  <url><loc>https://portfolio.meetatrium.com/homes/1782-carley-court-orlando/</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://portfolio.meetatrium.com/homes/1782-carley-court-orlando/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/17973-frame-bend-land-o-lakes/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/1810-nw-23rd-blvd-112-gainesville/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/1820-sunset-palm-drive-apopka/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
@@ -905,7 +910,7 @@
   <url><loc>https://portfolio.meetatrium.com/homes/3007-e-jefferson-street-orlando/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/3020-buckhanon-trail-deland/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/3028-parkway-blvd-apt-108-kissimmee/</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
-  <url><loc>https://portfolio.meetatrium.com/homes/3037-bonkirk-dr-deltona/</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://portfolio.meetatrium.com/homes/3037-bonkirk-dr-deltona/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/304-grand-valley-dr-lake-mary/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/3042-green-park-dr-deland/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/3062-green-park-dr-deland/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
@@ -1027,7 +1032,7 @@
   <url><loc>https://portfolio.meetatrium.com/homes/4830-tangerine-avenue-winter-park/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/4854-lark-drive-st-cloud/</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/4862-s-semoran-blvd-orlando/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
-  <url><loc>https://portfolio.meetatrium.com/homes/487-carrigan-ave-oviedo/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
+  <url><loc>https://portfolio.meetatrium.com/homes/487-carrigan-ave-oviedo/</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/4930-shoreline-cir-sanford/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/4940-san-marino-circle-lake-mary/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/497-cruz-bay-circle-winter-springs/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
@@ -1051,6 +1056,7 @@
   <url><loc>https://portfolio.meetatrium.com/homes/5347-drane-field-rd-lakeland/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/536-sunrise-dr-orlando/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/5361-river-rock-rd-lakeland/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
+  <url><loc>https://portfolio.meetatrium.com/homes/5403-loma-vista-loop-davenport/</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/5405-napoli-cove-lake-mary/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/5420-tessin-trl-saint-cloud/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/5435-via-appia-way-sanford/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
@@ -1104,7 +1110,7 @@
   <url><loc>https://portfolio.meetatrium.com/homes/6634-duncaster-st-windermere/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/674-sandy-neck-ln-204-altamonte-springs/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/686-roaring-drive-342-altamonte-springs/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
-  <url><loc>https://portfolio.meetatrium.com/homes/6875-broglie-st-orlando/</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://portfolio.meetatrium.com/homes/6875-broglie-st-orlando/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/695-youngstown-parkway-altamonte-springs/</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/7010-arcadian-ct-mount-dora/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/710-stanley-ave-wildwood/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
@@ -1188,7 +1194,7 @@
   <url><loc>https://portfolio.meetatrium.com/homes/919-pine-street-titusville/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/9313-tyrella-pine-trl-winter-garden/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/933-ponderosa-pine-ct-orlando/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
-  <url><loc>https://portfolio.meetatrium.com/homes/935-shriver-cir-lake-mary/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
+  <url><loc>https://portfolio.meetatrium.com/homes/935-shriver-cir-lake-mary/</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/952-12-courtyard-lane-orlando/</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/954-22-courtyard-lane-orlando/</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/954-forest-ridge-court-206-lake-mary/</loc><lastmod>2026-08-10</lastmod><priority>0.5</priority></url>
