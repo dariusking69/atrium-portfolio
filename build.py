@@ -876,7 +876,7 @@ def main():
     for cat, n in brand.most_common():
         print(f"      brand {cat:18} {n}   (banned price-first vocabulary removed)")
 
-    print("\n[5/5] Verify")
+    print("\n[5/6] Verify")
     sanity_check(records, feed_count=len(seed) if seed else None)
 
     print("\n[6/6] Render")

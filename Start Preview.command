@@ -1,63 +1,79 @@
 #!/bin/bash
 # ---------------------------------------------------------------------------
-# Double-click this file to open the Atrium Portfolio preview.
+# Double-click this file to open the Atrium previews.
 #
-# It starts a small web server on this Mac that serves the pages in the "site"
-# folder, then opens them in your browser. Nothing is published anywhere - this
-# only works on this computer.
+# It starts two small web servers on this Mac and opens your browser:
 #
-# To stop it: close the Terminal window that opens, or press Control + C.
+#   1. THE MERGED WIDGET - the listings map with the new Status filter
+#      (Available Now / Entire Portfolio / Leased Only) and the Portfolio
+#      filter (PG1-PG10 + the regional manager portfolios).
+#   2. THE PORTFOLIO PAGES - the per-property pages with the LEASED banners.
+#
+# Nothing is published anywhere - this only works on this computer.
+# To stop: close the Terminal window that opens, or press Control + C.
 # ---------------------------------------------------------------------------
 
 cd "$(dirname "$0")" || exit 1
+PARENT="$(cd .. && pwd)"     # the Work/Claude folder holding both projects
 
-if [ ! -d "site" ]; then
-  echo "Could not find the 'site' folder next to this file."
-  echo "Expected it here: $(pwd)/site"
+if [ ! -d "site" ] || [ ! -f "$PARENT/atrium-listings/widget.html" ]; then
+  echo "Could not find the preview folders."
+  echo "Expected: $(pwd)/site  and  $PARENT/atrium-listings/widget.html"
   echo ""
   echo "Press any key to close."
   read -n 1 -s
   exit 1
 fi
 
-# 8099 is the usual port. If something else is already using it (an old copy of
-# this preview that never shut down, say), step forward until we find a free one
-# rather than failing with an error nobody can act on.
-PORT=8099
-while lsof -i :$PORT >/dev/null 2>&1; do
-  PORT=$((PORT + 1))
-  if [ $PORT -gt 8120 ]; then
-    echo "Could not find a free port between 8099 and 8120."
-    echo "Restarting your Mac will clear this up."
-    echo ""
-    echo "Press any key to close."
-    read -n 1 -s
-    exit 1
-  fi
-done
+# Find two free ports rather than failing with an error nobody can act on.
+free_port() {
+  local p=$1
+  while lsof -i :$p >/dev/null 2>&1; do
+    p=$((p + 1))
+    [ $p -gt $(($1 + 20)) ] && echo "" && return
+  done
+  echo $p
+}
+WPORT=$(free_port 8097)      # widget (serves the parent folder, so the widget
+                             # can reach the portfolio data same-origin)
+PPORT=$(free_port 8099)      # portfolio pages (site/ as the web root, so the
+                             # pages' root-relative links keep working)
+if [ -z "$WPORT" ] || [ -z "$PPORT" ]; then
+  echo "Could not find free ports. Restarting your Mac will clear this up."
+  echo ""
+  echo "Press any key to close."
+  read -n 1 -s
+  exit 1
+fi
 
 PAGES=$(find site -name index.html | wc -l | tr -d ' ')
 
 echo ""
-echo "  ATRIUM PORTFOLIO - LOCAL PREVIEW"
-echo "  ---------------------------------------------------------"
-echo "  Serving $PAGES pages at:  http://localhost:$PORT"
+echo "  ATRIUM - LOCAL PREVIEWS"
+echo "  ------------------------------------------------------------------"
+echo "  THE MERGED WIDGET (start here):"
+echo "     http://localhost:$WPORT/atrium-listings/widget.html"
 echo ""
-echo "  Your browser should open in a moment."
-echo "  If it doesn't, type that address into it yourself."
+echo "     Try: switch the 'Available Now' dropdown to 'Entire Portfolio'"
+echo "     (gray pins = leased), then pick a portfolio - e.g. MF - Aaron Webb"
+echo "     and search Champions Village."
 echo ""
-echo "  Worth showing:"
-echo "    The map .............. http://localhost:$PORT/"
-echo "    A leased home ........ http://localhost:$PORT/homes/10414-andover-point-cir-orlando/"
-echo "    A community .......... http://localhost:$PORT/communities/coliseum-lofts-richmond/"
-echo "    An Orlando city page . http://localhost:$PORT/rentals/orlando-fl/"
+echo "  THE PORTFOLIO PAGES ($PAGES pages):"
+echo "     The map .............. http://localhost:$PPORT/"
+echo "     A leased home ........ http://localhost:$PPORT/homes/10414-andover-point-cir-orlando/"
+echo "     A community .......... http://localhost:$PPORT/communities/coliseum-lofts-richmond/"
+echo "     An Orlando city page . http://localhost:$PPORT/rentals/orlando-fl/"
 echo ""
 echo "  TO STOP: close this window, or press Control + C."
-echo "  ---------------------------------------------------------"
+echo "  ------------------------------------------------------------------"
 echo ""
 
-# Give the server a beat to bind the port before pointing the browser at it,
+# Give the servers a beat to bind before pointing the browser at them,
 # otherwise Safari can land on a connection error and needs a manual reload.
-( sleep 1.5; open "http://localhost:$PORT" ) &
+( sleep 1.5; open "http://localhost:$WPORT/atrium-listings/widget.html" ) &
 
-python3 -m http.server "$PORT" --directory site
+python3 -m http.server "$PPORT" --directory site >/dev/null 2>&1 &
+PSRV=$!
+trap 'kill $PSRV 2>/dev/null' EXIT
+
+python3 -m http.server "$WPORT" --directory "$PARENT"
