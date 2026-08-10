@@ -1,8 +1,12 @@
 # Raw AppFolio pulls: 75MB, re-fetched by build.py --refresh on every run.
 # geocode.json is the exception - it is the expensive-to-rebuild part and is
 # committed so a normal refresh geocodes nothing.
+# coord_overrides.json holds the hand-curated coordinates (Aston Square,
+# Valencia Isle - new builds no geocoder knows). If it is not committed, the
+# CI rebuild silently drops those pins.
 cache/*.json
 !cache/geocode.json
+!cache/coord_overrides.json
 __pycache__/
 .DS_Store
 .env

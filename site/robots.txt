@@ -1,3 +1,4 @@
-# INTERNAL PREVIEW - not for indexing.
 User-agent: *
-Disallow: /
+Allow: /
+
+Sitemap: https://portfolio.meetatrium.com/sitemap.xml

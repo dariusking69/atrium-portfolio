@@ -1,0 +1,23 @@
+{
+  "_README": [
+    "Manual lat/lng for properties no geocoder can resolve - typically new",
+    "developments whose streets are not in the US Census TIGER database or",
+    "OpenStreetMap yet. Checked BEFORE any geocoding, so an entry here always wins.",
+    "",
+    "To add one: open Google Maps, right-click the property, click the lat/lng at",
+    "the top of the menu (it copies), and paste it below as [latitude, longitude].",
+    "Key is the property Name exactly as it appears in AppFolio.",
+    "",
+    "RESOLVED 2026-08-10: both entries below filled from AppFolio's OWN live-feed",
+    "coordinates (centroid of the community's advertised units, spread < 0.1 mi) -",
+    "not hand-picked. Replace only if the community physically moves."
+  ],
+  "Aston Square Apartments": [
+    28.306081,
+    -81.386884
+  ],
+  "Valencia Isle": [
+    28.556161,
+    -81.264506
+  ]
+}
