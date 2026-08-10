@@ -1,0 +1,3 @@
+# INTERNAL PREVIEW - not for indexing.
+User-agent: *
+Disallow: /

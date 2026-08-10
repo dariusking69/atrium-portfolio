@@ -1,0 +1,66 @@
+name: Refresh portfolio
+
+# Availability flips when a unit leases or comes back on market, so the map and
+# the LEASED banners need to track AppFolio. Hourly is plenty: these pages are
+# an archive plus a status flag, not a live inventory feed (listings.meetatrium.com
+# is the live one, and it refreshes every 30 minutes).
+on:
+  schedule:
+    - cron: "23 * * * *"      # offset off the hour so we don't pile onto GitHub's peak
+  workflow_dispatch:
+
+# GITHUB_TOKEN defaults to READ. Without this the build runs fine and then the
+# push is silently denied - the exact failure that left the listings repo stale
+# for weeks. The repo also needs default_workflow_permissions=write.
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests certifi
+
+      # NOTE: build.py lives at the repo ROOT. Do not add working-directory or a
+      # cd - that is what broke the listings repo's refresh (every run failed with
+      # "No such file or directory" and nobody noticed because the job still
+      # reported green until the push step).
+      - name: Build
+        env:
+          DATABASE_CLIENT_ID: ${{ secrets.DATABASE_CLIENT_ID }}
+          DATABASE_CLIENT_SECRET: ${{ secrets.DATABASE_CLIENT_SECRET }}
+          DEVELOPER_ID: ${{ secrets.DEVELOPER_ID }}
+          PORTFOLIO_BASE_URL: ${{ vars.PORTFOLIO_BASE_URL || 'https://portfolio.meetatrium.com' }}
+        run: python3 build.py --refresh
+
+      # A HARD compliance finding means a description we are about to publish
+      # contains protected-class language. The build strips the sentence, so the
+      # page is safe either way - this just makes sure the count is visible in
+      # the run summary instead of buried in review/flagged.csv.
+      - name: Compliance summary
+        if: always()
+        run: |
+          if [ -f review/flagged.csv ]; then
+            HARD=$(grep -c '^HARD' review/flagged.csv || true)
+            echo "### Fair Housing review" >> $GITHUB_STEP_SUMMARY
+            echo "$HARD sentences removed from published copy." >> $GITHUB_STEP_SUMMARY
+            echo "See \`review/flagged.csv\`." >> $GITHUB_STEP_SUMMARY
+          fi
+
+      - name: Commit
+        run: |
+          git config user.name  "atrium-bot"
+          git config user.email "bot@atriummanagement.com"
+          git add -A site cache/geocode.json review || true
+          if git diff --staged --quiet; then
+            echo "no changes"
+          else
+            git commit -m "Refresh portfolio $(date -u +%FT%TZ)"
+            git push
+          fi

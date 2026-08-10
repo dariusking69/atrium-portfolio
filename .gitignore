@@ -1,0 +1,8 @@
+# Raw AppFolio pulls: 75MB, re-fetched by build.py --refresh on every run.
+# geocode.json is the exception - it is the expensive-to-rebuild part and is
+# committed so a normal refresh geocodes nothing.
+cache/*.json
+!cache/geocode.json
+__pycache__/
+.DS_Store
+.env

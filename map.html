@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<!--
+  ATRIUM PORTFOLIO MAP WIDGET  (Squarespace-friendly)
+  ---------------------------------------------------
+  Sibling of the residential listings widget (listings.meetatrium.com/widget.html).
+  Same chrome, same filter bar, same card grid - but this one shows the WHOLE
+  managed portfolio, not just what is available today. Leased properties are
+  first-class here: they are the reason the map exists.
+
+  Clicking any property opens its own page, which carries a LEASED banner and no
+  apply button when the unit is not available.
+
+  HOW TO EMBED IN SQUARESPACE
+  1. Host portfolio.json + the generated pages (see build.py) somewhere public.
+  2. Set DATA_URL / PAGE_BASE in the CONFIG block below.
+  3. Paste everything between WIDGET START and WIDGET END into a Squarespace
+     Code Block (Core plan or higher, "Display Source" OFF).
+
+  No API key required: the map is Leaflet + CARTO tiles. Set GOOGLE_MAPS_API_KEY
+  only if Atrium later decides to pay for Google Maps billing.
+-->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Our Portfolio — Atrium Management</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+</head>
+<body style="margin:0">
+
+<!-- WIDGET START -->
+<div id="apf-root">
+  <div class="apf-bar">
+    <input id="apf-q" class="apf-in" type="search" placeholder="Search by address, community, city, or ZIP…" autocomplete="off">
+    <select id="apf-status" class="apf-in">
+      <option value="">All Properties</option>
+      <option value="1">Available Now</option>
+      <option value="0">Leased</option>
+    </select>
+    <select id="apf-type" class="apf-in">
+      <option value="">All Types</option>
+      <option value="h">Homes</option>
+      <option value="c">Communities</option>
+    </select>
+    <select id="apf-beds" class="apf-in"><option value="">Beds</option><option value="0">Studio</option><option value="1">1+</option><option value="2">2+</option><option value="3">3+</option><option value="4">4+</option><option value="5">5+</option></select>
+    <select id="apf-city" class="apf-in"><option value="">City</option></select>
+    <select id="apf-sort" class="apf-in">
+      <option value="az">Name (A–Z)</option>
+      <option value="avail">Available First</option>
+      <option value="rent_desc">Rent (High to Low)</option>
+      <option value="rent_asc">Rent (Low to High)</option>
+    </select>
+    <button id="apf-reset" class="apf-reset" type="button">Reset</button>
+    <span id="apf-count" class="apf-count"></span>
+  </div>
+  <div class="apf-split">
+    <div class="apf-map-wrap"><div id="apf-map"></div>
+      <div class="apf-legend">
+        <span><i class="dot on"></i>Available</span>
+        <span><i class="dot off"></i>Leased</span>
+        <span id="apf-diag" style="display:none;color:#f13d3d"></span>
+      </div>
+    </div>
+    <div id="apf-grid" class="apf-grid"></div>
+  </div>
+  <div id="apf-empty" class="apf-empty" style="display:none">No properties match your filters.</div>
+</div>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
+#apf-root{--red:#f13d3d;--ink:#070707;--line:#e6e6e6;--btn:#070707;--muted:#666;
+  --font:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family:var(--font);color:var(--ink);
+  max-width:1320px;margin:0 auto;padding:8px 16px 40px;box-sizing:border-box;-webkit-font-smoothing:antialiased}
+#apf-root *{box-sizing:border-box}
+#apf-root a{text-decoration:none;color:inherit}
+
+/* filter bar — identical geometry to the listings widget */
+.apf-bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding:14px 4px;
+  border-bottom:1px solid var(--line);margin-bottom:14px}
+.apf-in{font:inherit;font-size:14px;color:var(--ink);background:#fff;border:1px solid var(--line);
+  border-radius:8px;padding:9px 12px;outline:none;height:38px}
+.apf-in:focus{border-color:var(--red);box-shadow:0 0 0 3px rgba(241,61,61,.15)}
+#apf-q{flex:1 1 200px;min-width:160px}
+select.apf-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-right:28px;
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='10' fill='none' stroke='%23666' stroke-width='2'><path d='M1 3l4 4 4-4'/></svg>");
+  background-repeat:no-repeat;background-position:right 10px center}
+.apf-reset{font:inherit;font-size:13px;font-weight:600;color:var(--red);background:none;border:0;
+  cursor:pointer;padding:8px}
+.apf-count{font-size:13px;color:var(--muted);margin-left:auto}
+
+/* two-pane */
+.apf-split{display:flex;gap:18px;align-items:flex-start}
+.apf-map-wrap{flex:0 0 44%;position:sticky;top:12px;align-self:flex-start}
+#apf-map{height:calc(100vh - 90px);min-height:520px;border-radius:12px;overflow:hidden;
+  background:#e9edf0;border:1px solid var(--line)}
+.apf-legend{position:absolute;left:12px;bottom:12px;background:rgba(255,255,255,.95);
+  border:1px solid var(--line);border-radius:8px;padding:8px 11px;display:flex;gap:14px;
+  font-size:12px;font-weight:600;z-index:500;box-shadow:0 4px 14px -8px rgba(0,0,0,.4)}
+.apf-legend span{display:inline-flex;align-items:center;gap:6px}
+.apf-legend .dot{width:10px;height:10px;border-radius:50%;display:inline-block}
+.apf-legend .dot.on{background:#ea4335}
+.apf-legend .dot.off{background:#8d8d8d}
+.apf-grid{flex:1 1 0;display:grid;grid-template-columns:repeat(auto-fill,minmax(232px,1fr));
+  gap:16px;min-width:0}
+
+/* card — matches the listings widget card exactly */
+.apf-card{background:#fff;border-radius:10px;overflow:hidden;display:flex;flex-direction:column;
+  border:1px solid var(--line);transition:box-shadow .16s,transform .16s;
+  opacity:0;transform:translateY(10px);animation:apfIn .42s cubic-bezier(.2,.7,.3,1) forwards}
+@keyframes apfIn{to{opacity:1;transform:none}}
+.apf-card:hover{box-shadow:0 14px 34px -18px rgba(7,7,7,.4);transform:translateY(-2px)}
+.apf-card.apf-hl{box-shadow:0 0 0 2px var(--red),0 14px 34px -18px rgba(7,7,7,.4)}
+.apf-media{position:relative;display:block;aspect-ratio:4/3;background:#eceff3;overflow:hidden}
+.apf-media img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;
+  transition:opacity .35s,transform .5s cubic-bezier(.2,.7,.3,1)}
+.apf-media img.on{opacity:1}
+.apf-card:hover .apf-media img.on{transform:scale(1.05)}
+/* leased cards read as archive, not inventory — desaturated until hover */
+.apf-card.off .apf-media img{filter:saturate(.35) brightness(.94)}
+.apf-card.off:hover .apf-media img{filter:none}
+.apf-badge{position:absolute;bottom:0;left:0;background:rgba(255,255,255,.88);color:var(--ink);
+  font-size:14px;font-weight:600;padding:7px 12px;line-height:1}
+.apf-stat{position:absolute;top:10px;right:10px;font-size:10.5px;font-weight:700;
+  text-transform:uppercase;letter-spacing:1.3px;padding:5px 9px;border-radius:3px}
+.apf-stat.on{background:var(--red);color:#fff}
+.apf-stat.off{background:var(--ink);color:#fff}
+.apf-body{display:block;padding:13px 14px 6px}
+.apf-title{font-size:15.5px;font-weight:700;line-height:1.25;margin-bottom:6px;
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:38px}
+.apf-addr{font-size:13px;color:var(--muted);font-weight:600;margin-bottom:9px}
+.apf-specs{display:flex;gap:13px;align-items:center;font-size:13px;color:#222;padding:0 14px 12px}
+.apf-specs span{display:inline-flex;align-items:center;gap:5px;white-space:nowrap}
+.apf-specs svg{width:16px;height:16px;flex:none}
+.apf-act{margin-top:auto;text-align:center;padding:11px 8px;font-size:14px;letter-spacing:1px;
+  text-transform:uppercase;background:var(--btn);color:#fff;transition:background .2s}
+#apf-root a.apf-card:hover .apf-act{background:var(--red)}
+.apf-empty{text-align:center;padding:60px 20px;color:var(--muted)}
+
+/* map pins + clusters */
+#apf-map .leaflet-div-icon{background:transparent;border:0}
+#apf-map .apf-pin{filter:drop-shadow(0 1px 1px rgba(0,0,0,.32));transition:transform .18s}
+#apf-map .apf-pin:hover{transform:scale(1.14)}
+.apf-cluster{display:flex;align-items:center;justify-content:center;border-radius:50%;
+  color:#fff;font-weight:700;font-family:var(--font);border:2.5px solid #fff;
+  box-shadow:0 2px 8px -2px rgba(0,0,0,.45);transition:transform .18s}
+.apf-cluster:hover{transform:scale(1.1)}
+.apf-pop{width:196px;font-family:var(--font)}
+.apf-pop img{width:100%;height:106px;object-fit:cover;border-radius:6px;display:block;margin-bottom:7px}
+.apf-pop .pn{font-weight:700;font-size:13.5px;line-height:1.3}
+.apf-pop .pa{font-size:12px;color:#555;margin:2px 0 6px}
+.apf-pop .pl{display:inline-block;font-size:10px;font-weight:700;text-transform:uppercase;
+  letter-spacing:1.1px;padding:3px 7px;border-radius:3px;margin-bottom:6px}
+.apf-pop .pl.on{background:var(--red);color:#fff}
+.apf-pop .pl.off{background:var(--ink);color:#fff}
+.apf-pop a.go{color:var(--red);font-weight:700;font-size:12px;text-transform:uppercase;letter-spacing:.6px}
+.leaflet-popup-content{margin:10px}
+
+@media(max-width:900px){
+  .apf-split{flex-direction:column}
+  .apf-map-wrap{position:relative;top:0;flex:none;width:100%}
+  #apf-map{height:320px;min-height:0}
+  .apf-grid{width:100%;grid-template-columns:repeat(auto-fill,minmax(170px,1fr))}
+}
+@media (prefers-reduced-motion:reduce){
+  .apf-card{animation:none;opacity:1;transform:none}
+  .apf-card:hover,.apf-media img,.apf-pin,.apf-cluster{transition:none;transform:none}
+}
+</style>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+(function(){
+  // ================= CONFIG =================
+  var CONFIG = {
+    DATA_URL:  'portfolio.json',   // built by build.py
+    PAGE_BASE: '',                 // '' = same origin. Set to https://meetatrium.com
+                                   // once the Cloudflare Worker serves /homes/* there.
+    MAX_CARDS: 180                 // cards rendered at once; the map still shows everything
+  };
+  // ==========================================
+
+  var $ = function(s){ return document.querySelector(s); };
+  var DATA = [], VIEW = [], MAP = null, LAYER = null, BY_ID = {};
+
+  var ICONS = {
+    bed:'<svg viewBox="0 0 24 24" fill="none" stroke="#f13d3d" stroke-width="1.8"><path d="M2 17v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5M2 17h20M2 17v3M22 17v3M6 10V7a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v3"/></svg>',
+    bath:'<svg viewBox="0 0 24 24" fill="none" stroke="#f13d3d" stroke-width="1.8"><path d="M3 12h18v3a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4v-3zM6 12V6a2 2 0 0 1 2-2 2 2 0 0 1 2 2"/></svg>',
+    area:'<svg viewBox="0 0 24 24" fill="none" stroke="#f13d3d" stroke-width="1.8"><path d="M3 3h18v18H3zM9 3v18M3 9h18"/></svg>',
+    unit:'<svg viewBox="0 0 24 24" fill="none" stroke="#f13d3d" stroke-width="1.8"><path d="M3 21h18M5 21V7l7-4 7 4v14M9 21v-5h6v5"/></svg>'
+  };
+
+  function esc(s){
+    return String(s==null?'':s).replace(/[&<>"]/g,function(c){
+      return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; });
+  }
+  function money(v){ return (v==null||v<=0)?null:'$'+Math.round(v).toLocaleString(); }
+  function priceLabel(p){
+    if(p.k==='c' && p.r && p.rmax && p.rmax>p.r) return money(p.r)+'–'+money(p.rmax);
+    return money(p.r) || (p.a ? 'Contact for price' : 'Not advertised');
+  }
+  function specText(p){
+    var out=[];
+    if(p.k==='c'){ if(p.u) out.push(p.u+' units'); }
+    else {
+      if(p.bd!=null) out.push(p.bd===0?'Studio':p.bd+' bd');
+      if(p.ba) out.push((+p.ba)+' ba');
+      if(p.sf) out.push(p.sf.toLocaleString()+' sqft');
+    }
+    return out;
+  }
+
+  // ---------------- load ----------------
+  fetch(CONFIG.DATA_URL).then(function(r){ return r.json(); }).then(function(rows){
+    DATA = rows || [];
+    DATA.forEach(function(p){ BY_ID[p.id] = p; });
+    buildCityOptions();
+    initMap();
+    wire();
+    apply();
+  }).catch(function(e){
+    $('#apf-grid').innerHTML =
+      '<p style="color:#666">Could not load the portfolio. Please refresh.</p>';
+    if (window.console) console.error('portfolio load failed', e);
+  });
+
+  function buildCityOptions(){
+    var seen = {};
+    DATA.forEach(function(p){ if(p.c) seen[p.c] = 1; });
+    var sel = $('#apf-city');
+    Object.keys(seen).sort().forEach(function(c){
+      var o = document.createElement('option'); o.value = c; o.textContent = c; sel.appendChild(o);
+    });
+  }
+
+  // ---------------- filtering ----------------
+  function apply(){
+    var q  = $('#apf-q').value.trim().toLowerCase();
+    var st = $('#apf-status').value, ty = $('#apf-type').value;
+    var bd = $('#apf-beds').value,   ci = $('#apf-city').value;
+
+    VIEW = DATA.filter(function(p){
+      if(st !== '' && String(p.a) !== st) return false;
+      if(ty && p.k !== ty) return false;
+      if(ci && p.c !== ci) return false;
+      if(bd !== '' && !(p.bd != null && p.bd >= +bd)) return false;
+      if(q){
+        var hay = (p.n+' '+p.s+' '+p.c+' '+p.st+' '+p.z).toLowerCase();
+        if(hay.indexOf(q) < 0) return false;
+      }
+      return true;
+    });
+
+    var s = $('#apf-sort').value;
+    VIEW.sort(function(a,b){
+      if(s === 'avail' && a.a !== b.a) return b.a - a.a;
+      if(s === 'rent_desc') return (b.r||0) - (a.r||0);
+      if(s === 'rent_asc')  return (a.r||Infinity) - (b.r||Infinity);
+      return String(a.n).localeCompare(String(b.n));
+    });
+
+    var nAvail = VIEW.filter(function(p){ return p.a; }).length;
+    $('#apf-count').textContent =
+      VIEW.length.toLocaleString() + ' propert' + (VIEW.length===1?'y':'ies') +
+      ' · ' + nAvail.toLocaleString() + ' available';
+    $('#apf-empty').style.display = VIEW.length ? 'none' : 'block';
+
+    renderCards();
+    ensureFit();
+    renderPins();
+  }
+
+  // ---------------- cards ----------------
+  function renderCards(){
+    var g = $('#apf-grid');
+    g.innerHTML = '';
+    var frag = document.createDocumentFragment();
+    VIEW.slice(0, CONFIG.MAX_CARDS).forEach(function(p, i){
+      var a = document.createElement('a');
+      a.className = 'apf-card' + (p.a ? '' : ' off');
+      a.href = CONFIG.PAGE_BASE + p.url;
+      a.setAttribute('data-id', p.id);
+      a.style.animationDelay = Math.min(i*18, 380) + 'ms';
+
+      var specs = specText(p).map(function(t){
+        var ic = /sqft/.test(t) ? ICONS.area : /units/.test(t) ? ICONS.unit
+               : /ba$/.test(t) ? ICONS.bath : ICONS.bed;
+        return '<span>'+ic+esc(t)+'</span>';
+      }).join('');
+
+      a.innerHTML =
+        '<div class="apf-media">' +
+          (p.p ? '<img alt="'+esc(p.n)+'" data-src="'+esc(p.p)+'">' : '') +
+          '<span class="apf-stat '+(p.a?'on':'off')+'">'+(p.a?'Available':'Leased')+'</span>' +
+          '<span class="apf-badge">'+esc(priceLabel(p))+'</span>' +
+        '</div>' +
+        '<div class="apf-body">' +
+          '<div class="apf-title">'+esc(p.n)+'</div>' +
+          '<div class="apf-addr">'+esc(p.s)+', '+esc(p.c)+' '+esc(p.st)+'</div>' +
+        '</div>' +
+        '<div class="apf-specs">'+specs+'</div>' +
+        '<div class="apf-act">View Property</div>';
+
+      a.addEventListener('mouseenter', function(){ focusPin(p.id); });
+      frag.appendChild(a);
+    });
+    g.appendChild(frag);
+    lazyImages();
+  }
+
+  // Images load as they approach the viewport. With ~980 properties, eagerly
+  // loading every thumbnail would pull tens of MB on first paint.
+  function lazyImages(){
+    var imgs = document.querySelectorAll('.apf-media img[data-src]');
+    var io = new IntersectionObserver(function(entries){
+      entries.forEach(function(en){
+        if(!en.isIntersecting) return;
+        var im = en.target;
+        im.src = im.getAttribute('data-src');
+        im.removeAttribute('data-src');
+        im.onload = function(){ im.classList.add('on'); };
+        io.unobserve(im);
+      });
+    }, {rootMargin:'250px'});
+    imgs.forEach(function(im){ io.observe(im); });
+  }
+
+  // ---------------- map ----------------
+  function initMap(){
+    MAP = L.map('apf-map', {scrollWheelZoom:false, preferCanvas:true})
+           .setView([28.54, -81.38], 9);
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+      attribution:'&copy; OpenStreetMap &copy; CARTO', subdomains:'abcd', maxZoom:19
+    }).addTo(MAP);
+    LAYER = L.layerGroup().addTo(MAP);
+    MAP.on('zoomend moveend', renderPins);
+    watchSize();
+  }
+
+  /*
+   * Leaflet caches the container size. This pane is a sticky flex child, so at
+   * map-construction time it measures 0 wide - and Leaflet keeps that 0 until
+   * something calls invalidateSize() again.
+   *
+   * Two failures fall out of a zero width, and we hit both:
+   *   - getBounds() returns west === east, so EVERY pin tests as out of view
+   *     and the map renders empty.
+   *   - fitBounds() computes an impossible zoom, clamps to maxZoom, and centres
+   *     on the portfolio centroid - a field in South Carolina, since Atrium
+   *     spans Florida to Virginia.
+   *
+   * A setTimeout is a guess about when layout settles. Observe the element
+   * instead: this also covers late webfonts, responsive breakpoints, and the
+   * Squarespace iframe being resized by the host page.
+   */
+  // Debug readout painted INTO the page (?apfdebug=1). The page's own scripts
+  // measure in the real rendering context, which an external eval may not share.
+  var DEBUG = /[?&]apfdebug=1/.test(location.search);
+  function diag(msg){
+    if(!DEBUG) return;
+    var el = document.getElementById('apf-diag');
+    if(!el) return;
+    el.style.display = 'inline-flex';
+    el.textContent = msg + ' | size=' + (MAP ? MAP.getSize().x + 'x' + MAP.getSize().y : '-') +
+                     ' z=' + (MAP ? MAP.getZoom() : '-') +
+                     ' pins=' + document.querySelectorAll('#apf-map .apf-pin').length +
+                     ' cl=' + document.querySelectorAll('#apf-map .apf-cluster').length;
+  }
+
+  var FITTED = false, LAST_W = 0;
+
+  // A collapsed pane is not 0 wide - it is 2px, the left and right borders.
+  // Testing truthiness lets that through, we fit against a 2px viewport, and
+  // the map latches onto the bad view forever. Demand a credible width.
+  var MIN_USABLE = 120;
+
+  function sizeSync(){
+    var el = document.getElementById('apf-map');
+    var w = el.clientWidth, h = el.clientHeight;
+    diag('w=' + w + ' h=' + h);
+    if(w < MIN_USABLE || h < MIN_USABLE) return;        // not laid out yet
+    MAP.invalidateSize({animate:false});
+    // If the pane was previously narrow and has now genuinely opened up, the
+    // earlier fit was computed against the wrong viewport - redo it.
+    var grew = LAST_W && Math.abs(w - LAST_W) / LAST_W > 0.25;
+    LAST_W = w;
+    if((!FITTED || grew) && VIEW.length){ FITTED = true; fitAll(); }
+    else renderPins();
+  }
+
+  function watchSize(){
+    var el = document.getElementById('apf-map');
+    if(typeof ResizeObserver === 'function') new ResizeObserver(sizeSync).observe(el);
+    window.addEventListener('load', sizeSync);
+    setTimeout(sizeSync, 400);                          // last-resort backstop
+  }
+
+  // Called once data exists, in case the element never changes size again.
+  function ensureFit(){ if(!FITTED) sizeSync(); }
+
+  function fitAll(){
+    var pts = VIEW.filter(function(p){ return p.lat && p.lng; })
+                  .map(function(p){ return [p.lat, p.lng]; });
+    if(!pts.length) return;
+    MAP.invalidateSize({animate:false});
+    // maxZoom only guards the single-result case; with a correctly sized
+    // container the portfolio-wide fit lands around zoom 6 on its own.
+    MAP.fitBounds(L.latLngBounds(pts), {padding:[28,28], maxZoom:14});
+  }
+
+  function pinSvg(available){
+    var fill = available ? '#ea4335' : '#8d8d8d';
+    return '<svg class="apf-pin" xmlns="http://www.w3.org/2000/svg" width="24" height="35" viewBox="0 0 26 38">' +
+           '<path d="M13 0C5.8 0 0 5.8 0 13c0 9.2 13 25 13 25s13-15.8 13-25C26 5.8 20.2 0 13 0z" fill="'+fill+'"/>' +
+           '<circle cx="13" cy="13" r="5" fill="#fff"/></svg>';
+  }
+
+  // Grid clustering. ~980 pins is too many for Leaflet to draw individually at
+  // low zoom, and markercluster would mean another CDN dependency inside a
+  // Squarespace block. Bucketing by screen-space cells keeps it dependency-free.
+  function clusterCells(points){
+    var CELL = 58, cells = {};
+    points.forEach(function(p){
+      var pt = MAP.latLngToContainerPoint([p.lat, p.lng]);
+      var k = Math.floor(pt.x/CELL) + ':' + Math.floor(pt.y/CELL);
+      (cells[k] = cells[k] || []).push(p);
+    });
+    return cells;
+  }
+
+  function renderPins(){
+    if(!MAP) return;
+    LAYER.clearLayers();
+    var pts = VIEW.filter(function(p){ return p.lat && p.lng; });
+    var bounds = MAP.getBounds().pad(0.25);
+    var vis = pts.filter(function(p){ return bounds.contains([p.lat, p.lng]); });
+    var cells = clusterCells(vis);
+
+    Object.keys(cells).forEach(function(k){
+      var group = cells[k];
+      if(group.length === 1){
+        var p = group[0];
+        L.marker([p.lat, p.lng], {
+          icon: L.divIcon({html:pinSvg(p.a), iconSize:[24,35], iconAnchor:[12,35], className:''}),
+          title: p.n
+        }).bindPopup(popHtml(p)).addTo(LAYER);
+        return;
+      }
+      // cluster bubble, sized by count, red if anything inside is available
+      var lat = 0, lng = 0, anyAvail = false;
+      group.forEach(function(p){ lat += p.lat; lng += p.lng; if(p.a) anyAvail = true; });
+      var n = group.length;
+      var size = n < 10 ? 32 : n < 50 ? 40 : n < 200 ? 48 : 56;
+      var bg = anyAvail ? '#ea4335' : '#6f6f6f';
+      L.marker([lat/n, lng/n], {
+        icon: L.divIcon({
+          className:'',
+          html:'<div class="apf-cluster" style="width:'+size+'px;height:'+size+'px;background:'+bg+
+               ';font-size:'+(n>999?11:13)+'px">'+n+'</div>',
+          iconSize:[size,size], iconAnchor:[size/2,size/2]
+        })
+      }).on('click', function(){
+        MAP.flyToBounds(L.latLngBounds(group.map(function(p){ return [p.lat,p.lng]; })),
+                        {padding:[40,40], maxZoom:16});
+      }).addTo(LAYER);
+    });
+    diag('rendered');
+  }
+
+  function popHtml(p){
+    var specs = specText(p).join(' · ');
+    return '<div class="apf-pop">' +
+      (p.p ? '<img src="'+esc(p.p)+'" alt="'+esc(p.n)+'">' : '') +
+      '<span class="pl '+(p.a?'on':'off')+'">'+(p.a?'Available':'Leased')+'</span>' +
+      '<div class="pn">'+esc(p.n)+'</div>' +
+      '<div class="pa">'+esc(p.s)+', '+esc(p.c)+'<br>'+esc(specs)+'</div>' +
+      '<a class="go" href="'+CONFIG.PAGE_BASE+esc(p.url)+'">View property &rarr;</a></div>';
+  }
+
+  function focusPin(id){
+    var p = BY_ID[id];
+    if(!p || !p.lat || !MAP) return;
+    document.querySelectorAll('.apf-card.apf-hl').forEach(function(c){ c.classList.remove('apf-hl'); });
+    var card = document.querySelector('.apf-card[data-id="'+id+'"]');
+    if(card) card.classList.add('apf-hl');
+  }
+
+  // ---------------- wiring ----------------
+  function wire(){
+    var t = null;
+    $('#apf-q').addEventListener('input', function(){
+      clearTimeout(t); t = setTimeout(apply, 180);
+    });
+    ['#apf-status','#apf-type','#apf-beds','#apf-city','#apf-sort'].forEach(function(sel){
+      $(sel).addEventListener('change', function(){ apply(); fitAll(); });
+    });
+    $('#apf-reset').addEventListener('click', function(){
+      ['#apf-q','#apf-status','#apf-type','#apf-beds','#apf-city'].forEach(function(s){ $(s).value=''; });
+      $('#apf-sort').value = 'az';
+      apply(); fitAll();
+    });
+    window.addEventListener('resize', function(){ clearTimeout(t); t = setTimeout(renderPins, 200); });
+  }
+
+  // Diagnostic handle. Opt-in via ?apfdebug=1 so it is never present in the
+  // Squarespace embed, but available when something needs measuring on a live page.
+  if (/[?&]apfdebug=1/.test(location.search)) {
+    window.__APF = {
+      map: function(){ return MAP; },
+      view: function(){ return VIEW; },
+      data: function(){ return DATA; },
+      render: function(){ return renderPins(); },
+      fit: function(){ return fitAll(); }
+    };
+  }
+})();
+</script>
+<!-- WIDGET END -->
+
+</body>
+</html>
