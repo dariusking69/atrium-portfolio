@@ -417,7 +417,7 @@ HARD,school_steering,870 Farrington Drive,Deltona,1b2cbbfc-a479-4926-8f76-67c15e
 HARD,school_steering,8732 Dufferin Lane,Orlando,6b714667-a8ae-45f8-b3d5-64dd1323bced,,"Zoned for Sun Blaze Elementary School, Lake Nona Middle School and Lake Nona High School."
 HARD,school_steering,903 Charo Pkwy Unit 836,Davenport,42af0650-4859-4262-adf6-c0804dcc4744,,Nearby Schools: Elementary & Middle - Citrus Ridge: A Civics Academy Ridge Community High School
 HARD,school_steering,905 Pickfair Ter,Lake Mary,3201dc41-dde4-49fd-aaea-a1bd3d540128,,"Zoned for Region 2 Elementary Schools, Millennium Middle School, and Seminole High School."
-HARD,school_steering,911 N Orange Avenue Apartment Unit #112,Orlando,e83c8e5f-b0c5-4ba3-90a5-ffa3d90827d4,,"Zoned Schools: Princeton Elementary, College Park Middle, and Edgewater High School."
+HARD,school_steering,911 N Orange Avenue APT 112,Orlando,e83c8e5f-b0c5-4ba3-90a5-ffa3d90827d4,,"Zoned Schools: Princeton Elementary, College Park Middle, and Edgewater High School."
 HARD,school_steering,912 Covington Ct,Rockledge,9433cead-bce6-4b6a-abd7-379b34495bdd,,Zoned for Elementary: Andersen Middle: Kennedy High: Rockledge.
 HARD,school_steering,9137 Grand Island Way,Winter Garden,6cc60408-c803-4cc2-9447-e57fd38e607a,,"Located just minutes from shopping, dining, parks, top-rated schools, and all that Winter Garden has to offer, this home combines modern comfort with an unbeatable location."
 HARD,school_steering,915 Pine Street,Titusville,12dfa3c3-61e1-4d8b-8544-c20fecfa33a5,,"Zoned for Mims Elementary School, and Astronaut High School."
@@ -544,7 +544,7 @@ SOFT,phone,The Carl,Orlando,87b87792-57f8-441e-808a-87c2ae151eb8,,"To arrange a 
 SOFT,phone,The Grande @ Gainesville,Gainesville,335d4e0c-c7dc-4085-aaf4-9a4f974e6c6e,,352-462-4414
 SOFT,phone,The Lofts at Concord,Orlando,a15e72c2-5fc0-4131-8e9d-a13e2ebde2e6,,"Professionally Managed by Atrium Management, call 407-585-2721 today to set up your private showing."
 SOFT,phone,The Roberson,Orlando,74d9c1b9-f564-4598-8309-26d669260010,,Contact Atrium Management 407-585-2721 for showings.
-SOFT,phone,Valencia Isle,Orlando,303a3fa9-57fa-445d-9500-6ed854083354,,For more information contact our leasing team at (407) 250-9302.
+SOFT,phone,Valencia Isle,Orlando,8a758445-2e51-41c1-ab7a-ca4ff7a3d1f1,,For more information contact our leasing team at (407) 250-9302.
 SOFT,phone,Woodland Heights Apartments,Lakeland,1ba84890-e31f-4ca0-aecf-93ef1ac0546b,,"Contact Atrium Management today for more details and to schedule your personal tour, 407-585-2721!"
 SOFT,phone,Woodland Heights Apartments,Lakeland,af8f9927-94c3-4ef8-8509-b958a7f881f4,,"Contact Atrium Management today for more details and to schedule your personal tour, 407-585-2721!"
 SOFT,phone+email,12805 Avelar Manor Pl,Riverview,ee8f5d07-9c5d-47de-aa66-41905040b45a,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
@@ -1050,7 +1050,7 @@ SOFT,phone+stale_claim,8940 Azalea Sands Ln,Davenport,5941ef93-4d5e-4eef-9031-de
 SOFT,phone+stale_claim,905 Pickfair Ter,Lake Mary,3201dc41-dde4-49fd-aaea-a1bd3d540128,,"Call or email today, to set up an appointment to see this beautiful home 407-585-2721."
 SOFT,phone+stale_claim,9055 Shawn Park Place,Orlando,bcc0d191-35f7-4aba-9090-9ec46b291c06,,Please call 407-585-2721 to schedule your private showing!
 SOFT,phone+stale_claim,9100 Martin Luther King St N Unit 606,Saint Petersburg,5e84ed23-4027-4061-9552-e7c34522b7a4,,Call 813-553-3444 or 813-787-4477 to schedule a viewing!!!
-SOFT,phone+stale_claim,911 N Orange Avenue Apartment Unit #112,Orlando,e83c8e5f-b0c5-4ba3-90a5-ffa3d90827d4,,Call 407-585-2721 today to schedule your private showing — this one is a must-see!
+SOFT,phone+stale_claim,911 N Orange Avenue APT 112,Orlando,e83c8e5f-b0c5-4ba3-90a5-ffa3d90827d4,,Call 407-585-2721 today to schedule your private showing — this one is a must-see!
 SOFT,phone+stale_claim,912 Covington Ct,Rockledge,9433cead-bce6-4b6a-abd7-379b34495bdd,,"Professionally managed by Atrium Management Company, please call 321-779-7785 to schedule your in person showing."
 SOFT,phone+stale_claim,913 New Bedford Drive,Deland,a80777c0-4edd-4695-ab10-45102dd2bd78,,Call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,915 Pine Street,Titusville,12dfa3c3-61e1-4d8b-8544-c20fecfa33a5,,Please call or text 321-549.0284 to schedule your private showing!
