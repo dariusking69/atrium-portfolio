@@ -525,7 +525,6 @@ SOFT,phone,8503 N Semmes St Unit B,Tampa,503741ed-3ca9-49a2-8fee-1a1c4b50522d,,8
 SOFT,phone,913 New Bedford Drive,Deland,a80777c0-4edd-4695-ab10-45102dd2bd78,,(407) 585-2721.
 SOFT,phone,9137 Grand Island Way,Winter Garden,6cc60408-c803-4cc2-9447-e57fd38e607a,,407-585-2721
 SOFT,phone,CIRC7,Melbourne,78808bf5-0214-41a2-8daf-dd0ecac4df43,,Professionally managed by Atrium Management Company — call (407) 585-2721   to schedule your in-person showing.
-SOFT,phone,Centerpoint Apartments,Gainesville,2d5d3fd7-97b2-4c4a-a94d-0b11154c57f5,,Gladys Weeks Leasing Coordinator | Atrium Management 352-462-4414
 SOFT,phone,Champions Chase,Davenport,7d7af5fb-b147-49d1-b4a1-863058bf39b6,,For more information contact our leasing team at (407) 243-8382.
 SOFT,phone,Champions Chase,Davenport,aced2fde-08bd-4bd9-b52f-9012b9624ef3,,For more information contact our leasing team at (407) 243-8382.
 SOFT,phone,Champions Chase,Davenport,3573dd6d-60b9-4025-919d-c539765cb04e,,For more information contact our leasing team at (407) 243-8382.
@@ -541,7 +540,6 @@ SOFT,phone,Seminole Ave,Tampa,fcdf6263-0c6a-470a-be32-405f8f7d653d,,"Professiona
 SOFT,phone,Seminole Ave,Tampa,b70350d8-f2fd-40e7-8728-b9409560c6d1,,"Professionally managed by Atrium Management, 813-553-3444 today for a private showing."
 SOFT,phone,Stetson Apartments,Deland,7f53f9c7-a442-40ee-9e13-a54490ca571b,,"To arrange your exclusive viewing, please contact us at 407-585-2721."
 SOFT,phone,The Carl,Orlando,87b87792-57f8-441e-808a-87c2ae151eb8,,"To arrange a personal tour, please dial 407-585-2721."
-SOFT,phone,The Grande @ Gainesville,Gainesville,335d4e0c-c7dc-4085-aaf4-9a4f974e6c6e,,352-462-4414
 SOFT,phone,The Lofts at Concord,Orlando,a15e72c2-5fc0-4131-8e9d-a13e2ebde2e6,,"Professionally Managed by Atrium Management, call 407-585-2721 today to set up your private showing."
 SOFT,phone,The Roberson,Orlando,74d9c1b9-f564-4598-8309-26d669260010,,Contact Atrium Management 407-585-2721 for showings.
 SOFT,phone,Valencia Isle,Orlando,8a758445-2e51-41c1-ab7a-ca4ff7a3d1f1,,For more information contact our leasing team at (407) 250-9302.
@@ -1101,6 +1099,7 @@ SOFT,phone+stale_claim,Royal Villas,Titusville,cb2dcda9-86b3-4425-8e91-4c4fe5ae4
 SOFT,phone+stale_claim,Salisbury Apartments,Deland,3a3648af-71c6-4987-a071-857c5b86f390,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,Stetson Apartments,Deland,65cf158d-8406-47de-b0a4-16f8e79c9350,,Contact us at 407-585-2721 to schedule your tour.
 SOFT,phone+stale_claim,The Grande @ Gainesville,Gainesville,c5a0edfb-998b-4946-96a6-215862e38c78,,call today to schedule a private showing 352-462-4414
+SOFT,phone+stale_claim,The Grande @ Gainesville,Gainesville,cc3a93ae-8467-4978-9ebf-f5abd420f9f8,,"This property is professionally leased and managed by Atrium Management Company, call today to schedule a private showing (352) 505-5174."
 SOFT,phone+stale_claim,The Grande @ Gainesville,Gainesville,939cce2a-2a85-4fe2-b32c-1d193d2b87b1,,"This property is professionally leased and managed by Atrium Management Company, call today to schedule a private showing (352) 505-5174."
 SOFT,phone+stale_claim,The Hammocks at Camelot,Gainesville,4186f3ba-3f84-42eb-94e5-0bda9f328945,,Please call (352)-338-7700 to schedule your private showing!
 SOFT,phone+stale_claim,The Hammocks by Butler,Gainesville,4f5b8816-3340-43d7-8388-4a4a3b7add29,,Please call (352) 377-2596 to schedule your private showing!
@@ -1765,8 +1764,8 @@ SOFT,stale_claim,Oasis at San Marco,Jacksonville,1bfb0a88-5786-4a27-a139-1688971
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,2eac2429-47c5-4192-9a88-7f5d5414a3d2,,"With comfortable living spaces and a community designed to feel like home, this opportunity won’t last long, reach out today before it’s gone!"
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,2eac2429-47c5-4192-9a88-7f5d5414a3d2,,Schedule your tour today and see why you’ll love calling our community home!
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,b122e57e-6d41-4fcb-940a-472b99bdd2c3,,Don’t miss your chance to call Renaissance at Strawberry Creek home—schedule a tour today!
-SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,80e36a2b-d03a-4f3a-9866-0d14d0615fad,,"With comfortable living spaces and a community designed to feel like home, this opportunity won’t last long, reach out today before it’s gone!"
-SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,80e36a2b-d03a-4f3a-9866-0d14d0615fad,,Schedule your tour today and see why you’ll love calling our community home!
+SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,09217a98-708a-4392-9bed-e172c1a27606,,"With comfortable living spaces and a community designed to feel like home, this opportunity won’t last long, reach out today before it’s gone!"
+SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,09217a98-708a-4392-9bed-e172c1a27606,,Schedule your tour today and see why you’ll love calling our community home!
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,36982cf6-d56f-49d6-86d9-e56b30d6f571,,"With comfortable living spaces and a community designed to feel like home, this opportunity won’t last long, reach out today before it’s gone!"
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,36982cf6-d56f-49d6-86d9-e56b30d6f571,,Schedule your tour today and see why you’ll love calling our community home!
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,3f3d7ae1-b2ba-4a10-8c2a-c644d9eb73aa,,"With comfortable living spaces and a community designed to feel like home, this opportunity won’t last long, reach out today before it’s gone!"
@@ -1800,7 +1799,6 @@ SOFT,stale_claim,Stetson Apartments,Deland,7f53f9c7-a442-40ee-9e13-a54490ca571b,
 SOFT,stale_claim,Stetson Apartments,Deland,cbf55946-2fab-4b32-9798-b1fd18caf3c5,,Don't miss out on this rare opportunity to live in a piece of DeLand's history.
 SOFT,stale_claim,Stetson Apartments,Deland,cbf55946-2fab-4b32-9798-b1fd18caf3c5,,Contact us today to schedule a viewing and make Stetson Apartments your new home!
 SOFT,stale_claim,The Carl,Orlando,11c9f93a-a559-43c1-b967-3242f6e6ef29,,Schedule Your Private Tour Today!
-SOFT,stale_claim,The Grande @ Gainesville,Gainesville,335d4e0c-c7dc-4085-aaf4-9a4f974e6c6e,,AVAILABLE NOW!
 SOFT,stale_claim,The Hammocks by Butler,Gainesville,4f5b8816-3340-43d7-8388-4a4a3b7add29,,AVAILABLE NOW!
 SOFT,stale_claim,The Hammocks by Butler,Gainesville,c306955d-fe7e-4d35-8391-7339a5531eda,,AVAILABLE NOW!
 SOFT,stale_claim,The Hammocks on 34th,Gainesville,7afda2e8-8b01-418c-a0bd-9cd23e08c447,,AVAILABLE NOW!
