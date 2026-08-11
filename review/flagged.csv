@@ -525,7 +525,7 @@ SOFT,phone,8503 N Semmes St Unit B,Tampa,503741ed-3ca9-49a2-8fee-1a1c4b50522d,,8
 SOFT,phone,913 New Bedford Drive,Deland,a80777c0-4edd-4695-ab10-45102dd2bd78,,(407) 585-2721.
 SOFT,phone,9137 Grand Island Way,Winter Garden,6cc60408-c803-4cc2-9447-e57fd38e607a,,407-585-2721
 SOFT,phone,CIRC7,Melbourne,78808bf5-0214-41a2-8daf-dd0ecac4df43,,Professionally managed by Atrium Management Company — call (407) 585-2721   to schedule your in-person showing.
-SOFT,phone,Centerpoint Apartments,Gainesville,8373a659-9173-46dc-80f5-39a40793c484,,Gladys Weeks Leasing Coordinator | Atrium Management 352-462-4414
+SOFT,phone,Centerpoint Apartments,Gainesville,2d5d3fd7-97b2-4c4a-a94d-0b11154c57f5,,Gladys Weeks Leasing Coordinator | Atrium Management 352-462-4414
 SOFT,phone,Champions Chase,Davenport,7d7af5fb-b147-49d1-b4a1-863058bf39b6,,For more information contact our leasing team at (407) 243-8382.
 SOFT,phone,Champions Chase,Davenport,aced2fde-08bd-4bd9-b52f-9012b9624ef3,,For more information contact our leasing team at (407) 243-8382.
 SOFT,phone,Champions Chase,Davenport,3573dd6d-60b9-4025-919d-c539765cb04e,,For more information contact our leasing team at (407) 243-8382.
@@ -581,7 +581,7 @@ SOFT,phone+email,Sutton Fields,St Cloud,e87e78fa-2f0d-4aee-a97f-c40ae0d47aa4,,Fo
 SOFT,phone+email,Sutton Fields,St Cloud,c0dc3181-9c9b-4705-9e51-b2adc0db24d9,,For more information contact Jillian Levine at (770) 713-7065 or jlevine@atriummanagement.com.
 SOFT,phone+email,Sutton Fields,St Cloud,ed67f219-3d7a-4775-95b9-4de683efb5ba,,For more information contact Jillian Levine at (770) 713-7065 or jlevine@atriummanagement.com.
 SOFT,phone+email,Valencia Isle,Orlando,47a1b000-69e5-4c3c-96bb-139db761dacb,,For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.
-SOFT,phone+email,Valencia Isle,Orlando,49e7c70a-30cc-4746-83e0-f133d3ed968c,,For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.
+SOFT,phone+email,Valencia Isle,Orlando,1b3878fc-0132-4b7c-9bba-36a73145ad25,,For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.
 SOFT,phone+email,Valencia Isle,Orlando,bab19def-680c-4688-87b9-6aaeb2d91990,,For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.
 SOFT,phone+email,Valencia Isle,Orlando,0b399d13-6409-4b56-bb0e-819a23b2628c,,For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.
 SOFT,phone+email+stale_claim,1026 12th St N,St. Petersburg,8dac928d-715d-46e6-ba97-09b6d8fb9ccc,,Call now for more details or to schedule your tour: 813-553-3444 or 813-355-9968 pg5@atriummanagement.com
@@ -1773,7 +1773,7 @@ SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,3f3d7ae
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,3f3d7ae1-b2ba-4a10-8c2a-c644d9eb73aa,,Schedule your tour today and see why you’ll love calling our community home!
 SOFT,stale_claim,Reserve at Lake Irene,Casselberry,a844b6ca-e648-4388-80c3-2fb8d7aa5ed2,,Contact us today to schedule your personalized tour and find your new home!
 SOFT,stale_claim,Reserve at Lake Irene,Casselberry,33534155-d66f-4822-9ece-11b5a6d100a2,,Contact us today to schedule your personalized tour and find your new home!
-SOFT,stale_claim,Reserve at Lake Irene,Casselberry,c82ca85d-33b2-4af5-a9d4-342ddfa6e9e1,,Contact us today to schedule your personalized tour and find your new home!
+SOFT,stale_claim,Reserve at Lake Irene,Casselberry,5cb26665-b966-408d-8f76-d1f556d72cf6,,Contact us today to schedule your personalized tour and find your new home!
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,AVAILABLE NOW!!!!!!!!
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,"Don't miss out on your opportunity to call one of these apartments your home, and now, renters can save BIG on our newest  * Rent includes water via monthly fee*"
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,Schedule your showing now and APPLY ONLINE
@@ -1818,8 +1818,8 @@ SOFT,stale_claim,The Roberson,Orlando,56c60764-7b61-4fe8-b5ab-6273b613e2bf,,Sche
 SOFT,stale_claim,The Roberson,Orlando,0f639369-643e-4271-97fc-ccc49a139c1e,,Don’t miss this opportunity to own a beautifully updated home in a prime location!
 SOFT,stale_claim,The William at Westshore,Tampa,4ae3b6e8-9863-44b2-893f-2eb72136631a,,Schedule a private tour today to see this efficient home in person.
 SOFT,stale_claim,The William at Westshore,Tampa,d763bf75-56bc-499d-ad02-f15da72a42d8,,Schedule a private tour today to experience it for yourself.
-SOFT,stale_claim,Timber Pointe Apartments,Macon,4d54fe54-0966-4c0e-9308-6dc3a7ab62f7,,1 bedroom/1bath AVAILABLE NOW!
-SOFT,stale_claim,Timber Pointe Apartments,Macon,61c3ee89-a402-47da-8303-cbff3a435d2c,,2bed/1bath - AVAILABLE NOW!
+SOFT,stale_claim,Timber Pointe Apartments,Macon,95731f90-85ef-4656-9973-8e94f63f714f,,1 bedroom/1bath AVAILABLE NOW!
+SOFT,stale_claim,Timber Pointe Apartments,Macon,4f360ea5-a488-4b43-a04f-71b2f1401b13,,2bed/1bath - AVAILABLE NOW!
 SOFT,stale_claim,WMUR61,Orlando,23d8bdc1-f9c0-465e-86c2-9eb5cc2b6e89,,AVAILABLE NOW!
 SOFT,stale_claim,Westshore Flats I,Tampa,50712ca4-75f9-4034-9694-76616fa00458,,Schedule a private tour today to choose your finish level.
 SOFT,stale_claim,Westshore Marina Flats,Tampa,bfb3afa7-df20-4ea9-b689-d1c8590504f2,,Schedule a private tour today to choose your finish level.
