@@ -50,8 +50,8 @@ HARD,familial,869 Brutus Terrace,Lake Mary,33df8001-b35e-4009-9077-5d5ff0ae58b7,
 HARD,familial,Avenues of Baldwin Park,Orlando,cafe0a37-ded5-4728-a623-9e5a89d6b257,,"of comfortable living  ideal for families, roommates, or anyone who values extra space."
 HARD,familial,Case Residences,Tampa,71319bba-2d01-4dbf-bbe9-c7e587196ec0,,"It's an easy fit for professionals who need a home office or empty nesters hosting visiting family, with room to spare."
 HARD,familial,Janie B Apartments,Tampa,16709393-475a-47b5-a932-c731b9c4b725,,The home is in walking distance to dozen of  urban diners and local family friendly hang out spots.
-HARD,familial,Mission Club Apartments,Orlando,65c5356e-c94d-45f4-819c-01c4b419bbe3,,"of beautifully designed living space, this 3-bedroom, 2-bathroom floor plan is perfect for families, roommates, or anyone who loves to spread out, relax, and enjoy life in style."
-HARD,familial,Mission Club Apartments,Orlando,e0018211-fbb3-459b-a4a6-43ee27126614,,"of flexible living space, perfect for families, roommates, or anyone who loves room to live, work, and entertain."
+HARD,familial,Mission Club Apartments,Orlando,ceb5031c-7c88-4f75-a33a-5f02754362b1,,"of beautifully designed living space, this 3-bedroom, 2-bathroom floor plan is perfect for families, roommates, or anyone who loves to spread out, relax, and enjoy life in style."
+HARD,familial,Mission Club Apartments,Orlando,31533270-760f-434f-ad48-3e779a2c2577,,"of flexible living space, perfect for families, roommates, or anyone who loves room to live, work, and entertain."
 HARD,familial,Napiers Cir.,Orlando,90791133-34e0-4cf8-891a-bbc587b60f09,,"Perfect for students and budget-conscious renters, this home offers:"
 HARD,familial,Salisbury Apartments,Deland,34f24df7-a15c-45da-80f4-9305b2279f51,,"Steps from vibrant Downtown DeLand (0.3 miles): award-winning restaurants, boutique shops, live music, Athens Theatre, Museum of Art - DeLand Historic charm all around: enjoy the DeLand Mural Walk, Sculpture Walk, and we"
 HARD,familial,The Roberson,Orlando,25ac0fa7-92a5-4b54-94d3-c37c40fe770a,,"- Lifestyle Amenities: The area boasts family-friendly parks, accessible public transit, and walkable streets leading to grocery stores and restaurants."
@@ -455,9 +455,9 @@ BRAND,banned_word,405 NE Avenue M,Winter Haven,9b35b12a-fe80-4c76-8425-6962eb48e
 BRAND,banned_word,517-B Blackbird Lane,Poinciana,80ec6efc-c0e1-4623-843e-371d3172e0bb,,"Prime Poinciana Location: Conveniently located just minutes from local shops, restaurants, and everyday essentials, this home is perfect for those looking for affordable rentals near central Poinciana amenities while enj"
 BRAND,banned_word,5325 Curry Ford Rd Unit B201,Orlando,1a7bd754-f67d-4ee4-bb35-9b9ae5cf7905,,"This charming second-floor unit offers the perfect blend of affordability, comfort, and prime location."
 BRAND,banned_word,5420 Tessin Trl,Saint Cloud,0829539d-6f04-46c5-9e59-4bf99945fb8e,,"If you’re searching for a single-family rental near Lake Nona, an affordable home for rent in Saint Cloud, FL, or a quiet neighborhood with modern accessibility, this home is an excellent choice."
-BRAND,banned_word,Champions Village,Kissimmee,dad2188d-0a27-447d-adde-d61fd9da0a88,,Discover affordable luxury and unbeatable value at Champions Village.
-BRAND,banned_word,Champions Village,Kissimmee,fa322e73-e243-4700-9095-f352e8f1aef5,,Discover affordable luxury and unbeatable value at Champions Village.
-BRAND,banned_word,Champions Village,Kissimmee,d33f73ff-2e4a-40bc-8d94-1d678f0f9d5b,,Discover affordable luxury and unbeatable value at Champions Village.
+BRAND,banned_word,Champions Village,Kissimmee,c2566f88-f68f-4355-9adf-0080fc4d8a93,,Discover affordable luxury and unbeatable value at Champions Village.
+BRAND,banned_word,Champions Village,Kissimmee,c3e99e98-6885-4d84-9009-ab840b64c11d,,Discover affordable luxury and unbeatable value at Champions Village.
+BRAND,banned_word,Champions Village,Kissimmee,2170466b-173c-4e48-a45a-bf3f689b4f62,,Discover affordable luxury and unbeatable value at Champions Village.
 BRAND,banned_word,Champions Village,Kissimmee,647eb5c8-b68e-47a8-b744-9791208c86c1,,Discover affordable luxury and unbeatable value at Champions Village.
 BRAND,banned_word,Crossings at Conway,Orlando,2fbc8d71-9e2c-4241-8c81-5e40992fc456,,"With easy access to major roadways and everyday essentials nearby, Crossings at Conway provides an ideal blend of comfort, convenience, and affordability in a highly sought-after location."
 BRAND,banned_word,Crossings at Conway,Orlando,1201dda5-54e4-4b26-ad9a-68434dd26fbf,,"Come see this affordable two- bedroom one-bath in Orlando, FL."
@@ -551,14 +551,14 @@ SOFT,phone+email,2514 Commerce Ave,Spring Hill,23335e15-23e4-4f5c-b8d3-335e5c596
 SOFT,phone+email,324 7th St S Unit 1,St. Petersburg,125d237e-bf0c-4892-89a9-dcfb2c458b3f,,Rent Ready Now: 813-553-3444 or pg5@atriummanagement.com
 SOFT,phone+email,3806 -3808 W El Prado Blvd,Tampa,93c8fe8f-0939-414e-afde-3ecc9fe134d6,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,7106 - 7108 S Kissimme St.,Tampa,75c4d63f-75af-4359-a9ff-f3f75372f51a,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
-SOFT,phone+email,Champions Village,Kissimmee,dad2188d-0a27-447d-adde-d61fd9da0a88,,E: ChampionsVillage@atriummanagement.com P: 407-329-3555
-SOFT,phone+email,Champions Village,Kissimmee,fa322e73-e243-4700-9095-f352e8f1aef5,,E: ChampionsVillage@atriummanagement.com P: 407-329-3555
-SOFT,phone+email,Champions Village,Kissimmee,d33f73ff-2e4a-40bc-8d94-1d678f0f9d5b,,E: ChampionsVillage@atriummanagement.com P: 407-329-3555
+SOFT,phone+email,Champions Village,Kissimmee,c2566f88-f68f-4355-9adf-0080fc4d8a93,,E: ChampionsVillage@atriummanagement.com P: 407-329-3555
+SOFT,phone+email,Champions Village,Kissimmee,c3e99e98-6885-4d84-9009-ab840b64c11d,,E: ChampionsVillage@atriummanagement.com P: 407-329-3555
+SOFT,phone+email,Champions Village,Kissimmee,2170466b-173c-4e48-a45a-bf3f689b4f62,,E: ChampionsVillage@atriummanagement.com P: 407-329-3555
 SOFT,phone+email,Champions Village,Kissimmee,647eb5c8-b68e-47a8-b744-9791208c86c1,,E: ChampionsVillage@atriummanagement.com P: 407-329-3555
 SOFT,phone+email,Cranes Landing Apartments,Winter Park,91dba0e7-6355-4830-aca9-53436dd7a976,,"For more information, please contact the leasing office: P: 407-671-5585 E: CLA@atriummanagement.com"
 SOFT,phone+email,Cranes Landing Apartments,Winter Park,1025034a-3d17-4c5a-9d17-eafd32cb4d9c,,"For more information, please contact the leasing office: P: 407-671-5585 E: CLA@atriummanagement.com"
 SOFT,phone+email,Cranes Landing Apartments,Winter Park,3e1f9be4-733e-4b06-82b8-8c76434e4383,,"For more information, please contact the leasing office: P: 407-671-5585 E: cford@atriummanagement.com"
-SOFT,phone+email,Cranes Landing Apartments,Winter Park,9589487b-5979-4e54-b251-5f3035b16e2b,,"For more information, please contact the leasing office: P: 407-671-5585 E: CLA@atriummanagement.com"
+SOFT,phone+email,Cranes Landing Apartments,Winter Park,1c91fb9f-a665-4ee7-9f3e-d6a40fdc84af,,"For more information, please contact the leasing office: P: 407-671-5585 E: CLA@atriummanagement.com"
 SOFT,phone+email,Cranes Landing Apartments,Winter Park,24c9679c-9ea2-4539-84c1-1a298f4496b4,,"For more information, please contact the leasing office: P: 407-671-5585 E: CLA@atriummanagement.com"
 SOFT,phone+email,Cranes Landing Apartments,Winter Park,31551fb9-c5e4-4b52-848d-b5a64eeae877,,"For more information, please contact the leasing office: P: 407-671-5585 E: CLA@atriummanagement.com"
 SOFT,phone+email,Janie B Apartments,Tampa,16709393-475a-47b5-a932-c731b9c4b725,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
@@ -1694,19 +1694,20 @@ SOFT,stale_claim,CIRC5,Melbourne,b33dafdd-f2fc-49e9-8788-bbb7988c212d,,AVAILABLE
 SOFT,stale_claim,Carriage House,Deland,346fe0b4-2f3c-4a91-ae34-f0b351612295,,"Schedule Your Tour Today Spacious, renovated units in this prime location move quickly."
 SOFT,stale_claim,Case Residences,Tampa,e4dbb607-38fa-4f41-9120-da891019a594,,Schedule a private tour today to see this Palma Ceia home.
 SOFT,stale_claim,Case Residences,Tampa,71319bba-2d01-4dbf-bbe9-c7e587196ec0,,Schedule a private tour today to see this two-bedroom home.
-SOFT,stale_claim,Champions Village,Kissimmee,dad2188d-0a27-447d-adde-d61fd9da0a88,,Schedule a tour today!
-SOFT,stale_claim,Champions Village,Kissimmee,fa322e73-e243-4700-9095-f352e8f1aef5,,Schedule a tour today!
-SOFT,stale_claim,Champions Village,Kissimmee,d33f73ff-2e4a-40bc-8d94-1d678f0f9d5b,,Schedule a tour today!
-SOFT,stale_claim,Champions Village,Kissimmee,d33f73ff-2e4a-40bc-8d94-1d678f0f9d5b,,Please call for more information.
+SOFT,stale_claim,Champions Village,Kissimmee,c2566f88-f68f-4355-9adf-0080fc4d8a93,,Schedule a tour today!
+SOFT,stale_claim,Champions Village,Kissimmee,c3e99e98-6885-4d84-9009-ab840b64c11d,,Schedule a tour today!
+SOFT,stale_claim,Champions Village,Kissimmee,2170466b-173c-4e48-a45a-bf3f689b4f62,,Schedule a tour today!
+SOFT,stale_claim,Champions Village,Kissimmee,2170466b-173c-4e48-a45a-bf3f689b4f62,,Please call for more information.
 SOFT,stale_claim,Champions Village,Kissimmee,647eb5c8-b68e-47a8-b744-9791208c86c1,,Schedule a tour today!
 SOFT,stale_claim,Coral Gables @ Bellview,Belleview,2cb4ba16-24dc-4acd-8eea-4d873d9bf0a1,,Schedule a tour today and discover the perfect place to call home.
 SOFT,stale_claim,Cranes Landing Apartments,Winter Park,91dba0e7-6355-4830-aca9-53436dd7a976,,Schedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.
 SOFT,stale_claim,Cranes Landing Apartments,Winter Park,1025034a-3d17-4c5a-9d17-eafd32cb4d9c,,Schedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.
 SOFT,stale_claim,Cranes Landing Apartments,Winter Park,3e1f9be4-733e-4b06-82b8-8c76434e4383,,Schedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.
-SOFT,stale_claim,Cranes Landing Apartments,Winter Park,9589487b-5979-4e54-b251-5f3035b16e2b,,Schedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.
+SOFT,stale_claim,Cranes Landing Apartments,Winter Park,1c91fb9f-a665-4ee7-9f3e-d6a40fdc84af,,Schedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.
 SOFT,stale_claim,Cranes Landing Apartments,Winter Park,24c9679c-9ea2-4539-84c1-1a298f4496b4,,Schedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.
 SOFT,stale_claim,Cranes Landing Apartments,Winter Park,31551fb9-c5e4-4b52-848d-b5a64eeae877,,Schedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.
-SOFT,stale_claim,Crossings at Conway,Orlando,457e019d-9a03-4a23-91a3-f68d6a3e46b7,,A competitively priced condo in one of Orlando's most connected neighborhoods — schedule a tour or apply today!
+SOFT,stale_claim,Crossings at Conway,Orlando,b259bf95-3b8c-4bef-8288-79fba1c27672,,Don't miss out on this competitively priced 1-bedroom condo in one of Orlando's most connected neighborhoods.
+SOFT,stale_claim,Crossings at Conway,Orlando,b259bf95-3b8c-4bef-8288-79fba1c27672,,Schedule your private tour or submit your application today!
 SOFT,stale_claim,Cutshaw Apartments,Richmond,f9fcf3f4-b233-41d8-a788-a7954ae3fe0b,,Newly renovated 2 bedroom 2 bathroom - Available IMMEDIATELY!
 SOFT,stale_claim,Cutshaw Apartments,Richmond,f9fcf3f4-b233-41d8-a788-a7954ae3fe0b,,Don't wait - come see why this is the perfect place for you to call home in downtown Richmond!
 SOFT,stale_claim,Dharma Apartments,Orlando,228a09e9-7463-4059-b4c2-c8477b62a381,,AVAILABLE NOW!!!!

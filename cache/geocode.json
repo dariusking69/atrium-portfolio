@@ -2870,6 +2870,10 @@
 28.34562,
 -81.633092
 ],
+"3281 overstreet east #120|kissimmee|FL|34747": [
+28.345794,
+-81.633093
+],
 "3281 overstreet east #122|kissimmee|FL|34747": [
 28.345864,
 -81.633053
@@ -2889,6 +2893,14 @@
 "3281 overstreet east #224|kissimmee|FL|34747": [
 28.345934,
 -81.633053
+],
+"3290 overstreet east #120|kissimmee|FL|34747": [
+28.346181,
+-81.633753
+],
+"3290 overstreet east #121|kissimmee|FL|34747": [
+28.346218,
+-81.633753
 ],
 "3309 messina drive|lake mary|FL|32746": [
 28.765457,
@@ -3444,6 +3456,10 @@
 "4355 paraglider place|wesley chapel|FL|33543": null,
 "4359 paraglider place|wesley chapel|FL|33543": null,
 "438 quercus rd|auburndale|FL|33823": null,
+"4397 e michigan st|orlando|FL|32812": [
+28.513664,
+-81.331226
+],
 "4401 har paul cir|tampa|FL|33614": [
 28.028847,
 -82.518743
@@ -3620,6 +3636,10 @@
 29.120245,
 -82.055355
 ],
+"500 maury st unit 203|richmond|VA|23224": [
+37.520955,
+-77.435153
+],
 "500 maury st unit 209|richmond|VA|23224": [
 37.520955,
 -77.435153
@@ -3668,11 +3688,23 @@
 37.520955,
 -77.435153
 ],
+"500 maury st unit 537|richmond|VA|23224": [
+37.520955,
+-77.435153
+],
+"500 maury st unit 601|richmond|VA|23224": [
+37.520955,
+-77.435153
+],
 "500 maury st unit 611|richmond|VA|23224": [
 37.520955,
 -77.435153
 ],
 "500 maury st unit 614|richmond|VA|23224": [
+37.520955,
+-77.435153
+],
+"500 maury st unit 619|richmond|VA|23224": [
 37.520955,
 -77.435153
 ],
@@ -4320,6 +4352,10 @@
 28.573389,
 -81.307115
 ],
+"5924 auvers blvd #307|orlando|FL|32807": [
+28.573389,
+-81.307115
+],
 "599 pensacola lane|lake mary|FL|32746": [
 28.781417,
 -81.34545
@@ -4507,6 +4543,10 @@
 28.387816,
 -81.471486
 ],
+"6624 mission club blvd # 10-310|orlando|FL|32821": [
+28.387816,
+-81.471486
+],
 "663 red wing dr.|lake mary|FL|32746": [
 28.77892,
 -81.336202
@@ -4515,6 +4555,30 @@
 28.467835,
 -81.572916
 ],
+"6636 mission club blvd # 09-207|orlando|FL|32821": [
+28.387315,
+-81.471068
+],
+"6636 mission club blvd # 09-305|orlando|FL|32821": [
+28.387315,
+-81.471068
+],
+"6649 mission club blvd # 07-108|orlando|FL|32821": [
+28.387232,
+-81.472107
+],
+"6662 mission club blvd # 05-303|orlando|FL|32821": [
+28.38637,
+-81.471896
+],
+"6663 mission club blvd # 06-203|orlando|FL|32821": [
+28.386782,
+-81.472261
+],
+"6702 mission club blvd # 04-206|orlando|FL|32821": [
+28.386736,
+-81.472311
+],
 "6710 s juanita ave|tampa|FL|33616": [
 27.86959,
 -82.530134
@@ -4522,6 +4586,18 @@
 "6715 mission club blvd # 02-104|orlando|FL|32821": [
 28.386396,
 -81.472692
+],
+"6715 mission club blvd # 02-205|orlando|FL|32821": [
+28.386396,
+-81.472692
+],
+"6727 mission club blvd # 01-104|orlando|FL|32821": [
+28.387168,
+-81.473024
+],
+"6727 mission club blvd # 01-109|orlando|FL|32821": [
+28.387168,
+-81.473024
 ],
 "6739 mission club blvd|orlando|FL|32821": [
 28.387169,
@@ -5021,6 +5097,10 @@
 28.344755,
 -81.634083
 ],
+"8640 overstreet west #212|kissimmee|FL|34747": [
+28.344752,
+-81.634484
+],
 "8640 overstreet west #214|kissimmee|FL|34747": [
 28.344751,
 -81.634571
@@ -5149,6 +5229,10 @@
 "919 pine street|titusville|FL|32796": [
 28.610235,
 -80.813792
+],
+"920 w. new york avenue #b102|deland|FL|32720": [
+29.027592,
+-81.321418
 ],
 "920 w. new york avenue #b202|deland|FL|32720": [
 29.027609,
