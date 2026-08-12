@@ -535,7 +535,7 @@ SOFT,phone,Eastwood,Clearwater,6b43b7ef-c25f-43ce-80d5-8c148e842d5e,,Professiona
 SOFT,phone,Eastwood,Clearwater,6b43b7ef-c25f-43ce-80d5-8c148e842d5e,,"Professionally Managed by Atrium Management Company, call 813-553-3444 today for more information."
 SOFT,phone,Green Cove Apartments,Gainesville,cd133660-8da1-4e97-8240-56caffc41186,,352-462-4414 Atrium Management.
 SOFT,phone,JUAN6710,Tampa,931dc873-867b-4bd2-90e5-6f988e53525e,,Call and ask about our move in concession: 813-355-9968!
-SOFT,phone,Millie Gardens,Gainesville,cf5c8d3f-25b9-451b-a96f-6dcff50a3d7a,,"For more information or to arrange a showing, contact Gladys Weeks at 352-462-4414."
+SOFT,phone,Millie Gardens,Gainesville,d1c62f3e-43ff-475c-a1a0-23ba11e9e73c,,Gladys Weeks 352-462-4414
 SOFT,phone,Seminole Ave,Tampa,fcdf6263-0c6a-470a-be32-405f8f7d653d,,"Professionally managed by Atrium Management, 813-553-3444 today for a private showing."
 SOFT,phone,Seminole Ave,Tampa,b70350d8-f2fd-40e7-8728-b9409560c6d1,,"Professionally managed by Atrium Management, 813-553-3444 today for a private showing."
 SOFT,phone,Stetson Apartments,Deland,7f53f9c7-a442-40ee-9e13-a54490ca571b,,"To arrange your exclusive viewing, please contact us at 407-585-2721."
@@ -1743,7 +1743,10 @@ SOFT,stale_claim,Lake Tyler Manor,Orlando,e8dd91ab-0415-485b-872e-40b2e781daee,,
 SOFT,stale_claim,Lake Tyler Manor,Orlando,1851fb04-c772-414d-aaed-88b914f01b81,,Schedule a showing today!
 SOFT,stale_claim,Marina Villas,Tampa,dc296b0e-b8ef-4acd-83d8-5c9effcb9ddf,,AVAILABLE NOW!!
 SOFT,stale_claim,Marina Villas,Tampa,a85dcc53-1059-4a46-a4af-d788e1320e9f,,Don't miss out on the chance to call this remarkable residence your home.
-SOFT,stale_claim,Millie Gardens,Gainesville,cf5c8d3f-25b9-451b-a96f-6dcff50a3d7a,,Schedule your private tour today!
+SOFT,stale_claim,Millie Gardens,Gainesville,d1c62f3e-43ff-475c-a1a0-23ba11e9e73c,,SPECIAL OFFER: Apply now and receive a $500 gift certificate!
+SOFT,stale_claim,Millie Gardens,Gainesville,d1c62f3e-43ff-475c-a1a0-23ba11e9e73c,,Don’t miss this limited-time
+SOFT,stale_claim,Millie Gardens,Gainesville,d1c62f3e-43ff-475c-a1a0-23ba11e9e73c,,"Spacious 2-Bedroom, 1-Bathroom Home Available Now!"
+SOFT,stale_claim,Millie Gardens,Gainesville,d1c62f3e-43ff-475c-a1a0-23ba11e9e73c,,Schedule a viewing today!
 SOFT,stale_claim,Mirabella Apartments,Gainesville,404fb76e-b5da-4060-ba4b-c4fdd9c46967,,AVAILABLE IMMEDIATELY!
 SOFT,stale_claim,Mirabella Apartments,Gainesville,aaac487a-843a-4217-8e6c-b9590af076e9,,AVAILABLE IMMEDIATELY!
 SOFT,stale_claim,Mirabella Apartments,Gainesville,bc16e6ed-0b6f-4bc3-b4e7-99d6e55dc33d,,AVAILABLE IMMEDIATELY!!!
