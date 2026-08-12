@@ -455,9 +455,9 @@ BRAND,banned_word,405 NE Avenue M,Winter Haven,9b35b12a-fe80-4c76-8425-6962eb48e
 BRAND,banned_word,517-B Blackbird Lane,Poinciana,80ec6efc-c0e1-4623-843e-371d3172e0bb,,"Prime Poinciana Location: Conveniently located just minutes from local shops, restaurants, and everyday essentials, this home is perfect for those looking for affordable rentals near central Poinciana amenities while enj"
 BRAND,banned_word,5325 Curry Ford Rd Unit B201,Orlando,1a7bd754-f67d-4ee4-bb35-9b9ae5cf7905,,"This charming second-floor unit offers the perfect blend of affordability, comfort, and prime location."
 BRAND,banned_word,5420 Tessin Trl,Saint Cloud,0829539d-6f04-46c5-9e59-4bf99945fb8e,,"If you’re searching for a single-family rental near Lake Nona, an affordable home for rent in Saint Cloud, FL, or a quiet neighborhood with modern accessibility, this home is an excellent choice."
-BRAND,banned_word,Champions Village,Kissimmee,5a8e28e2-2d38-486f-bedd-483205279ac4,,Discover affordable luxury and unbeatable value at Champions Village.
-BRAND,banned_word,Champions Village,Kissimmee,56b3202f-7123-4c51-bcd0-7d51a604d83c,,Discover affordable luxury and unbeatable value at Champions Village.
-BRAND,banned_word,Champions Village,Kissimmee,34cbdca5-a8e3-4571-8cc7-6e6abf6bebb2,,Discover affordable luxury and unbeatable value at Champions Village.
+BRAND,banned_word,Champions Village,Kissimmee,dad2188d-0a27-447d-adde-d61fd9da0a88,,Discover affordable luxury and unbeatable value at Champions Village.
+BRAND,banned_word,Champions Village,Kissimmee,fa322e73-e243-4700-9095-f352e8f1aef5,,Discover affordable luxury and unbeatable value at Champions Village.
+BRAND,banned_word,Champions Village,Kissimmee,d33f73ff-2e4a-40bc-8d94-1d678f0f9d5b,,Discover affordable luxury and unbeatable value at Champions Village.
 BRAND,banned_word,Champions Village,Kissimmee,647eb5c8-b68e-47a8-b744-9791208c86c1,,Discover affordable luxury and unbeatable value at Champions Village.
 BRAND,banned_word,Crossings at Conway,Orlando,2fbc8d71-9e2c-4241-8c81-5e40992fc456,,"With easy access to major roadways and everyday essentials nearby, Crossings at Conway provides an ideal blend of comfort, convenience, and affordability in a highly sought-after location."
 BRAND,banned_word,Crossings at Conway,Orlando,1201dda5-54e4-4b26-ad9a-68434dd26fbf,,"Come see this affordable two- bedroom one-bath in Orlando, FL."
@@ -551,9 +551,9 @@ SOFT,phone+email,2514 Commerce Ave,Spring Hill,23335e15-23e4-4f5c-b8d3-335e5c596
 SOFT,phone+email,324 7th St S Unit 1,St. Petersburg,125d237e-bf0c-4892-89a9-dcfb2c458b3f,,Rent Ready Now: 813-553-3444 or pg5@atriummanagement.com
 SOFT,phone+email,3806 -3808 W El Prado Blvd,Tampa,93c8fe8f-0939-414e-afde-3ecc9fe134d6,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,7106 - 7108 S Kissimme St.,Tampa,75c4d63f-75af-4359-a9ff-f3f75372f51a,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
-SOFT,phone+email,Champions Village,Kissimmee,5a8e28e2-2d38-486f-bedd-483205279ac4,,E: ChampionsVillage@atriummanagement.com P: 407-329-3555
-SOFT,phone+email,Champions Village,Kissimmee,56b3202f-7123-4c51-bcd0-7d51a604d83c,,E: ChampionsVillage@atriummanagement.com P: 407-329-3555
-SOFT,phone+email,Champions Village,Kissimmee,34cbdca5-a8e3-4571-8cc7-6e6abf6bebb2,,E: ChampionsVillage@atriummanagement.com P: 407-329-3555
+SOFT,phone+email,Champions Village,Kissimmee,dad2188d-0a27-447d-adde-d61fd9da0a88,,E: ChampionsVillage@atriummanagement.com P: 407-329-3555
+SOFT,phone+email,Champions Village,Kissimmee,fa322e73-e243-4700-9095-f352e8f1aef5,,E: ChampionsVillage@atriummanagement.com P: 407-329-3555
+SOFT,phone+email,Champions Village,Kissimmee,d33f73ff-2e4a-40bc-8d94-1d678f0f9d5b,,E: ChampionsVillage@atriummanagement.com P: 407-329-3555
 SOFT,phone+email,Champions Village,Kissimmee,647eb5c8-b68e-47a8-b744-9791208c86c1,,E: ChampionsVillage@atriummanagement.com P: 407-329-3555
 SOFT,phone+email,Cranes Landing Apartments,Winter Park,91dba0e7-6355-4830-aca9-53436dd7a976,,"For more information, please contact the leasing office: P: 407-671-5585 E: CLA@atriummanagement.com"
 SOFT,phone+email,Cranes Landing Apartments,Winter Park,1025034a-3d17-4c5a-9d17-eafd32cb4d9c,,"For more information, please contact the leasing office: P: 407-671-5585 E: CLA@atriummanagement.com"
@@ -1058,8 +1058,8 @@ SOFT,phone+stale_claim,952-12 Courtyard Lane,Orlando,ad8d2395-6d18-4fca-8a2b-e33
 SOFT,phone+stale_claim,954 Forest Ridge Court #206,Lake Mary,118f85ad-31a8-47fd-a1a4-1823d15c0bf6,,Professionally Managed by Atrium Management Call 407-585-2721 to schedule your private showing today!
 SOFT,phone+stale_claim,954-22 Courtyard Lane,Orlando,fee9fbbc-7718-44b8-a171-34349dba8650,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,963 Glen Abbey Circle,Winter Springs,61264225-f204-4c79-84e7-e4588a6940cc,,Please call 407-585-2721 to schedule your private showing!
-SOFT,phone+stale_claim,Avenues of Baldwin Park,Orlando,be0304ee-dca3-44b1-9307-dfce0811306d,,Don’t miss your chance to call this stunning apartment home — schedule your tour today (407) 917-7786!
-SOFT,phone+stale_claim,Avenues of Baldwin Park,Orlando,5effb75d-71eb-45db-a3c6-3afe40943c44,,Schedule your tour today 407-671-0200
+SOFT,phone+stale_claim,Avenues of Baldwin Park,Orlando,bd52e4e3-9141-4e50-aa0e-edef20f35243,,Don’t miss your chance to call this stunning apartment home — schedule your tour today (407) 917-7786!
+SOFT,phone+stale_claim,Avenues of Baldwin Park,Orlando,16337770-02b1-48e3-8aa8-644b9f858acf,,Schedule your tour today 407-671-0200
 SOFT,phone+stale_claim,Barna Apartments,Titusville,0c8ce6c0-bba8-457d-8921-4ff1aaafd438,,Please call 321-479-0644 to schedule your in-person showing.
 SOFT,phone+stale_claim,Bear Creek Apts (New),Bartow,238c5961-a6f0-429b-a7c8-dad37dfad65b,,Call or text 813-438-3799 for questions and to schedule an appointment!
 SOFT,phone+stale_claim,CIRC5,Melbourne,b33dafdd-f2fc-49e9-8788-bbb7988c212d,,"Professionally managed by Atrium Management Company, please call (407) 585-2721   to schedule your in person showing."
@@ -1099,7 +1099,7 @@ SOFT,phone+stale_claim,Royal Villas,Titusville,cb2dcda9-86b3-4425-8e91-4c4fe5ae4
 SOFT,phone+stale_claim,Salisbury Apartments,Deland,3a3648af-71c6-4987-a071-857c5b86f390,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,Stetson Apartments,Deland,65cf158d-8406-47de-b0a4-16f8e79c9350,,Contact us at 407-585-2721 to schedule your tour.
 SOFT,phone+stale_claim,The Grande @ Gainesville,Gainesville,c5a0edfb-998b-4946-96a6-215862e38c78,,call today to schedule a private showing 352-462-4414
-SOFT,phone+stale_claim,The Grande @ Gainesville,Gainesville,cc3a93ae-8467-4978-9ebf-f5abd420f9f8,,"This property is professionally leased and managed by Atrium Management Company, call today to schedule a private showing (352) 505-5174."
+SOFT,phone+stale_claim,The Grande @ Gainesville,Gainesville,cc3a93ae-8467-4978-9ebf-f5abd420f9f8,,"Pets $250 one time Non refundable Pet monthly $25.00 This property is professionally leased and managed by Atrium Management Company, call today to schedule a private showing 352-462-4414"
 SOFT,phone+stale_claim,The Grande @ Gainesville,Gainesville,939cce2a-2a85-4fe2-b32c-1d193d2b87b1,,"This property is professionally leased and managed by Atrium Management Company, call today to schedule a private showing (352) 505-5174."
 SOFT,phone+stale_claim,The Hammocks at Camelot,Gainesville,4186f3ba-3f84-42eb-94e5-0bda9f328945,,Please call (352)-338-7700 to schedule your private showing!
 SOFT,phone+stale_claim,The Hammocks by Butler,Gainesville,4f5b8816-3340-43d7-8388-4a4a3b7add29,,Please call (352) 377-2596 to schedule your private showing!
@@ -1681,8 +1681,8 @@ SOFT,stale_claim,Aston Square Apartments,Kissimmee,e159cf67-1ba0-4f81-af8b-394c3
 SOFT,stale_claim,Aston Square Apartments,Kissimmee,e159cf67-1ba0-4f81-af8b-394c3361a767,,Contact us today to schedule a tour!
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,f67beb9f-be49-4947-910d-cc35e511b6b8,,Schedule your tour today!
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,f67beb9f-be49-4947-910d-cc35e511b6b8,,Rental Terms Application Fee: $95 Admin Fee $250 Available Now Pet Policy Cats allowed Dogs allowed Amenities pool Valet Trash Soccer Field Clubhouse Lake View High Speed Internet 24 Hour Fitness Center Community Grill b
-SOFT,stale_claim,Avenues of Baldwin Park,Orlando,be0304ee-dca3-44b1-9307-dfce0811306d,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities Valet Trash Clubhouse Outdoor deck High Speed Internet 24 Hour Fitness Center Community Grill basketball cour
-SOFT,stale_claim,Avenues of Baldwin Park,Orlando,5effb75d-71eb-45db-a3c6-3afe40943c44,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities pool Valet Trash Soccer Field Community Clubhouse Outdoor deck High Speed Internet 24 Hour Fitness Center Pet
+SOFT,stale_claim,Avenues of Baldwin Park,Orlando,bd52e4e3-9141-4e50-aa0e-edef20f35243,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities Valet Trash Clubhouse Outdoor deck High Speed Internet 24 Hour Fitness Center Community Grill basketball cour
+SOFT,stale_claim,Avenues of Baldwin Park,Orlando,16337770-02b1-48e3-8aa8-644b9f858acf,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities pool Valet Trash Soccer Field Community Clubhouse Outdoor deck High Speed Internet 24 Hour Fitness Center Pet
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,cafe0a37-ded5-4728-a623-9e5a89d6b257,,Schedule your tour today!
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,cafe0a37-ded5-4728-a623-9e5a89d6b257,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities Valet Trash Soccer Field Clubhouse High Speed Internet Pet Friendly Dog park Basketball court Playground Comm
 SOFT,stale_claim,Barna Apartments,Titusville,0c8ce6c0-bba8-457d-8921-4ff1aaafd438,,AVAILABLE NOW!
@@ -1694,10 +1694,10 @@ SOFT,stale_claim,CIRC5,Melbourne,b33dafdd-f2fc-49e9-8788-bbb7988c212d,,AVAILABLE
 SOFT,stale_claim,Carriage House,Deland,346fe0b4-2f3c-4a91-ae34-f0b351612295,,"Schedule Your Tour Today Spacious, renovated units in this prime location move quickly."
 SOFT,stale_claim,Case Residences,Tampa,e4dbb607-38fa-4f41-9120-da891019a594,,Schedule a private tour today to see this Palma Ceia home.
 SOFT,stale_claim,Case Residences,Tampa,71319bba-2d01-4dbf-bbe9-c7e587196ec0,,Schedule a private tour today to see this two-bedroom home.
-SOFT,stale_claim,Champions Village,Kissimmee,5a8e28e2-2d38-486f-bedd-483205279ac4,,Schedule a tour today!
-SOFT,stale_claim,Champions Village,Kissimmee,56b3202f-7123-4c51-bcd0-7d51a604d83c,,Schedule a tour today!
-SOFT,stale_claim,Champions Village,Kissimmee,34cbdca5-a8e3-4571-8cc7-6e6abf6bebb2,,Schedule a tour today!
-SOFT,stale_claim,Champions Village,Kissimmee,34cbdca5-a8e3-4571-8cc7-6e6abf6bebb2,,Please call for more information.
+SOFT,stale_claim,Champions Village,Kissimmee,dad2188d-0a27-447d-adde-d61fd9da0a88,,Schedule a tour today!
+SOFT,stale_claim,Champions Village,Kissimmee,fa322e73-e243-4700-9095-f352e8f1aef5,,Schedule a tour today!
+SOFT,stale_claim,Champions Village,Kissimmee,d33f73ff-2e4a-40bc-8d94-1d678f0f9d5b,,Schedule a tour today!
+SOFT,stale_claim,Champions Village,Kissimmee,d33f73ff-2e4a-40bc-8d94-1d678f0f9d5b,,Please call for more information.
 SOFT,stale_claim,Champions Village,Kissimmee,647eb5c8-b68e-47a8-b744-9791208c86c1,,Schedule a tour today!
 SOFT,stale_claim,Coral Gables @ Bellview,Belleview,2cb4ba16-24dc-4acd-8eea-4d873d9bf0a1,,Schedule a tour today and discover the perfect place to call home.
 SOFT,stale_claim,Cranes Landing Apartments,Winter Park,91dba0e7-6355-4830-aca9-53436dd7a976,,Schedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.
@@ -1775,7 +1775,7 @@ SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,3f3d7ae
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,3f3d7ae1-b2ba-4a10-8c2a-c644d9eb73aa,,Schedule your tour today and see why you’ll love calling our community home!
 SOFT,stale_claim,Reserve at Lake Irene,Casselberry,a844b6ca-e648-4388-80c3-2fb8d7aa5ed2,,Contact us today to schedule your personalized tour and find your new home!
 SOFT,stale_claim,Reserve at Lake Irene,Casselberry,33534155-d66f-4822-9ece-11b5a6d100a2,,Contact us today to schedule your personalized tour and find your new home!
-SOFT,stale_claim,Reserve at Lake Irene,Casselberry,5cb26665-b966-408d-8f76-d1f556d72cf6,,Contact us today to schedule your personalized tour and find your new home!
+SOFT,stale_claim,Reserve at Lake Irene,Casselberry,129b9bcc-37fc-419e-bce2-2b5022887208,,Contact us today to schedule your personalized tour and find your new home!
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,AVAILABLE NOW!!!!!!!!
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,"Don't miss out on your opportunity to call one of these apartments your home, and now, renters can save BIG on our newest  * Rent includes water via monthly fee*"
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,Schedule your showing now and APPLY ONLINE
