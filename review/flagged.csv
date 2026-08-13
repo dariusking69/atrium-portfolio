@@ -561,6 +561,7 @@ SOFT,phone+email,Cranes Landing Apartments,Winter Park,3e1f9be4-733e-4b06-82b8-8
 SOFT,phone+email,Cranes Landing Apartments,Winter Park,1c91fb9f-a665-4ee7-9f3e-d6a40fdc84af,,"For more information, please contact the leasing office: P: 407-671-5585 E: CLA@atriummanagement.com"
 SOFT,phone+email,Cranes Landing Apartments,Winter Park,24c9679c-9ea2-4539-84c1-1a298f4496b4,,"For more information, please contact the leasing office: P: 407-671-5585 E: CLA@atriummanagement.com"
 SOFT,phone+email,Cranes Landing Apartments,Winter Park,31551fb9-c5e4-4b52-848d-b5a64eeae877,,"For more information, please contact the leasing office: P: 407-671-5585 E: CLA@atriummanagement.com"
+SOFT,phone+email,Janie B Apartments,Tampa,435f854e-6574-40b6-8215-fbcfa00a0ec2,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,Janie B Apartments,Tampa,16709393-475a-47b5-a932-c731b9c4b725,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,Marina Villas,Tampa,a9cf0527-0b18-474d-ad61-4abe6ab661cb,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,Ocoee Village,Ocoee,b9e15ec8-e966-41a0-a460-436401984bf9,,For more information Text Ilka Goitia at (321) 549-0284 or igoitia@atriummanagement.com.
@@ -584,7 +585,6 @@ SOFT,phone+email,Valencia Isle,Orlando,bab19def-680c-4688-87b9-6aaeb2d91990,,For
 SOFT,phone+email,Valencia Isle,Orlando,0b399d13-6409-4b56-bb0e-819a23b2628c,,For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.
 SOFT,phone+email+stale_claim,1026 12th St N,St. Petersburg,8dac928d-715d-46e6-ba97-09b6d8fb9ccc,,Call now for more details or to schedule your tour: 813-553-3444 or 813-355-9968 pg5@atriummanagement.com
 SOFT,phone+email+stale_claim,8705 N 37th Street,Tampa,579a530b-bb1c-468d-8898-ad80e3fb5a2a,,"To schedule your private showing, call 813-553-3444 or email pg5@atriummanagement.com"
-SOFT,phone+email+stale_claim,Janie B Apartments,Tampa,c31954b6-01c3-43af-9943-963c41a185ea,,Professionally managed by Atrium Management please call 813-553-3444 or email pg5@atriummanagement.com to schedule your private showing.
 SOFT,phone+stale_claim,1 E King St,Orlando,f91039a6-18dd-4aef-8722-742c44046795,,"This property is professionally leased and managed by Atrium Management Company, call today to schedule a private showing (407) 585-2721."
 SOFT,phone+stale_claim,1 West Cary Apartments,Richmond,dd99e637-8721-42f7-b159-2d5c07b534c3,,Contact Atrium Management today at 407-585-2721 to schedule your private showing and make this stunning apartment your new home.
 SOFT,phone+stale_claim,1 West Cary Apartments,Richmond,e71202eb-9768-4f22-9835-6a8f01c8ddce,,Contact Atrium Management today at 407-585-2721 to schedule your private showing and make this stunning apartment your new home.
@@ -1727,7 +1727,6 @@ SOFT,stale_claim,Harwood,Orlando,248eda02-ada8-432b-ac29-467e66127e9e,,Schedule 
 SOFT,stale_claim,Harwood,Orlando,9e62d5bb-deac-4175-a1e7-0d124b49eab7,,Don’t miss the opportunity to make this apartment your new home sweet home!
 SOFT,stale_claim,Harwood,Orlando,a6b2b1ca-9d16-4968-a389-b649203be0a8,,Schedule your private tour today—this rare find won’t last long!
 SOFT,stale_claim,JUAN6710,Tampa,931dc873-867b-4bd2-90e5-6f988e53525e,,Don’t miss the opportunity to live in one of Tampa’s best neighborhoods!
-SOFT,stale_claim,Janie B Apartments,Tampa,c31954b6-01c3-43af-9943-963c41a185ea,,AVAILABLE NOW
 SOFT,stale_claim,LOFTY APARTMENTS,Richmond,83d4c3dd-e603-49db-b6db-f83bd6b42cc6,,Contact us today to schedule a tour and see why our residents love calling this place home.
 SOFT,stale_claim,LOFTY APARTMENTS,Richmond,a01e1c10-6496-47b9-bc64-8d8abec09dc5,,Don't wait - come see why this is the perfect place for you to call home in downtown Richmond!
 SOFT,stale_claim,LOFTY APARTMENTS,Richmond,8fb6bb39-5553-4146-b5b7-900cd3d2e140,,"Don't miss out on the opportunity to enjoy the luxury of hardwood floors, stainless steel appliances, granite countertops, and the convenience of an in-unit washer and dryer."
