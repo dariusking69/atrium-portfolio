@@ -49,6 +49,7 @@ HARD,familial,8400 Pippen Dr,Orlando,afa86428-41d9-4664-8658-770b8cfbdb91,,"Upst
 HARD,familial,869 Brutus Terrace,Lake Mary,33df8001-b35e-4009-9077-5d5ff0ae58b7,,"Upstairs, you’ll find the luxurious master suite with an en-suite bath, plus two additional bedrooms and another full bathroom—ideal for families, roommates, or guests."
 HARD,familial,Avenues of Baldwin Park,Orlando,cafe0a37-ded5-4728-a623-9e5a89d6b257,,"of comfortable living  ideal for families, roommates, or anyone who values extra space."
 HARD,familial,Case Residences,Tampa,c2642698-3800-47d5-b5aa-5c25473caaa3,,"It's an easy fit for professionals who need a home office or empty nesters hosting visiting family, with room to spare."
+HARD,familial,Janie B Apartments,Tampa,234171cb-41fb-490c-aa21-eec092107abf,,"Enjoy the convenience of a pet-friendly community in vibrant Seminole Heights, surrounded by local restaurants, urban diners, and family-friendly spots."
 HARD,familial,Janie B Apartments,Tampa,16709393-475a-47b5-a932-c731b9c4b725,,The home is in walking distance to dozen of  urban diners and local family friendly hang out spots.
 HARD,familial,Mission Club Apartments,Orlando,ceb5031c-7c88-4f75-a33a-5f02754362b1,,"of beautifully designed living space, this 3-bedroom, 2-bathroom floor plan is perfect for families, roommates, or anyone who loves to spread out, relax, and enjoy life in style."
 HARD,familial,Mission Club Apartments,Orlando,31533270-760f-434f-ad48-3e779a2c2577,,"of flexible living space, perfect for families, roommates, or anyone who loves room to live, work, and entertain."
@@ -562,6 +563,7 @@ SOFT,phone+email,Cranes Landing Apartments,Winter Park,1c91fb9f-a665-4ee7-9f3e-d
 SOFT,phone+email,Cranes Landing Apartments,Winter Park,24c9679c-9ea2-4539-84c1-1a298f4496b4,,"For more information, please contact the leasing office: P: 407-671-5585 E: CLA@atriummanagement.com"
 SOFT,phone+email,Cranes Landing Apartments,Winter Park,31551fb9-c5e4-4b52-848d-b5a64eeae877,,"For more information, please contact the leasing office: P: 407-671-5585 E: CLA@atriummanagement.com"
 SOFT,phone+email,Janie B Apartments,Tampa,435f854e-6574-40b6-8215-fbcfa00a0ec2,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
+SOFT,phone+email,Janie B Apartments,Tampa,234171cb-41fb-490c-aa21-eec092107abf,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,Janie B Apartments,Tampa,16709393-475a-47b5-a932-c731b9c4b725,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,Marina Villas,Tampa,a9cf0527-0b18-474d-ad61-4abe6ab661cb,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,Ocoee Village,Ocoee,b9e15ec8-e966-41a0-a460-436401984bf9,,For more information Text Ilka Goitia at (321) 549-0284 or igoitia@atriummanagement.com.
@@ -678,7 +680,6 @@ SOFT,phone+stale_claim,1334 Bolton Place,Lake Mary,4e58d930-1adb-43a6-a7b4-cded0
 SOFT,phone+stale_claim,13346 Boulder Woods Circle,Orlando,2377ccba-3a12-4637-b99e-1e38471cddc0,,"Professionally managed by Atrium Management, Call 407-585-2721 today to schedule your private showing."
 SOFT,phone+stale_claim,13807 Guildhall Circle,Orlando,b056939e-ca57-43bf-a716-60cad8ff3928,,Please call 407-585-2721 to schedule your private showing!
 SOFT,phone+stale_claim,1381 Patterson Ter,Lake Mary,71b41842-716e-47a6-a4b5-168cb35a309b,,"This property is professionally leased and managed by Atrium Management Company, call today to schedule a private showing (407) 585-2721."
-SOFT,phone+stale_claim,13828 Guildhall Circle,Orlando,99075a0d-2a4f-4df7-8084-233e09a3e462,,Please call 407-585-2721 to schedule your private showing!
 SOFT,phone+stale_claim,1387 Hampton Park Lane,Melbourne,c8161378-5553-4953-98ab-72456d0b7a48,,Please call (407) 585-2721   to schedule your private showing!
 SOFT,phone+stale_claim,13906 Title Way,Winter Garden,648c8328-13fd-471b-83ae-8b75dc4748d3,,Call today for your private showing (407) 585-2721.
 SOFT,phone+stale_claim,14 South Court,Indialantic Beach,27265edd-a220-4428-8417-2528f019bfac,,Please call 321-779-7785 to schedule your private showing!
@@ -857,7 +858,6 @@ SOFT,phone+stale_claim,295 Greenway Ave NE,Palm Bay,dd893acb-16f6-466a-aca5-2d24
 SOFT,phone+stale_claim,299 Drexel Ln,Debary,61e07eca-19f5-4d13-9fdc-b7459e06f97e,,Call today to schedule a private showing at (407) 585-2721.
 SOFT,phone+stale_claim,30 N Primrose Dr,Orlando,7789b7ef-4aa6-49da-a909-cf799ccef816,,Call us today at (407) 585-2721 to schedule a tour and experience the charm and convenience of this home!
 SOFT,phone+stale_claim,3020 Buckhanon Trail,Deland,621142d2-4601-411e-a954-4e8ea12bfeae,,Please call 407-585-2721 to schedule your private showing!
-SOFT,phone+stale_claim,3028 Parkway Blvd APT 108,Kissimmee,69a1a2ea-2de0-4d08-98e0-b5b91fd43212,,Call 407-585-2721 today to schedule your private showing!
 SOFT,phone+stale_claim,304 Grand Valley Dr.,Lake Mary,aa5baf1e-79dd-4a0f-bb40-da8d33b45e83,,Professionally managed by Atrium Management – Call 407-585-2721 to schedule your private showing today!
 SOFT,phone+stale_claim,3042 Green Park Dr,Deland,4a56f22c-a815-4a8b-af0e-955112f17cff,,"This property is professionally leased and managed by Atrium Management Company, call today to schedule a private showing (407) 585-2721."
 SOFT,phone+stale_claim,3062 Green Park Dr,Deland,8ea34d13-3ffa-48bc-a75d-7c0b900c2338,,"This property is professionally leased and managed by Atrium Management Company, call today to schedule a private showing (407) 585-2721."
@@ -887,7 +887,6 @@ SOFT,phone+stale_claim,3372 River View Way,Winter Park,e63d4bbc-21bd-4da9-9fb2-e
 SOFT,phone+stale_claim,343 Carina Circle,Sanford,03a08028-9d1e-441d-bfcb-088aa01dd1e2,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,345 Lakepointe Dr Unit 104,Altamonte Springs,01044351-7493-4486-9de2-de94c3ce681b,,"This property is professionally leased and managed by Atrium Management Company, call today to schedule a private showing (407) 585-2721."
 SOFT,phone+stale_claim,345 Placid Lake Dr.,Sanford,ebc26484-f807-4ecc-aed4-0a469128ac2a,,Please call 407-585-2721 to schedule your private showing!
-SOFT,phone+stale_claim,3482 Wilshire Way Rd #201,Orlando,25dd325f-7a75-4ed1-a485-db4baa32360f,,Please call Atrium Management 407-585-2721 for more information or to schedule a tour!!
 SOFT,phone+stale_claim,349 Grove Avenue,Winter Park,046ec668-5f86-4b95-a265-b0384e951157,,"Professionally Managed by Atrium Management, don't wait, call (407) 585-2721 to schedule your viewing!"
 SOFT,phone+stale_claim,3505 Tabitha Court,Melbourne,1df78712-3714-4bd8-9753-d4bf5e41dd19,,Please call 321-779-7785 to schedule your private showing!
 SOFT,phone+stale_claim,35281 Cassis Path,Zephyrhills,86c244d9-3e71-4a32-b3ce-4fe4f89bda8e,,*Utilities and rental benefit package not included in rent* Call 813-553-3444 to schedule your tour.
@@ -1080,7 +1079,6 @@ SOFT,phone+stale_claim,EPIN2437-2471,Orlando,e648f666-d3f8-4118-b673-f7b4a79f763
 SOFT,phone+stale_claim,Elmwood Apartments,Orlando,1323928b-8045-4ae3-9501-37219294dd12,,Please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,GEOR1527,Orlando,26961f94-abad-41bd-a2c3-5f1b02fbd959,,Call 407-585-2721 today to schedule your private showing and experience the comfort and convenience of this charming Orlando rental for yourself.
 SOFT,phone+stale_claim,Janie B Apartments,Tampa,3259e94f-6e86-42a8-a4f6-16fe58e554e9,,Call 813-355-9968 to schedule your tour!
-SOFT,phone+stale_claim,Janie B Apartments,Tampa,f812226b-f1c1-494e-b888-93cce0d2217b,,"Professionally managed by Atrium Management Company, please call (813) 553-3444 to arrange your personal tour."
 SOFT,phone+stale_claim,LOFTY APARTMENTS,Richmond,a01e1c10-6496-47b9-bc64-8d8abec09dc5,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,Marina Villas,Tampa,dc296b0e-b8ef-4acd-83d8-5c9effcb9ddf,,Professionally managed by Atrium Management please call 813-553-3444 to schedule your private showing.
 SOFT,phone+stale_claim,Marina Villas,Tampa,a85dcc53-1059-4a46-a4af-d788e1320e9f,,Contact us today at 813-553-3444 to schedule a private tour and experience the epitome of modern living in one of Tampa's most desirable neighborhoods.
@@ -1434,6 +1432,7 @@ SOFT,stale_claim,2904 Sabal Palm Drive,Edgewater,dfbb75fa-a50d-4fc5-ad69-5f005d5
 SOFT,stale_claim,3005 E Jefferson Street,Orlando,53bf8f98-bb91-4d82-b57f-b5bae679afc9,,Don’t miss out on this exceptional opportunity to live in a spacious duplex in one of Orlando’s most dynamic and convenient areas.
 SOFT,stale_claim,3005 E Jefferson Street,Orlando,53bf8f98-bb91-4d82-b57f-b5bae679afc9,,Schedule a viewing today and experience the best of the Milk District living!
 SOFT,stale_claim,3020 Buckhanon Trail,Deland,621142d2-4601-411e-a954-4e8ea12bfeae,,AVAILABLE NOW!!!
+SOFT,stale_claim,3028 Parkway Blvd APT 108,Kissimmee,69a1a2ea-2de0-4d08-98e0-b5b91fd43212,,No Pets allowed.AVAILABLE NOW!!!
 SOFT,stale_claim,3037 Bonkirk Dr,Deltona,16015d1b-2d9b-4063-b294-d92d80129584,,AVAILABLE Now!
 SOFT,stale_claim,3042 Green Park Dr,Deland,4a56f22c-a815-4a8b-af0e-955112f17cff,,Don't miss out on this perfect opportunity to live in a BRAND NEW neighborhood.
 SOFT,stale_claim,3042 Green Park Dr,Deland,4a56f22c-a815-4a8b-af0e-955112f17cff,,Schedule a tour today and make this your new home.
@@ -1468,8 +1467,7 @@ SOFT,stale_claim,3422 Orange Rose Loop,Apopka,6e7fcfd4-749d-48cc-a72f-85f4a493b8
 SOFT,stale_claim,345 Lakepointe Dr Unit 104,Altamonte Springs,01044351-7493-4486-9de2-de94c3ce681b,,Don't miss out—schedule a tour today and experience this fantastic home for yourself!
 SOFT,stale_claim,345 Placid Lake Dr.,Sanford,ebc26484-f807-4ecc-aed4-0a469128ac2a,,AVAILABLE NOW!!!
 SOFT,stale_claim,3451 Hunt Ln,Oviedo,83a7faf4-bd95-4c35-aff4-26e54f83ca70,,Don’t miss out on this fantastic opportunity to live in one of Oviedo’s most sought-after areas!
-SOFT,stale_claim,3482 Wilshire Way Rd #201,Orlando,25dd325f-7a75-4ed1-a485-db4baa32360f,,Don't miss this opportunity to make this charming townhome your next home.
-SOFT,stale_claim,3482 Wilshire Way Rd #201,Orlando,25dd325f-7a75-4ed1-a485-db4baa32360f,,Schedule your tour today—this one won't last long!
+SOFT,stale_claim,3482 Wilshire Way Rd #201,Orlando,25dd325f-7a75-4ed1-a485-db4baa32360f,,AVAILABLE NOW!!!
 SOFT,stale_claim,349 Grove Avenue,Winter Park,046ec668-5f86-4b95-a265-b0384e951157,,DON'T MISS OUT on this opportunity to make this house your new home!
 SOFT,stale_claim,3525 Meadow Breeze Loop,Ocoee,de9b7e36-a309-40ae-bfd0-66d14282d938,,Don't miss out on this spacious home which is ongoing REMODELING!
 SOFT,stale_claim,3525 Meadow Breeze Loop,Ocoee,de9b7e36-a309-40ae-bfd0-66d14282d938,,Schedule your showing today!
@@ -1662,6 +1660,7 @@ SOFT,stale_claim,9137 Grand Island Way,Winter Garden,6cc60408-c803-4cc2-9447-e57
 SOFT,stale_claim,9137 Grand Island Way,Winter Garden,6cc60408-c803-4cc2-9447-e57fd38e607a,,Don't miss the opportunity to make this exceptional property your next home!
 SOFT,stale_claim,915 Pine Street,Titusville,12dfa3c3-61e1-4d8b-8544-c20fecfa33a5,,AVAILABLE NOW!!!
 SOFT,stale_claim,935 Shriver Cir,Lake Mary,0c0f7538-3a02-491f-90fd-8b374b253b1c,,AVAILABLE NOW!!
+SOFT,stale_claim,952-12 Courtyard Lane,Orlando,ad8d2395-6d18-4fca-8a2b-e332b44ccdc1,,AVAILABLE NOW!!
 SOFT,stale_claim,963 Glen Abbey Circle,Winter Springs,61264225-f204-4c79-84e7-e4588a6940cc,,AVAILABLE IMMEDIATELY!!!
 SOFT,stale_claim,Aston Square Apartments,Kissimmee,ae5f5865-6ca1-467d-9aa6-c510a37485cd,,Contact us today to schedule a tour and make this exceptional residence your new home.
 SOFT,stale_claim,Aston Square Apartments,Kissimmee,0374b674-6eff-487c-b199-177447ea5ca3,,Contact us today to join our tour waitlist!
@@ -1772,7 +1771,7 @@ SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,36982cf
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,3f3d7ae1-b2ba-4a10-8c2a-c644d9eb73aa,,"With comfortable living spaces and a community designed to feel like home, this opportunity won’t last long, reach out today before it’s gone!"
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,3f3d7ae1-b2ba-4a10-8c2a-c644d9eb73aa,,Schedule your tour today and see why you’ll love calling our community home!
 SOFT,stale_claim,Reserve at Lake Irene,Casselberry,a844b6ca-e648-4388-80c3-2fb8d7aa5ed2,,Contact us today to schedule your personalized tour and find your new home!
-SOFT,stale_claim,Reserve at Lake Irene,Casselberry,33534155-d66f-4822-9ece-11b5a6d100a2,,Contact us today to schedule your personalized tour and find your new home!
+SOFT,stale_claim,Reserve at Lake Irene,Casselberry,e5dbbe75-9d5c-4866-b285-33373fd0eeff,,Contact us today to schedule your personalized tour and find your new home!
 SOFT,stale_claim,Reserve at Lake Irene,Casselberry,129b9bcc-37fc-419e-bce2-2b5022887208,,Contact us today to schedule your personalized tour and find your new home!
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,AVAILABLE NOW!!!!!!!!
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,"Don't miss out on your opportunity to call one of these apartments your home, and now, renters can save BIG on our newest  * Rent includes water via monthly fee*"
@@ -1852,5 +1851,5 @@ SOFT,url,915 Pine Street,Titusville,12dfa3c3-61e1-4d8b-8544-c20fecfa33a5,,"Pet s
 SOFT,url,919 Pine Street,Titusville,b103ddf5-010b-46b5-a6cc-83f784a53592,,https://atrium.petscreening.com/
 SOFT,url,Barna Apartments,Titusville,0c8ce6c0-bba8-457d-8921-4ff1aaafd438,,Pet screening required: https://atrium.petscreening.com/
 SOFT,url,CIRC5,Melbourne,b33dafdd-f2fc-49e9-8788-bbb7988c212d,,https://atrium.petscreening.com/
-SOFT,url,Janie B Apartments,Tampa,f812226b-f1c1-494e-b888-93cce0d2217b,,https://my.matterport.com/show/?m=FaJ26idcmdo
+SOFT,url,Janie B Apartments,Tampa,234171cb-41fb-490c-aa21-eec092107abf,,https://my.matterport.com/show/?m=FaJ26idcmdo
 SOFT,url,Janie B Apartments,Tampa,16709393-475a-47b5-a932-c731b9c4b725,,ONLINE TOUR BELOW https://my.matterport.com/show/?m=qTRsPGvdXTd
