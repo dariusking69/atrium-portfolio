@@ -438,6 +438,7 @@ HARD,school_steering,GEOR1527,Orlando,26961f94-abad-41bd-a2c3-5f1b02fbd959,,- Ho
 HARD,school_steering,GEOR1527,Orlando,26961f94-abad-41bd-a2c3-5f1b02fbd959,,- Boone High School
 HARD,school_steering,Myrtle Ave Apartments,Sanford,4392df9a-d6c6-43dd-9920-83df96e5e766,,"Zoned for Pine Crest Elementary, Millennium Middle, and Seminole High School."
 HARD,school_steering,Salisbury Apartments,Deland,3a3648af-71c6-4987-a071-857c5b86f390,,"Zoned for Blue Lake Elementary School, DeLand Middle School, and DeLand High School."
+HARD,school_steering,Salisbury Apartments,Deland,f8a9c292-b8f9-484c-b8d8-bb345aa01d5b,,"Zoned for Blue Lake Elementary School, DeLand Middle School, and DeLand High School."
 HARD,school_steering,The Carl,Orlando,87b87792-57f8-441e-808a-87c2ae151eb8,,"Excellent Schools: Situated within the Lake Silver Elementary, Lee Middle, and a short stroll to Edgewater High School zones."
 HARD,school_steering,The Carl,Orlando,11c9f93a-a559-43c1-b967-3242f6e6ef29,,"Location & Community Perks Situated in a prime Orlando location, this property offers unmatched access to local amenities and top-rated schools:"
 HARD,school_steering,The Carl,Orlando,11c9f93a-a559-43c1-b967-3242f6e6ef29,,"Top-Tier School Zoning: Lake Silver Elementary, Lee Middle School, and walking distance to Edgewater High School."
@@ -474,7 +475,6 @@ BRAND,banned_word,Napiers Cir.,Orlando,90791133-34e0-4cf8-891a-bbc587b60f09,,Aff
 BRAND,banned_word,Napiers Cir.,Orlando,90791133-34e0-4cf8-891a-bbc587b60f09,,Incredible Price: Take advantage of this rare opportunity to live so close to UCF at an affordable rate.
 BRAND,banned_word,North Pointe Place,Orlando,f2e69426-808f-41ad-9960-4d0a4d5cb61d,,"Affordable, move-in-ready rentals near the AdventHealth complex go fast!"
 BRAND,banned_word,Salisbury Apartments,Deland,117ae2a5-527f-4354-baac-e0a43b5a527e,,Affordable Living: Enjoy the benefits of a newly renovated studio apartment without breaking the bank.
-BRAND,banned_word,Salisbury Apartments,Deland,d0b0c04b-d308-4ef4-8203-81ddc976201a,,Affordable Living: Enjoy the benefits of a newly renovated studio apartment without breaking the bank.
 BRAND,banned_word,San Leon,Sanford,da92d6f8-dd2c-4d08-8bb8-17c5bc057e0b,,"Additionally, this apartment comes with a convenient, affordable storage room, allowing you to keep additional belongings organized and easily accessible."
 BRAND,banned_word,Stetson Apartments,Deland,bda7c1c7-638d-4b9c-b68c-b7e02e87aac0,,Affordable Living: An excellent opportunity for budget-conscious individuals seeking a downtown lifestyle.
 BRAND,banned_word,Stetson Apartments,Deland,cbf55946-2fab-4b32-9798-b1fd18caf3c5,,"- Affordable Living: At just $1,100 per month, this is an incredible opportunity to live in a prime location without breaking the bank."
@@ -1082,6 +1082,7 @@ SOFT,phone+stale_claim,NCEN130,Winter Park,2bb54eb7-4dfb-47a1-a24f-a79a0daaf5af,
 SOFT,phone+stale_claim,Royal Villas,Titusville,c1c72454-4ede-4817-a6ab-49e6ba5ba41e,,Professionally managed by Atrium Management please call 407-243-8937 to schedule your showing.
 SOFT,phone+stale_claim,Royal Villas,Titusville,cb2dcda9-86b3-4425-8e91-4c4fe5ae44e0,,Professionally managed by Atrium Management please call 407-243-8937 to schedule your showing.
 SOFT,phone+stale_claim,Salisbury Apartments,Deland,3a3648af-71c6-4987-a071-857c5b86f390,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
+SOFT,phone+stale_claim,Salisbury Apartments,Deland,f8a9c292-b8f9-484c-b8d8-bb345aa01d5b,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,Stetson Apartments,Deland,65cf158d-8406-47de-b0a4-16f8e79c9350,,Contact us at 407-585-2721 to schedule your tour.
 SOFT,phone+stale_claim,The Grande @ Gainesville,Gainesville,c5a0edfb-998b-4946-96a6-215862e38c78,,call today to schedule a private showing 352-462-4414
 SOFT,phone+stale_claim,The Grande @ Gainesville,Gainesville,cc3a93ae-8467-4978-9ebf-f5abd420f9f8,,"Pets $250 one time Non refundable Pet monthly $25.00 This property is professionally leased and managed by Atrium Management Company, call today to schedule a private showing 352-462-4414"
@@ -1763,8 +1764,8 @@ SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,36982cf
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,3f3d7ae1-b2ba-4a10-8c2a-c644d9eb73aa,,"With comfortable living spaces and a community designed to feel like home, this opportunity won’t last long, reach out today before it’s gone!"
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,3f3d7ae1-b2ba-4a10-8c2a-c644d9eb73aa,,Schedule your tour today and see why you’ll love calling our community home!
 SOFT,stale_claim,Reserve at Lake Irene,Casselberry,a844b6ca-e648-4388-80c3-2fb8d7aa5ed2,,Contact us today to schedule your personalized tour and find your new home!
-SOFT,stale_claim,Reserve at Lake Irene,Casselberry,e5dbbe75-9d5c-4866-b285-33373fd0eeff,,Contact us today to schedule your personalized tour and find your new home!
-SOFT,stale_claim,Reserve at Lake Irene,Casselberry,129b9bcc-37fc-419e-bce2-2b5022887208,,Contact us today to schedule your personalized tour and find your new home!
+SOFT,stale_claim,Reserve at Lake Irene,Casselberry,33534155-d66f-4822-9ece-11b5a6d100a2,,Contact us today to schedule your personalized tour and find your new home!
+SOFT,stale_claim,Reserve at Lake Irene,Casselberry,c82ca85d-33b2-4af5-a9d4-342ddfa6e9e1,,Contact us today to schedule your personalized tour and find your new home!
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,AVAILABLE NOW!!!!!!!!
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,"Don't miss out on your opportunity to call one of these apartments your home, and now, renters can save BIG on our newest  * Rent includes water via monthly fee*"
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,Schedule your showing now and APPLY ONLINE
