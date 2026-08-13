@@ -49,7 +49,6 @@ HARD,familial,8400 Pippen Dr,Orlando,afa86428-41d9-4664-8658-770b8cfbdb91,,"Upst
 HARD,familial,869 Brutus Terrace,Lake Mary,33df8001-b35e-4009-9077-5d5ff0ae58b7,,"Upstairs, you’ll find the luxurious master suite with an en-suite bath, plus two additional bedrooms and another full bathroom—ideal for families, roommates, or guests."
 HARD,familial,Avenues of Baldwin Park,Orlando,cafe0a37-ded5-4728-a623-9e5a89d6b257,,"of comfortable living  ideal for families, roommates, or anyone who values extra space."
 HARD,familial,Case Residences,Tampa,c2642698-3800-47d5-b5aa-5c25473caaa3,,"It's an easy fit for professionals who need a home office or empty nesters hosting visiting family, with room to spare."
-HARD,familial,Janie B Apartments,Tampa,234171cb-41fb-490c-aa21-eec092107abf,,"Enjoy the convenience of a pet-friendly community in vibrant Seminole Heights, surrounded by local restaurants, urban diners, and family-friendly spots."
 HARD,familial,Janie B Apartments,Tampa,16709393-475a-47b5-a932-c731b9c4b725,,The home is in walking distance to dozen of  urban diners and local family friendly hang out spots.
 HARD,familial,Mission Club Apartments,Orlando,ceb5031c-7c88-4f75-a33a-5f02754362b1,,"of beautifully designed living space, this 3-bedroom, 2-bathroom floor plan is perfect for families, roommates, or anyone who loves to spread out, relax, and enjoy life in style."
 HARD,familial,Mission Club Apartments,Orlando,31533270-760f-434f-ad48-3e779a2c2577,,"of flexible living space, perfect for families, roommates, or anyone who loves room to live, work, and entertain."
@@ -563,7 +562,7 @@ SOFT,phone+email,Cranes Landing Apartments,Winter Park,1c91fb9f-a665-4ee7-9f3e-d
 SOFT,phone+email,Cranes Landing Apartments,Winter Park,24c9679c-9ea2-4539-84c1-1a298f4496b4,,"For more information, please contact the leasing office: P: 407-671-5585 E: CLA@atriummanagement.com"
 SOFT,phone+email,Cranes Landing Apartments,Winter Park,31551fb9-c5e4-4b52-848d-b5a64eeae877,,"For more information, please contact the leasing office: P: 407-671-5585 E: CLA@atriummanagement.com"
 SOFT,phone+email,Janie B Apartments,Tampa,435f854e-6574-40b6-8215-fbcfa00a0ec2,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
-SOFT,phone+email,Janie B Apartments,Tampa,234171cb-41fb-490c-aa21-eec092107abf,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
+SOFT,phone+email,Janie B Apartments,Tampa,f812226b-f1c1-494e-b888-93cce0d2217b,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,Janie B Apartments,Tampa,16709393-475a-47b5-a932-c731b9c4b725,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,Marina Villas,Tampa,a9cf0527-0b18-474d-ad61-4abe6ab661cb,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,Ocoee Village,Ocoee,b9e15ec8-e966-41a0-a460-436401984bf9,,For more information Text Ilka Goitia at (321) 549-0284 or igoitia@atriummanagement.com.
@@ -787,7 +786,6 @@ SOFT,phone+stale_claim,2205 Mystic Ring Loop,Kissimmee,16758398-c5e7-4b6b-a3f3-1
 SOFT,phone+stale_claim,2216 Elmsford Pt,Sanford,f7596329-b9ee-4636-9878-cc6ac67bf1f8,,This home is professionally leased and managed by Atrium Management please call today to schedule your viewing (407) 585-2721!
 SOFT,phone+stale_claim,2221 Canopy Terrace Blvd,Deland,5efb70c2-8404-4ea7-9c7d-b4b936a3d651,,"This property is professionally leased and managed by Atrium Management Company, call today to schedule a private showing (407) 585-2721."
 SOFT,phone+stale_claim,2225 Canopy Terrace Blvd,Deland,f4cf1bb6-a9e2-4f53-94dc-fe41dea29b7b,,"This property is professionally leased and managed by Atrium Management Company, call today to schedule a private showing (407) 585-2721."
-SOFT,phone+stale_claim,2234 Howard Dr,Winter Park,287750c5-0a13-4357-b82c-7ed2d296723a,,Call 407-585-2721 to schedule your private showing today!
 SOFT,phone+stale_claim,225 Hanging Moss Circle,Lake Mary,a75138c8-b03a-4416-b257-3bf21b04cefa,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,2321 Formosa Avenue,Orlando,a14689e8-0d23-4210-8d19-5ef8094cbe77,,Please call 407-585-2721 to schedule your private showing!
 SOFT,phone+stale_claim,234 Afton Square #303,Altamonte Springs,e999a471-4a32-424e-80c4-32f0801164da,,"Please call 407-585-2721 to schedule a tour today and experience all that 234 Afton Square, Unit #303 has to offer!"
@@ -802,7 +800,6 @@ SOFT,phone+stale_claim,2421 Wild Tamarind Blvd,Orlando,92d4a206-b5ee-49c4-a004-7
 SOFT,phone+stale_claim,2437 E. Jefferson Street,Orlando,4a83bfc3-89cb-4e08-8684-e586b41b2c10,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,2444 Hickory Oak Blvd,Orlando,f7bdaf22-7513-436a-ac6f-fd78ca0e16a9,,Please call 407-585-2721 to schedule your private showing!
 SOFT,phone+stale_claim,250 Killarney Drive,Winter Park,3494a68c-b636-4fe1-ad21-dbfc26e3ba8f,,Please call 407-585-2721 to schedule your private showing!
-SOFT,phone+stale_claim,2502 Kilgore Street,Orlando,0de505af-cb20-47c2-8786-a7d31cca0774,,Please call today for your private showing 407-585-2721.
 SOFT,phone+stale_claim,2504 Carmel Ln,Eustis,8695894c-958a-4c7c-a00c-f8a95a786ff2,,Please call 407-585-2721 to schedule your private showing!
 SOFT,phone+stale_claim,2504 Grassy Pt. Dr. #214,Lake Mary,c5b0ba00-1c10-4d70-8ff3-f0968fc902d6,,Showings: Please call 407-585-2721 to schedule your private tour!
 SOFT,phone+stale_claim,2505 E. Central Blvd.,Orlando,96d941d9-ea5d-4123-9702-ecd6f7606d71,,Please call 407-585-2721 to schedule your private showing!
@@ -935,7 +932,6 @@ SOFT,phone+stale_claim,474 Hunter Cir,Kissimmee,b6c11dfc-70cb-4754-b380-6618bfb7
 SOFT,phone+stale_claim,4761 Willamette Cir,Orlando,47b30088-1927-49d2-96f2-aca5f085daaf,,Call today for your private showing (407) 585-2721.
 SOFT,phone+stale_claim,"4814 Lighthouse Circle,  Unit #36",Orlando,a68e7afc-ce65-4a9d-a7b3-5fb8b9ed7fde,,Professionally leased and managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,4827 Legacy Oaks Dr,Orlando,92f188c3-899b-4317-87da-b035c53fff29,,"This property is professionally leased and managed by Atrium Management Company, call today to schedule a private showing (407) 585-2721."
-SOFT,phone+stale_claim,4854 Lark Drive,St. Cloud,e59e63fc-b4df-408c-8f3f-f756391c1b94,,Please call 407-585-2721 to schedule your private showing!
 SOFT,phone+stale_claim,4862 S Semoran Blvd,Orlando,0d264cc9-5799-4ad1-b638-a01f9ca67fa2,,Please call 407-585-2721 to schedule your private showing!
 SOFT,phone+stale_claim,4930 Shoreline Cir,Sanford,211aad3b-b252-49e0-85f0-a948539a2fad,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,4940 San Marino Circle,Lake Mary,b8935085-08fe-4cb8-b107-1b9d019be2dd,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
@@ -999,7 +995,6 @@ SOFT,phone+stale_claim,674 Sandy Neck Ln #204,Altamonte Springs,8194efb1-cb95-48
 SOFT,phone+stale_claim,686 Roaring Drive #342,Altamonte Springs,15f5b8fd-848c-44d2-a16a-43ad00447606,,Please call 407-585-2721 for more details!
 SOFT,phone+stale_claim,7010 Arcadian Ct,Mount Dora,f4f39652-68cd-40dd-bd58-b30a721ed007,,"Professionally leased and managed by Atrium Management Company, call today to schedule a private showing (407) 585-2721."
 SOFT,phone+stale_claim,715 Warrenton Road,Winter Park,ae98d400-db16-4b70-b988-48a000f10e31,,Call 407-585-2721 today to schedule your private showing and experience the comfort and convenience for yourself.
-SOFT,phone+stale_claim,72 Las Brisas Way,Kissimmee,9b05cbcf-f65c-4822-8325-e6d08d96e961,,Call 407-585-2721 today to schedule your private showing!
 SOFT,phone+stale_claim,72 W. Esther Street,Orlando,202fcce3-d03d-4939-95b6-15a90f1ee830,,Please call 407-585-2721 to schedule your private showing!
 SOFT,phone+stale_claim,724 Yager Ln,The Villages,297d3e3a-365e-4beb-b501-a7f5f5572919,,This property is professionally leased and managed by Atrium Management Company Call today to schedule a private showing (407) 585-2721.
 SOFT,phone+stale_claim,731 W Canton Ave,Winter Park,26a6f8a7-367f-4dcd-a5ea-ba649e376f83,,"This property is professionally leased and managed by Atrium Management Company, call today to schedule a private showing (407) 585-2721."
@@ -1009,7 +1004,6 @@ SOFT,phone+stale_claim,755 Musago Run,Lake Mary,e1eebdb8-c36b-45ba-9522-eecb7b43
 SOFT,phone+stale_claim,7555 Loon Avenue,Winter Garden,b309ede7-9762-4ce0-a6c1-ef897c76909e,,"This property is professionally leased and managed by Atrium Management Company, call today to schedule a private showing (407) 585-2721."
 SOFT,phone+stale_claim,7611 Autumn Pines Drive,Orlando,b78a96be-6500-4e3b-b1ac-875bf48d821b,,Please call 407-585-2721 to schedule your private showing!
 SOFT,phone+stale_claim,7619 Simms Ave,Orlando,fce04623-a1b8-4a60-bfad-1aeb4b0a8498,,Please call 407-585-2721 to schedule your private showing!
-SOFT,phone+stale_claim,765 Hendrix Ave,Orlando,39e6c519-a3fb-4dc5-a09e-6b97de039daf,,Call today to schedule a private showing (407) 585-2721.
 SOFT,phone+stale_claim,769 Star Magnolia Dr,Kissimmee,5fee5d5f-e1c3-45a6-b971-49c64ed4c0d0,,Call 407-585-2721 to schedule your private showing today!
 SOFT,phone+stale_claim,786 Oak Burl Ct,Sanford,3d7e16b6-0731-43bd-8ae4-28dae01cdb8e,,"This property is professionally leased and managed by Atrium Management Company, call today to schedule a private showing (407) 585-2721."
 SOFT,phone+stale_claim,787 Shropshire Lp,Sanford,b71d4967-5af5-4856-9fc3-63b7709feba1,,Please call 407-585-2721 to schedule your private showing!
@@ -1348,6 +1342,7 @@ SOFT,stale_claim,2221 Canopy Terrace Blvd,Deland,5efb70c2-8404-4ea7-9c7d-b4b936a
 SOFT,stale_claim,2221 Canopy Terrace Blvd,Deland,5efb70c2-8404-4ea7-9c7d-b4b936a3d651,,Schedule a tour today and make this your new home.
 SOFT,stale_claim,2225 Canopy Terrace Blvd,Deland,f4cf1bb6-a9e2-4f53-94dc-fe41dea29b7b,,Don't miss out on this perfect opportunity to live in a BRAND NEW neighborhood.
 SOFT,stale_claim,2225 Canopy Terrace Blvd,Deland,f4cf1bb6-a9e2-4f53-94dc-fe41dea29b7b,,Schedule a tour today and make this your new home.
+SOFT,stale_claim,2234 Howard Dr,Winter Park,287750c5-0a13-4357-b82c-7ed2d296723a,,AVAILABLE NOW!!!
 SOFT,stale_claim,2249 Golfview St,Lakeland,36876979-c8fc-417c-b2be-f09002d31d5d,,Don't miss out on this opportunity to make this house your new home!
 SOFT,stale_claim,2252 Weber St,Lakeland,91a51e13-4781-4b49-ac2e-edf1ba8c2ab3,,Don’t miss this opportunity!
 SOFT,stale_claim,2252 Weber St,Lakeland,91a51e13-4781-4b49-ac2e-edf1ba8c2ab3,,Contact us today to schedule your tour!
@@ -1369,6 +1364,7 @@ SOFT,stale_claim,2413 Waxwing Way,Sanford,a139d4e1-09ab-4b2f-b3f5-7f32cca59f23,,
 SOFT,stale_claim,2437 E. Jefferson Street,Orlando,4a83bfc3-89cb-4e08-8684-e586b41b2c10,,AVAILABLE NOW!
 SOFT,stale_claim,25 Country Club Dr,Largo,b3b16f1a-ce05-411f-8cf9-369220836f2c,,"Don't miss out on this fantastic opportunity to rent a 2 bedroom, 2 bathroom apartment at 25 Country Club Dr in Largo, Florida."
 SOFT,stale_claim,25 Country Club Dr,Largo,b3b16f1a-ce05-411f-8cf9-369220836f2c,,Contact us today to schedule a viewing and make this your new home!
+SOFT,stale_claim,2502 Kilgore Street,Orlando,0de505af-cb20-47c2-8786-a7d31cca0774,,AVAILABLE NOW!!!
 SOFT,stale_claim,2504 Carmel Ln,Eustis,8695894c-958a-4c7c-a00c-f8a95a786ff2,,"Fantastic 3 bedroom 2 bath home, great neighborhood, available NOW!!!"
 SOFT,stale_claim,2504 Carmel Ln,Eustis,8695894c-958a-4c7c-a00c-f8a95a786ff2,,AVAILABLE NOW!!!
 SOFT,stale_claim,2504 Grassy Pt. Dr. #214,Lake Mary,c5b0ba00-1c10-4d70-8ff3-f0968fc902d6,,Sharp 2BR/2BA Corner Condo with Water Views & In-Unit W/D $500 off First Month Rent **Available Now**
@@ -1594,6 +1590,7 @@ SOFT,stale_claim,6875 Broglie St,Orlando,7417b59e-112f-4263-8a3b-60b66218dcf5,,A
 SOFT,stale_claim,7010 Arcadian Ct,Mount Dora,f4f39652-68cd-40dd-bd58-b30a721ed007,,"3 Bedroom 2 Bath home for rent in Country Club of Mount Dora, a Golf Course Community AVAILABLE NOW!"
 SOFT,stale_claim,7106 - 7108 S Kissimme St.,Tampa,75c4d63f-75af-4359-a9ff-f3f75372f51a,,2 Bed / 1 Bath – 2nd Floor Apartment Available Now!
 SOFT,stale_claim,7106 - 7108 S Kissimme St.,Tampa,75c4d63f-75af-4359-a9ff-f3f75372f51a,,Call today to ask about current incentives!
+SOFT,stale_claim,72 Las Brisas Way,Kissimmee,9b05cbcf-f65c-4822-8325-e6d08d96e961,,AVAILABLE NOW!!!
 SOFT,stale_claim,720 Buena Vista St,Lakeland,dae4c2fc-156d-4635-9461-136c90da3f46,,Don't miss out on this wonderful opportunity to make this house your new home.
 SOFT,stale_claim,724 Yager Ln,The Villages,297d3e3a-365e-4beb-b501-a7f5f5572919,,"3-bedroom, 2-bathroom unfurnished home in The Villages **AVAILABLE NOW**"
 SOFT,stale_claim,724 Yager Ln,The Villages,297d3e3a-365e-4beb-b501-a7f5f5572919,,Hurry and schedule a tour today and make this your new home sweet home!
@@ -1676,8 +1673,8 @@ SOFT,stale_claim,Aston Square Apartments,Kissimmee,dcd012bf-5def-45b4-8284-db3f8
 SOFT,stale_claim,Aston Square Apartments,Kissimmee,dcd012bf-5def-45b4-8284-db3f83b6d277,,Contact us today to schedule a tour!
 SOFT,stale_claim,Aston Square Apartments,Kissimmee,e159cf67-1ba0-4f81-af8b-394c3361a767,,Don’t miss the chance to make this stunning carriage home your new residence.
 SOFT,stale_claim,Aston Square Apartments,Kissimmee,e159cf67-1ba0-4f81-af8b-394c3361a767,,Contact us today to schedule a tour!
-SOFT,stale_claim,Avenues of Baldwin Park,Orlando,f67beb9f-be49-4947-910d-cc35e511b6b8,,Schedule your tour today!
-SOFT,stale_claim,Avenues of Baldwin Park,Orlando,f67beb9f-be49-4947-910d-cc35e511b6b8,,Rental Terms Application Fee: $95 Admin Fee $250 Available Now Pet Policy Cats allowed Dogs allowed Amenities pool Valet Trash Soccer Field Clubhouse Lake View High Speed Internet 24 Hour Fitness Center Community Grill b
+SOFT,stale_claim,Avenues of Baldwin Park,Orlando,2c96a623-7336-48c4-9e1c-b003c7612278,,Schedule your tour today!
+SOFT,stale_claim,Avenues of Baldwin Park,Orlando,2c96a623-7336-48c4-9e1c-b003c7612278,,Rental Terms Application Fee: $95 Admin Fee $250 Available Now Pet Policy Cats allowed Dogs allowed Amenities pool Valet Trash Soccer Field Clubhouse Lake View High Speed Internet 24 Hour Fitness Center Community Grill b
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,bd52e4e3-9141-4e50-aa0e-edef20f35243,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities Valet Trash Clubhouse Outdoor deck High Speed Internet 24 Hour Fitness Center Community Grill basketball cour
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,16337770-02b1-48e3-8aa8-644b9f858acf,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities pool Valet Trash Soccer Field Community Clubhouse Outdoor deck High Speed Internet 24 Hour Fitness Center Pet
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,cafe0a37-ded5-4728-a623-9e5a89d6b257,,Schedule your tour today!
@@ -1851,5 +1848,5 @@ SOFT,url,915 Pine Street,Titusville,12dfa3c3-61e1-4d8b-8544-c20fecfa33a5,,"Pet s
 SOFT,url,919 Pine Street,Titusville,b103ddf5-010b-46b5-a6cc-83f784a53592,,https://atrium.petscreening.com/
 SOFT,url,Barna Apartments,Titusville,0c8ce6c0-bba8-457d-8921-4ff1aaafd438,,Pet screening required: https://atrium.petscreening.com/
 SOFT,url,CIRC5,Melbourne,b33dafdd-f2fc-49e9-8788-bbb7988c212d,,https://atrium.petscreening.com/
-SOFT,url,Janie B Apartments,Tampa,234171cb-41fb-490c-aa21-eec092107abf,,https://my.matterport.com/show/?m=FaJ26idcmdo
+SOFT,url,Janie B Apartments,Tampa,f812226b-f1c1-494e-b888-93cce0d2217b,,Virtual tour below https://my.matterport.com/show/?m=FaJ26idcmdo
 SOFT,url,Janie B Apartments,Tampa,16709393-475a-47b5-a932-c731b9c4b725,,ONLINE TOUR BELOW https://my.matterport.com/show/?m=qTRsPGvdXTd
