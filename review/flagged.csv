@@ -58,7 +58,7 @@ HARD,familial,The Roberson,Orlando,25ac0fa7-92a5-4b54-94d3-c37c40fe770a,,"- Life
 HARD,familial,The Roberson,Orlando,b2e3ab97-f92c-4c09-a9be-591a86f4dcc6,,"- Lifestyle Amenities: The area boasts family-friendly parks, accessible public transit, and walkable streets leading to grocery stores and restaurants."
 HARD,familial,The Roberson,Orlando,3a928e57-6664-49e4-82bb-5c0c2592c7a2,,"- Lifestyle Amenities: The area boasts family-friendly parks, accessible public transit, and walkable streets leading to grocery stores and restaurants."
 HARD,familial,Westshore Flats I,Tampa,3e34ab25-caad-484d-83f0-90ebc8fbaa2c,,"Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer — comfortable enough for professionals working from home or empty nesters h"
-HARD,familial,Westshore Marina Flats,Tampa,cd2f10d1-1583-40f1-ac41-53a08853c18e,,"Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer — comfortable enough for professionals working from home or empty nesters h"
+HARD,familial,Westshore Marina Flats,Tampa,1bcfcb81-63b2-4a05-b438-6e82bd566e67,,"Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer — comfortable enough for professionals working from home or empty nesters h"
 HARD,religion,1310 Fairview Avenue,Winter Park,76fac962-2a84-4f36-9a36-60e0368eeb3f,,"Margaret Mary Catholic School, Park Maitland School, Orangewood Christian School, and Trinity Preparatory School."
 HARD,religion,Raven Place,Richmond,a49a10dd-3775-4358-8e82-43fff8521312,,"Located in Richmond's vibrant East End, Raven's Place places you just minutes from downtown Richmond, VCU Medical Center, Church Hill, Shockoe Bottom, local restaurants, shopping, and major employers, offering the ideal "
 HARD,religion,Raven Place,Richmond,18a41785-b694-4e8f-a257-a6e9ae85af0e,,"Located in the heart of Richmond's historic East End, Raven's Place places you just minutes from downtown Richmond, VCU Medical Center, Church Hill, Shockoe Bottom, and some of the city's best dining, shopping, and enter"
@@ -1454,6 +1454,7 @@ SOFT,stale_claim,332 Wheelhouse Ln,Lake Mary,b1863573-859d-465d-b21b-773fdacbd26
 SOFT,stale_claim,334 Sparrow Wood Ct,Lake Mary,9e7b1d45-4236-4f14-9ef5-fe2ba1e25eb7,,"This home won't last long, don't miss out on your opportunity to live in this fantastic home, professionally leased and managed by Atrium Management."
 SOFT,stale_claim,334 Sparrow Wood Ct,Lake Mary,9e7b1d45-4236-4f14-9ef5-fe2ba1e25eb7,,AVAILABLE NOW!!
 SOFT,stale_claim,337 Grove Avenue,Winter Park,90fffd97-5ed4-41fa-85b7-d3409812bdfd,,3 Bedroom 2 Bath Winter Park Home Available Now!!!
+SOFT,stale_claim,3372 River View Way,Winter Park,e63d4bbc-21bd-4da9-9fb2-ee715eb1f15c,,AVAILABLE NOW
 SOFT,stale_claim,3422 Orange Rose Loop,Apopka,6e7fcfd4-749d-48cc-a72f-85f4a493b8df,,Don't miss the opportunity to live in one of Apopka's newest and most convenient communities!
 SOFT,stale_claim,3422 Orange Rose Loop,Apopka,6e7fcfd4-749d-48cc-a72f-85f4a493b8df,,AVAILABLE NOW!!
 SOFT,stale_claim,345 Lakepointe Dr Unit 104,Altamonte Springs,01044351-7493-4486-9de2-de94c3ce681b,,Don't miss out—schedule a tour today and experience this fantastic home for yourself!
@@ -1754,8 +1755,8 @@ SOFT,stale_claim,Oasis at San Marco,Jacksonville,83f2855b-bea7-4858-b92e-61a3c09
 SOFT,stale_claim,Oasis at San Marco,Jacksonville,1ae84ec3-75e7-47d9-9093-2713f91b698b,,Schedule your tour today — your new home awaits!
 SOFT,stale_claim,Oasis at San Marco,Jacksonville,c1ac784f-6aa2-4092-806a-3e4629dbfb12,,Schedule your tour today — your new home awaits!
 SOFT,stale_claim,Oasis at San Marco,Jacksonville,1bfb0a88-5786-4a27-a139-1688971c1fa2,,Schedule your tour today — your new home awaits!
-SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,8c75eec1-45aa-4a5f-bbdc-3ac0c1e8015b,,"With comfortable living spaces and a community designed to feel like home, this opportunity won’t last long, reach out today before it’s gone!"
-SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,8c75eec1-45aa-4a5f-bbdc-3ac0c1e8015b,,Schedule your tour today and see why you’ll love calling our community home!
+SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,6fe09fe5-7c98-4a79-9e88-2752debc34b3,,"With comfortable living spaces and a community designed to feel like home, this opportunity won’t last long, reach out today before it’s gone!"
+SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,6fe09fe5-7c98-4a79-9e88-2752debc34b3,,Schedule your tour today and see why you’ll love calling our community home!
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,b122e57e-6d41-4fcb-940a-472b99bdd2c3,,Don’t miss your chance to call Renaissance at Strawberry Creek home—schedule a tour today!
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,09217a98-708a-4392-9bed-e172c1a27606,,"With comfortable living spaces and a community designed to feel like home, this opportunity won’t last long, reach out today before it’s gone!"
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,09217a98-708a-4392-9bed-e172c1a27606,,Schedule your tour today and see why you’ll love calling our community home!
