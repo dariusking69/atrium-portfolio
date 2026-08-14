@@ -375,7 +375,7 @@ HARD,school_steering,6153 Metrowest Blvd,Orlando,4c033d18-87ee-490d-be7b-53f024e
 HARD,school_steering,616 Iris St,Altamonte Springs,0c7ddeb7-9ebd-4bc6-b954-fddff69b3cb7,,Zoned for Lake Brantley High School.
 HARD,school_steering,620 Florida Street,Orlando,93171002-2a9c-47e9-b0fc-a453970c4c09,,"Zoned for Blankner Elementary School, Blankner Middle School and Boone High School."
 HARD,school_steering,620 Florida Street,Orlando,f5f2075d-9582-4254-848f-ffad1a7bfa88,,"Zoned for Blankner Elementary School, Blankner Middle School and Boone High School."
-HARD,school_steering,620 Florida Street,Orlando,50c900c7-1f85-484a-8855-c1f9eb8b0a91,,"Zoned for top-rated schools including Blankner Elementary, Blankner Middle, and Boone High School."
+HARD,school_steering,620 Florida Street,Orlando,93250fa0-2bfa-4deb-96f3-380d8d9698ac,,"Zoned for Blankner Elementary School, Blankner Middle School and Boone High School."
 HARD,school_steering,630 Broadoak Loop,Sanford,41882ce2-ddde-44e9-88ff-3f5901b6cd54,,"Zoned Schools: Region 1 Elementary, Sanford Middle, and Seminole High School."
 HARD,school_steering,630 Kenwick APT 102 Cir,Casselberry,525c56cf-eae2-4d12-9c7e-8fdfd984cac1,,"Plus, benefit from the reputable Lake Howell High School zoning."
 HARD,school_steering,630 Linda Ct,Palm Harbor,865c4f45-98b7-42c0-80e9-22c6c2ff66bf,,"Plus, with easy access to public transit, shopping, dining, and top-rated schools, you’ll have everything you need right at your fingertips."
@@ -972,7 +972,7 @@ SOFT,phone+stale_claim,615 Casa Park Court A,Winter Springs,f1ddf895-8ea4-45db-b
 SOFT,phone+stale_claim,6153 Metrowest Blvd,Orlando,4c033d18-87ee-490d-be7b-53f024e1f527,,Please call 407-585-2721 to schedule your private showing!
 SOFT,phone+stale_claim,620 Florida Street,Orlando,93171002-2a9c-47e9-b0fc-a453970c4c09,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,620 Florida Street,Orlando,f5f2075d-9582-4254-848f-ffad1a7bfa88,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
-SOFT,phone+stale_claim,620 Florida Street,Orlando,50c900c7-1f85-484a-8855-c1f9eb8b0a91,,Call 407-585-2721 to schedule your private showing today!
+SOFT,phone+stale_claim,620 Florida Street,Orlando,93250fa0-2bfa-4deb-96f3-380d8d9698ac,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,6262 Yorktown Dr #177,Orlando,a6114d54-5738-47ad-b7fc-3e605e0bacc6,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,630 Broadoak Loop,Sanford,41882ce2-ddde-44e9-88ff-3f5901b6cd54,,Showings: Please call 407-585-2721 to schedule your private tour!
 SOFT,phone+stale_claim,630 Kenwick APT 102 Cir,Casselberry,525c56cf-eae2-4d12-9c7e-8fdfd984cac1,,Contact us today at 407.585.2721 to arrange a personal tour!
