@@ -338,6 +338,7 @@ HARD,school_steering,407 S Hawthorn Cir,Winter Springs,8a3bc192-7175-4f98-9c36-4
 HARD,school_steering,408 Kays Landing Dr,Sanford,0fcd4ae5-b5fb-4714-844b-ada33cb060f8,,"Zoned for   Region 1 Elementary, Sanford Middle, and Seminole High School."
 HARD,school_steering,4082 Sapsucker Loop,Sanford,d02b41bb-e59c-4447-b805-a7b776216288,,"Zoned for Sanford Middle School and Seminole High School, this property is professionally managed by Atrium Management."
 HARD,school_steering,413 S. Netherwood Crescent,Altamonte Springs,d20b4136-db14-424b-8183-c00f33c4542e,,"Zoned for Milwee Middle School, and Lyman High School."
+HARD,school_steering,418 Brentwood Club Cove,Longwood,1be6370f-330f-4b46-953b-3937bdc9ee22,,"Conveniently located near A-rated schools, shopping, dining, and major roadways."
 HARD,school_steering,426 Cape Honeysuckle Pl,Sanford,ba52998d-68e0-4216-a92d-4e998592cc83,,"Zoned for Wilson Elementary School, Markham Woods Middle School, and Seminole High School."
 HARD,school_steering,426 Davis Drive,Orlando,957525c0-ad3b-45f5-a5e8-1df2adff9cbb,,Zoned for Lake Como School and Edgewater High School.
 HARD,school_steering,4401 Messina Drive,Lake Mary,a4dea154-dfe1-4631-95b5-00fed3f1abe0,,"Zoned for Crystal Lake Elementary School, Millennium Middle School, and Seminole High School."
@@ -1500,6 +1501,7 @@ SOFT,stale_claim,405 NE Avenue M,Winter Haven,9b35b12a-fe80-4c76-8425-6962eb48e1
 SOFT,stale_claim,407 S Hawthorn Cir,Winter Springs,8a3bc192-7175-4f98-9c36-404c2d03059c,,AVAILABLE NOW!!!
 SOFT,stale_claim,408 Kays Landing Dr,Sanford,0fcd4ae5-b5fb-4714-844b-ada33cb060f8,,AVAILABLE NOW!!!
 SOFT,stale_claim,413 S. Netherwood Crescent,Altamonte Springs,d20b4136-db14-424b-8183-c00f33c4542e,,Please call to schedule private showing today!
+SOFT,stale_claim,418 Brentwood Club Cove,Longwood,1be6370f-330f-4b46-953b-3937bdc9ee22,,AVAILABLE Now!!
 SOFT,stale_claim,422 Springview Dr,Sanford,ce982903-c08a-4975-9161-cd032f05ca3b,,Charming and Spacious 3 Bedroom 2 Bath Home w/HUGE FENCED BACKYARD & 2 Car Garage in Sanford AVAILABLE IMMEDIATELY
 SOFT,stale_claim,422 Springview Dr,Sanford,ce982903-c08a-4975-9161-cd032f05ca3b,,"This property is professionally leased and managed by Atrium Management Company, don't miss out on the opportunity to make this house your home."
 SOFT,stale_claim,426 Davis Drive,Orlando,957525c0-ad3b-45f5-a5e8-1df2adff9cbb,,Please call today for viewing!
@@ -1530,6 +1532,7 @@ SOFT,stale_claim,5 Laurel Pass,Ocala,bccb2495-b81b-4be9-a93e-62d584e80fc3,,Call 
 SOFT,stale_claim,5026 Falmouth Dr,Orlando,0f25cf73-0b52-4208-bb15-8f44b20b2502,,Don't miss out on the opportunity to make this house your home!
 SOFT,stale_claim,5026 Falmouth Dr,Orlando,0f25cf73-0b52-4208-bb15-8f44b20b2502,,Apply TODAY and have your application fee waived for a move in date of March 14th or SOONER!
 SOFT,stale_claim,5119 Ferncrest Dr,Winter Park,c1c2fc31-5d40-444c-a210-4ca223779844,,Don't miss the opportunity to make this charming house your new home!
+SOFT,stale_claim,517 San Juan Blvd,Orlando,4384d34d-042a-44ac-b057-f673054987e5,,AVAILABLE NOW!!
 SOFT,stale_claim,527 Cidermill Place,Lake Mary,3ede45a7-09ba-4c27-81fb-b495c08a83ae,,Don't miss out – this exceptional residence will be available starting May 10th!
 SOFT,stale_claim,5314 Kempston Dr,Orlando,52d1f0cb-ac81-4831-91b3-57570b656a2a,,Don’t miss this exceptional opportunity—schedule your private viewing today!
 SOFT,stale_claim,5325 Curry Ford Rd Unit B201,Orlando,1a7bd754-f67d-4ee4-bb35-9b9ae5cf7905,,AVAILABLE NOW!
