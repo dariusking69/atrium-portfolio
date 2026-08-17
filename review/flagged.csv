@@ -526,7 +526,7 @@ SOFT,phone,8503 N Semmes St Unit B,Tampa,503741ed-3ca9-49a2-8fee-1a1c4b50522d,,8
 SOFT,phone,913 New Bedford Drive,Deland,a80777c0-4edd-4695-ab10-45102dd2bd78,,(407) 585-2721.
 SOFT,phone,CIRC7,Melbourne,78808bf5-0214-41a2-8daf-dd0ecac4df43,,Professionally managed by Atrium Management Company — call (407) 585-2721   to schedule your in-person showing.
 SOFT,phone,Champions Chase,Davenport,7d7af5fb-b147-49d1-b4a1-863058bf39b6,,For more information contact our leasing team at (407) 243-8382.
-SOFT,phone,Champions Chase,Davenport,aced2fde-08bd-4bd9-b52f-9012b9624ef3,,For more information contact our leasing team at (407) 243-8382.
+SOFT,phone,Champions Chase,Davenport,48a22420-6338-46a9-a0a8-36578d6da254,,For more information contact our leasing team at (407) 243-8382.
 SOFT,phone,Champions Chase,Davenport,3573dd6d-60b9-4025-919d-c539765cb04e,,For more information contact our leasing team at (407) 243-8382.
 SOFT,phone,Champions Chase,Davenport,872efb57-99c4-44ad-99fb-7efb88f358e8,,For more information contact our leasing team at (407) 243-8382.
 SOFT,phone,Champions Chase,Davenport,35f8d1bf-1546-4af8-a3ad-1d661b6a23e1,,For more information contact our leasing team at (407) 243-8382.
@@ -543,8 +543,8 @@ SOFT,phone,The Carl,Orlando,87b87792-57f8-441e-808a-87c2ae151eb8,,"To arrange a 
 SOFT,phone,The Lofts at Concord,Orlando,a15e72c2-5fc0-4131-8e9d-a13e2ebde2e6,,"Professionally Managed by Atrium Management, call 407-585-2721 today to set up your private showing."
 SOFT,phone,The Roberson,Orlando,74d9c1b9-f564-4598-8309-26d669260010,,Contact Atrium Management 407-585-2721 for showings.
 SOFT,phone,Valencia Isle,Orlando,8a758445-2e51-41c1-ab7a-ca4ff7a3d1f1,,For more information contact our leasing team at (407) 250-9302.
-SOFT,phone,Woodland Heights Apartments,Lakeland,1ba84890-e31f-4ca0-aecf-93ef1ac0546b,,"Contact Atrium Management today for more details and to schedule your personal tour, 407-585-2721!"
-SOFT,phone,Woodland Heights Apartments,Lakeland,af8f9927-94c3-4ef8-8509-b958a7f881f4,,"Contact Atrium Management today for more details and to schedule your personal tour, 407-585-2721!"
+SOFT,phone,Woodland Heights Apartments,Lakeland,1ba84890-e31f-4ca0-aecf-93ef1ac0546b,,Contact Atrium Management at today 407-585-2721 for more details and to schedule your personal tour!
+SOFT,phone,Woodland Heights Apartments,Lakeland,af8f9927-94c3-4ef8-8509-b958a7f881f4,,Contact Atrium Management at today 407-585-2721 for more details and to schedule your personal tour!
 SOFT,phone+email,12805 Avelar Manor Pl,Riverview,ee8f5d07-9c5d-47de-aa66-41905040b45a,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,17345 White Mangrove Drive,Wimauma,b217d8f9-d974-4d27-881d-2d4bc8cb6913,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,2514 Commerce Ave,Spring Hill,23335e15-23e4-4f5c-b8d3-335e5c5961f1,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
@@ -580,7 +580,7 @@ SOFT,phone+email,Sutton Fields,St Cloud,5af9719c-5528-4cb2-9f11-2333db2c4e8d,,Fo
 SOFT,phone+email,Sutton Fields,St Cloud,e87e78fa-2f0d-4aee-a97f-c40ae0d47aa4,,For more information contact Jillian Levine at (770) 713-7065 or jlevine@atriummanagement.com.
 SOFT,phone+email,Sutton Fields,St Cloud,c0dc3181-9c9b-4705-9e51-b2adc0db24d9,,For more information contact Jillian Levine at (770) 713-7065 or jlevine@atriummanagement.com.
 SOFT,phone+email,Sutton Fields,St Cloud,ed67f219-3d7a-4775-95b9-4de683efb5ba,,For more information contact Jillian Levine at (770) 713-7065 or jlevine@atriummanagement.com.
-SOFT,phone+email,Valencia Isle,Orlando,47a1b000-69e5-4c3c-96bb-139db761dacb,,For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.
+SOFT,phone+email,Valencia Isle,Orlando,fdb064bb-8446-40d1-8c45-bb64bf173cc8,,For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.
 SOFT,phone+email,Valencia Isle,Orlando,49e7c70a-30cc-4746-83e0-f133d3ed968c,,For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.
 SOFT,phone+email,Valencia Isle,Orlando,bab19def-680c-4688-87b9-6aaeb2d91990,,For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.
 SOFT,phone+email,Valencia Isle,Orlando,0b399d13-6409-4b56-bb0e-819a23b2628c,,For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.
@@ -1105,7 +1105,8 @@ SOFT,stale_claim,1 E King St,Orlando,f91039a6-18dd-4aef-8722-742c44046795,,3-Bed
 SOFT,stale_claim,1 E King St,Orlando,f91039a6-18dd-4aef-8722-742c44046795,,AVAILABLE NOW!
 SOFT,stale_claim,1 West Cary Apartments,Richmond,dd99e637-8721-42f7-b159-2d5c07b534c3,,Don't miss out on this amazing opportunity to experience the best of urban living in the heart of Richmond.
 SOFT,stale_claim,1 West Cary Apartments,Richmond,8485472e-121e-471b-8793-ebea8a6c88ec,,Don't miss out on the opportunity to make this apartment your new home.
-SOFT,stale_claim,1 West Cary Apartments,Richmond,747ce571-1c2c-4b0e-8e07-fe8114f92f2f,,"Schedule a tour today and discover your new home in Richmond, VA."
+SOFT,stale_claim,1 West Cary Apartments,Richmond,65ef96ac-e998-4c75-a124-74a72eb309f6,,Don't miss out on an opportunity to experience this amazing apartment for yourself.
+SOFT,stale_claim,1 West Cary Apartments,Richmond,65ef96ac-e998-4c75-a124-74a72eb309f6,,Contact us today to schedule a tour!
 SOFT,stale_claim,1 West Cary Apartments,Richmond,c05e1a6e-cdaf-4a9c-8140-88bfae24c91f,,Don't miss out on the opportunity to make this charming apartment your new home.
 SOFT,stale_claim,1 West Cary Apartments,Richmond,e71202eb-9768-4f22-9835-6a8f01c8ddce,,Don't miss out on this amazing opportunity to experience the best of urban living in the heart of Richmond.
 SOFT,stale_claim,1 West Cary Apartments,Richmond,c20147dd-b24e-4756-a512-63c0f80a9db6,,Don't miss out on the opportunity to make this apartment your new home!
@@ -1818,6 +1819,8 @@ SOFT,stale_claim,WMUR61,Orlando,23d8bdc1-f9c0-465e-86c2-9eb5cc2b6e89,,AVAILABLE 
 SOFT,stale_claim,Westshore Flats I,Tampa,50712ca4-75f9-4034-9694-76616fa00458,,Schedule a private tour today to choose your finish level.
 SOFT,stale_claim,Westshore Marina Flats,Tampa,26eb9080-8542-4bc6-8fa4-2b889ee52b9c,,Schedule a private tour today to choose your finish level.
 SOFT,stale_claim,Woodland Heights Apartments,Lakeland,1ba84890-e31f-4ca0-aecf-93ef1ac0546b,,Don't miss your opportunity to make Woodland Heights your new home!
+SOFT,stale_claim,Woodland Heights Apartments,Lakeland,1ba84890-e31f-4ca0-aecf-93ef1ac0546b,,Don't miss your opportunity to make Woodland Heights your new home!
+SOFT,stale_claim,Woodland Heights Apartments,Lakeland,af8f9927-94c3-4ef8-8509-b958a7f881f4,,Don't miss your opportunity to make Woodland Heights your new home!
 SOFT,stale_claim,Woodland Heights Apartments,Lakeland,af8f9927-94c3-4ef8-8509-b958a7f881f4,,Don't miss your opportunity to make Woodland Heights your new home!
 SOFT,url,1010 S Miramar Ave,Indialantic,dd020c0c-18e4-4827-a7f8-776178f84f7a,,Application fees are per adult and applications must be filled out on our site at www.atriummanagement.com $95.00 Application Fee (Non-Refundable) per adult.
 SOFT,url,1010 S Miramar Ave,Indialantic,dd020c0c-18e4-4827-a7f8-776178f84f7a,,"Pet screenings, affidavits, and/or applications are located online at https://app.petscreening.com/"
