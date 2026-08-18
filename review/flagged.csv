@@ -565,7 +565,7 @@ SOFT,phone+email,Cranes Landing Apartments,Winter Park,029afab1-9176-416b-8f70-7
 SOFT,phone+email,Janie B Apartments,Tampa,435f854e-6574-40b6-8215-fbcfa00a0ec2,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,Janie B Apartments,Tampa,f812226b-f1c1-494e-b888-93cce0d2217b,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,Janie B Apartments,Tampa,16709393-475a-47b5-a932-c731b9c4b725,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
-SOFT,phone+email,Marina Villas,Tampa,a9cf0527-0b18-474d-ad61-4abe6ab661cb,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
+SOFT,phone+email,Marina Villas,Tampa,117a5d4a-06d9-4793-b19a-baa3b3871b99,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,Ocoee Village,Ocoee,b9e15ec8-e966-41a0-a460-436401984bf9,,For more information Text Ilka Goitia at (321) 549-0284 or igoitia@atriummanagement.com.
 SOFT,phone+email,Ocoee Village,Ocoee,2fe38e97-d0a8-4b22-9826-915607e7e79f,,For more information Text Ilka Goitia at (321) 549-0284 or igoitia@atriummanagement.com.
 SOFT,phone+email,Ocoee Village,Ocoee,657220f9-da22-4af5-981e-8c46da49c84e,,For more information Text Ilka Goitia at (321) 549-0284 or igoitia@atriummanagement.com.
@@ -1714,11 +1714,8 @@ SOFT,stale_claim,EPIN2437-2471,Orlando,e648f666-d3f8-4118-b673-f7b4a79f763a,,AVA
 SOFT,stale_claim,Eastwood,Clearwater,6b43b7ef-c25f-43ce-80d5-8c148e842d5e,,AVAILABLE NOW!
 SOFT,stale_claim,GEOR1527,Orlando,26961f94-abad-41bd-a2c3-5f1b02fbd959,,Schedule Your Private Showing
 SOFT,stale_claim,GEOR1527,Orlando,26961f94-abad-41bd-a2c3-5f1b02fbd959,,"This is a must-see apartment in Orlando, FL that won’t last long."
-SOFT,stale_claim,Hammocks off Newberry,Gainesville,53795371-c65d-45cd-a304-6984cdf57987,,1/1 Apartment - Available Now!
 SOFT,stale_claim,Hammocks off Newberry,Gainesville,53795371-c65d-45cd-a304-6984cdf57987,,Call today for details and to book your personal tour of the community and talk about the exciting renovations that are being completed at the property!
-SOFT,stale_claim,Hammocks off Newberry,Gainesville,80a4c41c-e683-438b-b806-ce10f6fd5923,,2/1 Apartment - Available Now!
 SOFT,stale_claim,Hammocks off Newberry,Gainesville,80a4c41c-e683-438b-b806-ce10f6fd5923,,Call today for details and to book your personal tour of the community and talk about the exciting renovations that are being completed at the property!
-SOFT,stale_claim,Hammocks off Newberry,Gainesville,8fe92da3-a5f9-4fd8-bc7f-e1e0782268b9,,2/2 Apartment - Available Now!
 SOFT,stale_claim,Hammocks off Newberry,Gainesville,8fe92da3-a5f9-4fd8-bc7f-e1e0782268b9,,AVAILABLE NOW!!!
 SOFT,stale_claim,Hammocks off Newberry,Gainesville,8fe92da3-a5f9-4fd8-bc7f-e1e0782268b9,,Call today for details and to book your personal tour of the community and talk about the exciting renovations that are being completed at the property!
 SOFT,stale_claim,Harwood,Orlando,248eda02-ada8-432b-ac29-467e66127e9e,,Schedule a viewing today and see how this little hideaway can be your gateway to big-city adventures!
@@ -1736,6 +1733,7 @@ SOFT,stale_claim,Lake Tyler Manor,Orlando,d34368da-d24b-4cda-b42e-7ef2fb9eeef2,,
 SOFT,stale_claim,Lake Tyler Manor,Orlando,d34368da-d24b-4cda-b42e-7ef2fb9eeef2,,Contact us today to schedule your private showing!
 SOFT,stale_claim,Lake Tyler Manor,Orlando,e8dd91ab-0415-485b-872e-40b2e781daee,,Contact us today to schedule your private tour of Lake Tyler Manor and claim your month of free rent!
 SOFT,stale_claim,Lake Tyler Manor,Orlando,1851fb04-c772-414d-aaed-88b914f01b81,,Schedule a showing today!
+SOFT,stale_claim,Marina Villas,Tampa,117a5d4a-06d9-4793-b19a-baa3b3871b99,,AVAILABLE NOW!
 SOFT,stale_claim,Marina Villas,Tampa,dc296b0e-b8ef-4acd-83d8-5c9effcb9ddf,,AVAILABLE NOW!!
 SOFT,stale_claim,Marina Villas,Tampa,a85dcc53-1059-4a46-a4af-d788e1320e9f,,Don't miss out on the chance to call this remarkable residence your home.
 SOFT,stale_claim,Millie Gardens,Gainesville,d1c62f3e-43ff-475c-a1a0-23ba11e9e73c,,SPECIAL OFFER: Apply now and receive a $500 gift certificate!
