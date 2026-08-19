@@ -457,7 +457,7 @@ BRAND,banned_word,405 NE Avenue M,Winter Haven,9b35b12a-fe80-4c76-8425-6962eb48e
 BRAND,banned_word,517-B Blackbird Lane,Poinciana,80ec6efc-c0e1-4623-843e-371d3172e0bb,,"Prime Poinciana Location: Conveniently located just minutes from local shops, restaurants, and everyday essentials, this home is perfect for those looking for affordable rentals near central Poinciana amenities while enj"
 BRAND,banned_word,5325 Curry Ford Rd Unit B201,Orlando,1a7bd754-f67d-4ee4-bb35-9b9ae5cf7905,,"This charming second-floor unit offers the perfect blend of affordability, comfort, and prime location."
 BRAND,banned_word,5420 Tessin Trl,Saint Cloud,0829539d-6f04-46c5-9e59-4bf99945fb8e,,"If you’re searching for a single-family rental near Lake Nona, an affordable home for rent in Saint Cloud, FL, or a quiet neighborhood with modern accessibility, this home is an excellent choice."
-BRAND,banned_word,Champions Village,Kissimmee,c2566f88-f68f-4355-9adf-0080fc4d8a93,,Discover affordable luxury and unbeatable value at Champions Village.
+BRAND,banned_word,Champions Village,Kissimmee,735f8007-00ca-4d08-83a3-92ac56e0bfb7,,Discover affordable luxury and unbeatable value at Champions Village.
 BRAND,banned_word,Champions Village,Kissimmee,c3e99e98-6885-4d84-9009-ab840b64c11d,,Discover affordable luxury and unbeatable value at Champions Village.
 BRAND,banned_word,Champions Village,Kissimmee,2170466b-173c-4e48-a45a-bf3f689b4f62,,Discover affordable luxury and unbeatable value at Champions Village.
 BRAND,banned_word,Champions Village,Kissimmee,647eb5c8-b68e-47a8-b744-9791208c86c1,,Discover affordable luxury and unbeatable value at Champions Village.
@@ -552,7 +552,7 @@ SOFT,phone+email,2514 Commerce Ave,Spring Hill,23335e15-23e4-4f5c-b8d3-335e5c596
 SOFT,phone+email,324 7th St S Unit 1,St. Petersburg,125d237e-bf0c-4892-89a9-dcfb2c458b3f,,Rent Ready Now: 813-553-3444 or pg5@atriummanagement.com
 SOFT,phone+email,3806 -3808 W El Prado Blvd,Tampa,93c8fe8f-0939-414e-afde-3ecc9fe134d6,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,7106 - 7108 S Kissimme St.,Tampa,75c4d63f-75af-4359-a9ff-f3f75372f51a,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
-SOFT,phone+email,Champions Village,Kissimmee,c2566f88-f68f-4355-9adf-0080fc4d8a93,,E: ChampionsVillage@atriummanagement.com P: 407-329-3555
+SOFT,phone+email,Champions Village,Kissimmee,735f8007-00ca-4d08-83a3-92ac56e0bfb7,,E: ChampionsVillage@atriummanagement.com P: 407-329-3555
 SOFT,phone+email,Champions Village,Kissimmee,c3e99e98-6885-4d84-9009-ab840b64c11d,,E: ChampionsVillage@atriummanagement.com P: 407-329-3555
 SOFT,phone+email,Champions Village,Kissimmee,2170466b-173c-4e48-a45a-bf3f689b4f62,,E: ChampionsVillage@atriummanagement.com P: 407-329-3555
 SOFT,phone+email,Champions Village,Kissimmee,647eb5c8-b68e-47a8-b744-9791208c86c1,,E: ChampionsVillage@atriummanagement.com P: 407-329-3555
@@ -1689,7 +1689,7 @@ SOFT,stale_claim,CIRC5,Melbourne,b33dafdd-f2fc-49e9-8788-bbb7988c212d,,AVAILABLE
 SOFT,stale_claim,Carriage House,Deland,346fe0b4-2f3c-4a91-ae34-f0b351612295,,"Schedule Your Tour Today Spacious, renovated units in this prime location move quickly."
 SOFT,stale_claim,Case Residences,Tampa,e4dbb607-38fa-4f41-9120-da891019a594,,Schedule a private tour today to see this Palma Ceia home.
 SOFT,stale_claim,Case Residences,Tampa,c2642698-3800-47d5-b5aa-5c25473caaa3,,Schedule a private tour today to see this two-bedroom home.
-SOFT,stale_claim,Champions Village,Kissimmee,c2566f88-f68f-4355-9adf-0080fc4d8a93,,Schedule a tour today!
+SOFT,stale_claim,Champions Village,Kissimmee,735f8007-00ca-4d08-83a3-92ac56e0bfb7,,Schedule a tour today!
 SOFT,stale_claim,Champions Village,Kissimmee,c3e99e98-6885-4d84-9009-ab840b64c11d,,Schedule a tour today!
 SOFT,stale_claim,Champions Village,Kissimmee,2170466b-173c-4e48-a45a-bf3f689b4f62,,Schedule a tour today!
 SOFT,stale_claim,Champions Village,Kissimmee,2170466b-173c-4e48-a45a-bf3f689b4f62,,Please call for more information.
@@ -1753,7 +1753,7 @@ SOFT,stale_claim,North Pointe Place,Orlando,671e2b28-4f5b-40ec-96c2-ce8ab8ec4aa3
 SOFT,stale_claim,North Pointe Place,Orlando,f2e69426-808f-41ad-9960-4d0a4d5cb61d,,Available Now: Professionally prepped and completely rent-ready today.
 SOFT,stale_claim,North Pointe Place,Orlando,f2e69426-808f-41ad-9960-4d0a4d5cb61d,,Don’t miss your chance to secure this beautifully appointed 2-bedroom apartment in Orlando.
 SOFT,stale_claim,North Pointe Place,Orlando,f2e69426-808f-41ad-9960-4d0a4d5cb61d,,Contact us today to schedule your private tour or submit your application to make Unit 313 at North Pointe Place your new home.
-SOFT,stale_claim,Oasis at San Marco,Jacksonville,b095ebe5-c9cc-45a1-86ba-c9f4b12ac66e,,Schedule your tour today — your new home awaits!
+SOFT,stale_claim,Oasis at San Marco,Jacksonville,450aaf4a-a887-4a08-830d-e4899b2ed7c6,,Schedule your tour today — your new home awaits!
 SOFT,stale_claim,Oasis at San Marco,Jacksonville,1ae84ec3-75e7-47d9-9093-2713f91b698b,,Schedule your tour today — your new home awaits!
 SOFT,stale_claim,Oasis at San Marco,Jacksonville,8e12690a-36eb-488d-95ef-0e293894451a,,Schedule your tour today — your new home awaits!
 SOFT,stale_claim,Oasis at San Marco,Jacksonville,1bfb0a88-5786-4a27-a139-1688971c1fa2,,Schedule your tour today — your new home awaits!
