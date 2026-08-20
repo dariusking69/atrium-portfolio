@@ -322,7 +322,6 @@ HARD,school_steering,3651 N. Goldenrod Road #C206,Winter Park,5d932bec-8091-42b9
 HARD,school_steering,3651 Oakdale Cir APT 105,Oviedo,914b9807-3816-4301-9266-52d18ed3e456,,"Located in the heart of Oviedo, this community is zoned for highly-rated Seminole County schools, including Carillon Elementary, Jackson Heights Middle, and Hagerty High School."
 HARD,school_steering,371 Placid Lake Drive,Sanford,28870318-7b0a-4e7e-998c-a249da481b42,,"The home is zoned for highly rated Seminole County schools: Region 2 Elementary, Millennium Middle School, and Seminole High School."
 HARD,school_steering,3720 Messina Dr,Lake Mary,4b28c93d-73b2-4e67-8669-f0c6b04e1aff,,"Zoned for Crystal Lake Elementary School, Millennium Middle School, and Seminole High School."
-HARD,school_steering,3806 -3808 W El Prado Blvd,Tampa,00c2e4d0-c82e-4f23-b259-be6778ebfdf7,,"Enjoy living in a highly desirable school district with a strong community feel, tree-lined streets, and everything you need just moments away."
 HARD,school_steering,3906 Angola Ln,Sanford,a1bde8d3-5394-4e58-a1ba-1d4d1727c0f2,,"Situated in a prime location, this home is less than five minutes from Publix, making grocery shopping a breeze, and is conveniently close to top-rated schools, making it an ideal choice for families."
 HARD,school_steering,3970 Lancashire Ln,Longwood,df7ca452-020a-4059-85b0-2af7c70acbb5,,"Wekiva Springs State Park is just around the corner, and the area is served by excellent schools."
 HARD,school_steering,4010 San Gallo Dr,Kissimmee,6799fc69-f989-4da6-afd9-2f13faeee1f6,,"Ideally located just minutes from theme parks, dining, shopping, and more, and zoned for Kissimmee Elementary and Middle Schools and Celebration High School."
@@ -551,6 +550,7 @@ SOFT,phone+email,17345 White Mangrove Drive,Wimauma,b217d8f9-d974-4d27-881d-2d4b
 SOFT,phone+email,2514 Commerce Ave,Spring Hill,23335e15-23e4-4f5c-b8d3-335e5c5961f1,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,324 7th St S Unit 1,St. Petersburg,125d237e-bf0c-4892-89a9-dcfb2c458b3f,,Rent Ready Now: 813-553-3444 or pg5@atriummanagement.com
 SOFT,phone+email,3806 -3808 W El Prado Blvd,Tampa,93c8fe8f-0939-414e-afde-3ecc9fe134d6,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
+SOFT,phone+email,3806 -3808 W El Prado Blvd,Tampa,2a19015b-1921-4f75-8b8d-a2bd1cf2dd37,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,7106 - 7108 S Kissimme St.,Tampa,75c4d63f-75af-4359-a9ff-f3f75372f51a,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,Champions Village,Kissimmee,735f8007-00ca-4d08-83a3-92ac56e0bfb7,,E: ChampionsVillage@atriummanagement.com P: 407-329-3555
 SOFT,phone+email,Champions Village,Kissimmee,c3e99e98-6885-4d84-9009-ab840b64c11d,,E: ChampionsVillage@atriummanagement.com P: 407-329-3555
@@ -1482,8 +1482,7 @@ SOFT,stale_claim,3728 County Line Rd,Lakeland,699a70e8-4347-43ba-baba-5c5e0b5d6d
 SOFT,stale_claim,3732 County Line Rd,Lakeland,068d0d26-4cf1-4411-8aae-c89131329e29,,Don't miss out on the opportunity to make this lovely house your new home.
 SOFT,stale_claim,3732 County Line Rd,Lakeland,068d0d26-4cf1-4411-8aae-c89131329e29,,Contact us today for more information and to schedule a viewing.
 SOFT,stale_claim,3806 -3808 W El Prado Blvd,Tampa,93c8fe8f-0939-414e-afde-3ecc9fe134d6,,Schedule your tour today—this charming apartment won't last long!
-SOFT,stale_claim,3806 -3808 W El Prado Blvd,Tampa,00c2e4d0-c82e-4f23-b259-be6778ebfdf7,,Schedule a tour today!
-SOFT,stale_claim,3806 -3808 W El Prado Blvd,Tampa,00c2e4d0-c82e-4f23-b259-be6778ebfdf7,,Contact us now to secure your spot in one of South Tampa’s most iconic neighborhoods.
+SOFT,stale_claim,3806 -3808 W El Prado Blvd,Tampa,2a19015b-1921-4f75-8b8d-a2bd1cf2dd37,,Schedule your tour today—this charming apartment won't last long!
 SOFT,stale_claim,3810 Deeson Rd Unit 1,Lakeland,d3ad9a31-a852-41df-a594-b5b84cb2bb07,,Don't miss out on the opportunity to make this lovely duplex your new home.
 SOFT,stale_claim,3810 Deeson Rd Unit 1,Lakeland,d3ad9a31-a852-41df-a594-b5b84cb2bb07,,Contact us today for more information and to schedule a tour.
 SOFT,stale_claim,3810 Deeson Rd Unit 2,Lakeland,f4c6829e-4931-49b3-ba5d-579ab1740bf0,,Don't miss out on the opportunity to make this lovely duplex your new home.
@@ -1736,6 +1735,7 @@ SOFT,stale_claim,Lake Tyler Manor,Orlando,1851fb04-c772-414d-aaed-88b914f01b81,,
 SOFT,stale_claim,Marina Villas,Tampa,117a5d4a-06d9-4793-b19a-baa3b3871b99,,AVAILABLE NOW!
 SOFT,stale_claim,Marina Villas,Tampa,dc296b0e-b8ef-4acd-83d8-5c9effcb9ddf,,AVAILABLE NOW!!
 SOFT,stale_claim,Marina Villas,Tampa,a85dcc53-1059-4a46-a4af-d788e1320e9f,,Don't miss out on the chance to call this remarkable residence your home.
+SOFT,stale_claim,Milk Stacks,Orlando,d3ca4d04-c9a8-404e-ac38-03173ca95ae4,,Don't miss your opportunity to call The Milk Stacks home and experience modern apartment living in one of Orlando’s most unique neighborhoods.
 SOFT,stale_claim,Millie Gardens,Gainesville,d1c62f3e-43ff-475c-a1a0-23ba11e9e73c,,SPECIAL OFFER: Apply now and receive a $500 gift certificate!
 SOFT,stale_claim,Millie Gardens,Gainesville,d1c62f3e-43ff-475c-a1a0-23ba11e9e73c,,Don’t miss this limited-time
 SOFT,stale_claim,Millie Gardens,Gainesville,d1c62f3e-43ff-475c-a1a0-23ba11e9e73c,,"Spacious 2-Bedroom, 1-Bathroom Home Available Now!"
