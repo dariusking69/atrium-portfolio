@@ -544,7 +544,7 @@ SOFT,phone,The Lofts at Concord,Orlando,a15e72c2-5fc0-4131-8e9d-a13e2ebde2e6,,"P
 SOFT,phone,The Roberson,Orlando,74d9c1b9-f564-4598-8309-26d669260010,,Contact Atrium Management 407-585-2721 for showings.
 SOFT,phone,Valencia Isle,Orlando,8a758445-2e51-41c1-ab7a-ca4ff7a3d1f1,,For more information contact our leasing team at (407) 250-9302.
 SOFT,phone,Woodland Heights Apartments,Lakeland,1ba84890-e31f-4ca0-aecf-93ef1ac0546b,,Contact Atrium Management at today 407-585-2721 for more details and to schedule your personal tour!
-SOFT,phone,Woodland Heights Apartments,Lakeland,af8f9927-94c3-4ef8-8509-b958a7f881f4,,Contact Atrium Management at today 407-585-2721 for more details and to schedule your personal tour!
+SOFT,phone,Woodland Heights Apartments,Lakeland,089fefaf-afd8-49f4-b480-3eb7a65d41c8,,"Contact Atrium Management today for more details and to schedule your personal tour, 407-585-2721!"
 SOFT,phone+email,12805 Avelar Manor Pl,Riverview,ee8f5d07-9c5d-47de-aa66-41905040b45a,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,17345 White Mangrove Drive,Wimauma,b217d8f9-d974-4d27-881d-2d4bc8cb6913,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,2514 Commerce Ave,Spring Hill,23335e15-23e4-4f5c-b8d3-335e5c5961f1,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
@@ -1777,7 +1777,7 @@ SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,3f3d7ae
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,3f3d7ae1-b2ba-4a10-8c2a-c644d9eb73aa,,Schedule your tour today and see why you’ll love calling our community home!
 SOFT,stale_claim,Reserve at Lake Irene,Casselberry,a844b6ca-e648-4388-80c3-2fb8d7aa5ed2,,Contact us today to schedule your personalized tour and find your new home!
 SOFT,stale_claim,Reserve at Lake Irene,Casselberry,33534155-d66f-4822-9ece-11b5a6d100a2,,Contact us today to schedule your personalized tour and find your new home!
-SOFT,stale_claim,Reserve at Lake Irene,Casselberry,79b25332-ce2d-4565-8bb2-f97292b4a550,,Contact us today to schedule your personalized tour and find your new home!
+SOFT,stale_claim,Reserve at Lake Irene,Casselberry,e87019a1-5a46-4ae7-940a-b075301e99e5,,Contact us today to schedule your personalized tour and find your new home!
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,AVAILABLE NOW!!!!!!!!
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,"Don't miss out on your opportunity to call one of these apartments your home, and now, renters can save BIG on our newest  * Rent includes water via monthly fee*"
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,Schedule your showing now and APPLY ONLINE
@@ -1830,9 +1830,8 @@ SOFT,stale_claim,Westshore Marina Flats,Tampa,397f4405-4385-481e-9794-3fe9a22fe7
 SOFT,stale_claim,Woodland Heights Apartments,Lakeland,1ba84890-e31f-4ca0-aecf-93ef1ac0546b,,Don't miss your opportunity to make Woodland Heights your new home!
 SOFT,stale_claim,Woodland Heights Apartments,Lakeland,1ba84890-e31f-4ca0-aecf-93ef1ac0546b,,Don't miss your opportunity to make Woodland Heights your new home!
 SOFT,stale_claim,Woodland Heights Apartments,Lakeland,1ba84890-e31f-4ca0-aecf-93ef1ac0546b,,AVAILABLE NOW!
-SOFT,stale_claim,Woodland Heights Apartments,Lakeland,af8f9927-94c3-4ef8-8509-b958a7f881f4,,Don't miss your opportunity to make Woodland Heights your new home!
-SOFT,stale_claim,Woodland Heights Apartments,Lakeland,af8f9927-94c3-4ef8-8509-b958a7f881f4,,Don't miss your opportunity to make Woodland Heights your new home!
-SOFT,stale_claim,Woodland Heights Apartments,Lakeland,af8f9927-94c3-4ef8-8509-b958a7f881f4,,AVAILABLE NOW
+SOFT,stale_claim,Woodland Heights Apartments,Lakeland,089fefaf-afd8-49f4-b480-3eb7a65d41c8,,Don't miss your opportunity to make Woodland Heights your new home!
+SOFT,stale_claim,Woodland Heights Apartments,Lakeland,089fefaf-afd8-49f4-b480-3eb7a65d41c8,,AVAILABLE NOW!
 SOFT,url,1010 S Miramar Ave,Indialantic,dd020c0c-18e4-4827-a7f8-776178f84f7a,,Application fees are per adult and applications must be filled out on our site at www.atriummanagement.com $95.00 Application Fee (Non-Refundable) per adult.
 SOFT,url,1010 S Miramar Ave,Indialantic,dd020c0c-18e4-4827-a7f8-776178f84f7a,,"Pet screenings, affidavits, and/or applications are located online at https://app.petscreening.com/"
 SOFT,url,1280 Katrina Course,Palm Bay,0f1dbde0-203d-40da-92ed-4050a17e09e8,,Apply here: https://atrium.petscreening.com/
