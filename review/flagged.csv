@@ -541,8 +541,8 @@ SOFT,phone,The Carl,Orlando,87b87792-57f8-441e-808a-87c2ae151eb8,,"To arrange a 
 SOFT,phone,The Lofts at Concord,Orlando,a15e72c2-5fc0-4131-8e9d-a13e2ebde2e6,,"Professionally Managed by Atrium Management, call 407-585-2721 today to set up your private showing."
 SOFT,phone,The Roberson,Orlando,74d9c1b9-f564-4598-8309-26d669260010,,Contact Atrium Management 407-585-2721 for showings.
 SOFT,phone,Valencia Isle,Orlando,8a758445-2e51-41c1-ab7a-ca4ff7a3d1f1,,For more information contact our leasing team at (407) 250-9302.
-SOFT,phone,Woodland Heights Apartments,Lakeland,1ba84890-e31f-4ca0-aecf-93ef1ac0546b,,Contact Atrium Management at today 407-585-2721 for more details and to schedule your personal tour!
-SOFT,phone,Woodland Heights Apartments,Lakeland,af8f9927-94c3-4ef8-8509-b958a7f881f4,,Contact Atrium Management at today 407-585-2721 for more details and to schedule your personal tour!
+SOFT,phone,Woodland Heights Apartments,Lakeland,1ba84890-e31f-4ca0-aecf-93ef1ac0546b,,Contact Atrium Management today at 407-585-2721 for more details and to schedule your personal tour!
+SOFT,phone,Woodland Heights Apartments,Lakeland,af8f9927-94c3-4ef8-8509-b958a7f881f4,,Contact Atrium Management today at 407-585-2721 for more details and to schedule your personal tour!
 SOFT,phone+email,12805 Avelar Manor Pl,Riverview,ee8f5d07-9c5d-47de-aa66-41905040b45a,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,17345 White Mangrove Drive,Wimauma,b217d8f9-d974-4d27-881d-2d4bc8cb6913,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,2514 Commerce Ave,Spring Hill,23335e15-23e4-4f5c-b8d3-335e5c5961f1,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
@@ -1483,7 +1483,6 @@ SOFT,stale_claim,371 Placid Lake Drive,Sanford,28870318-7b0a-4e7e-998c-a249da481
 SOFT,stale_claim,3728 County Line Rd,Lakeland,699a70e8-4347-43ba-baba-5c5e0b5d6de8,,Schedule your tour today this one won’t last long!
 SOFT,stale_claim,3732 County Line Rd,Lakeland,068d0d26-4cf1-4411-8aae-c89131329e29,,Don't miss out on the opportunity to make this lovely house your new home.
 SOFT,stale_claim,3732 County Line Rd,Lakeland,068d0d26-4cf1-4411-8aae-c89131329e29,,Contact us today for more information and to schedule a viewing.
-SOFT,stale_claim,3732 County Line Rd,Lakeland,068d0d26-4cf1-4411-8aae-c89131329e29,,AVAILABLE NOW!
 SOFT,stale_claim,3806 -3808 W El Prado Blvd,Tampa,93c8fe8f-0939-414e-afde-3ecc9fe134d6,,Schedule your tour today—this charming apartment won't last long!
 SOFT,stale_claim,3806 -3808 W El Prado Blvd,Tampa,2a19015b-1921-4f75-8b8d-a2bd1cf2dd37,,Schedule your tour today—this charming apartment won't last long!
 SOFT,stale_claim,3810 Deeson Rd Unit 1,Lakeland,d3ad9a31-a852-41df-a594-b5b84cb2bb07,,Don't miss out on the opportunity to make this lovely duplex your new home.
@@ -1820,11 +1819,7 @@ SOFT,stale_claim,WMUR61,Orlando,23d8bdc1-f9c0-465e-86c2-9eb5cc2b6e89,,AVAILABLE 
 SOFT,stale_claim,Westshore Flats I,Tampa,50712ca4-75f9-4034-9694-76616fa00458,,Schedule a private tour today to choose your finish level.
 SOFT,stale_claim,Westshore Marina Flats,Tampa,bfb3afa7-df20-4ea9-b689-d1c8590504f2,,Schedule a private tour today to choose your finish level.
 SOFT,stale_claim,Woodland Heights Apartments,Lakeland,1ba84890-e31f-4ca0-aecf-93ef1ac0546b,,Don't miss your opportunity to make Woodland Heights your new home!
-SOFT,stale_claim,Woodland Heights Apartments,Lakeland,1ba84890-e31f-4ca0-aecf-93ef1ac0546b,,Don't miss your opportunity to make Woodland Heights your new home!
-SOFT,stale_claim,Woodland Heights Apartments,Lakeland,1ba84890-e31f-4ca0-aecf-93ef1ac0546b,,AVAILABLE NOW!
 SOFT,stale_claim,Woodland Heights Apartments,Lakeland,af8f9927-94c3-4ef8-8509-b958a7f881f4,,Don't miss your opportunity to make Woodland Heights your new home!
-SOFT,stale_claim,Woodland Heights Apartments,Lakeland,af8f9927-94c3-4ef8-8509-b958a7f881f4,,Don't miss your opportunity to make Woodland Heights your new home!
-SOFT,stale_claim,Woodland Heights Apartments,Lakeland,af8f9927-94c3-4ef8-8509-b958a7f881f4,,AVAILABLE NOW
 SOFT,url,1010 S Miramar Ave,Indialantic,dd020c0c-18e4-4827-a7f8-776178f84f7a,,Application fees are per adult and applications must be filled out on our site at www.atriummanagement.com $95.00 Application Fee (Non-Refundable) per adult.
 SOFT,url,1010 S Miramar Ave,Indialantic,dd020c0c-18e4-4827-a7f8-776178f84f7a,,"Pet screenings, affidavits, and/or applications are located online at https://app.petscreening.com/"
 SOFT,url,1280 Katrina Course,Palm Bay,0f1dbde0-203d-40da-92ed-4050a17e09e8,,Apply here: https://atrium.petscreening.com/
