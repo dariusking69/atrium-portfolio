@@ -47,7 +47,7 @@ HARD,familial,786 Oak Burl Ct,Sanford,3d7e16b6-0731-43bd-8ae4-28dae01cdb8e,,"The
 HARD,familial,824 Wood Briar Loop,Sanford,b08902fd-59f9-4d01-9a31-b648d222b1a5,,"This beautiful 4-bedroom, 3-bathroom home perfectly balances luxury and comfort, with spacious living areas that are ideal for family gatherings or hosting friends."
 HARD,familial,8400 Pippen Dr,Orlando,afa86428-41d9-4664-8658-770b8cfbdb91,,"Upstairs, the 3rd, 4th, and 5th bedrooms each include walk-in closets, with the 3rd and 4th bedrooms connected by a spacious Jack-and-Jill bathroom—perfect for family living or visiting guests."
 HARD,familial,869 Brutus Terrace,Lake Mary,33df8001-b35e-4009-9077-5d5ff0ae58b7,,"Upstairs, you’ll find the luxurious master suite with an en-suite bath, plus two additional bedrooms and another full bathroom—ideal for families, roommates, or guests."
-HARD,familial,Avenues of Baldwin Park,Orlando,c23137e7-ba91-4753-a6e9-f5c2a86e58d9,,"of comfortable living  ideal for families, roommates, or anyone who values extra space."
+HARD,familial,Avenues of Baldwin Park,Orlando,d0dd9675-7ffd-43e2-92ca-63149a5bcb17,,"of comfortable living  ideal for families, roommates, or anyone who values extra space."
 HARD,familial,Case Residences,Tampa,fbef3793-1234-4262-b1f8-8bc4f46930e9,,"It's an easy fit for professionals who need a home office or empty nesters hosting visiting family, with room to spare."
 HARD,familial,Janie B Apartments,Tampa,2194f9c8-81aa-437f-8bbf-cc61b1b0f7b3,,Seminole heights is home to dozens of urban diners and local family friendly hang out spots.
 HARD,familial,Mission Club Apartments,Orlando,55635c12-a996-43a7-af65-240b84092d2b,,"of beautifully designed living space, this 3-bedroom, 2-bathroom floor plan is perfect for families, roommates, or anyone who loves to spread out, relax, and enjoy life in style."
@@ -526,7 +526,7 @@ SOFT,phone,Centerpoint Apartments,Gainesville,2d5d3fd7-97b2-4c4a-a94d-0b11154c57
 SOFT,phone,Champions Chase,Davenport,7d7af5fb-b147-49d1-b4a1-863058bf39b6,,For more information contact our leasing team at (407) 243-8382.
 SOFT,phone,Champions Chase,Davenport,48a22420-6338-46a9-a0a8-36578d6da254,,For more information contact our leasing team at (407) 243-8382.
 SOFT,phone,Champions Chase,Davenport,3573dd6d-60b9-4025-919d-c539765cb04e,,For more information contact our leasing team at (407) 243-8382.
-SOFT,phone,Champions Chase,Davenport,872efb57-99c4-44ad-99fb-7efb88f358e8,,For more information contact our leasing team at (407) 243-8382.
+SOFT,phone,Champions Chase,Davenport,9fdb92a6-bc44-406b-99a3-f5cdd140ee9b,,For more information contact our leasing team at (407) 243-8382.
 SOFT,phone,Champions Chase,Davenport,35f8d1bf-1546-4af8-a3ad-1d661b6a23e1,,For more information contact our leasing team at (407) 243-8382.
 SOFT,phone,Coral Gables @ Bellview,Belleview,bdea7e61-3291-4a33-a979-71589079dcf3,,Have any questions call 904-290-2931 Monday through Friday 9-5
 SOFT,phone,Eastwood,Clearwater,6b43b7ef-c25f-43ce-80d5-8c148e842d5e,,Professionally managed by ATRIUM MANAGEMENT COMPANY (CALL 813-553-3444 TO SET UP YOUR PERSONAL TOUR).
@@ -946,7 +946,6 @@ SOFT,phone+stale_claim,530 Cranes Way,Altamonte Springs,b90a961f-9c90-479d-8a3e-
 SOFT,phone+stale_claim,5313 Lake Bluff Terrace,Sanford,53a842f3-12f5-4c6e-9fab-8cad5941cf2c,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,5325 Curry Ford Rd Unit B201,Orlando,1a7bd754-f67d-4ee4-bb35-9b9ae5cf7905,,Call 407-585-2721 to schedule your private showing today!
 SOFT,phone+stale_claim,536 Sunrise Dr,Orlando,71fe2aa9-899d-40d2-a251-1df5e4313f97,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
-SOFT,phone+stale_claim,5403 Loma Vista Loop,Davenport,4a836f48-5738-45d4-acce-a900b36d6430,,"Call Atrium Management today to schedule your private showing, 407.585.2721!"
 SOFT,phone+stale_claim,5420 Tessin Trl,Saint Cloud,0829539d-6f04-46c5-9e59-4bf99945fb8e,,"This property is professionally leased and managed by Atrium Management Company, call today to schedule a private showing (407) 585-2721 and experience the comfort and convenience this Saint Cloud rental has to offer."
 SOFT,phone+stale_claim,5420 Tessin Trl,Saint Cloud,0829539d-6f04-46c5-9e59-4bf99945fb8e,,Call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,5435 Via Appia Way,Sanford,fcb6d13c-98d5-4c8d-b7ac-0b0ac46468fb,,Showings: Please call 407-585-2721 to schedule your private tour!
@@ -1154,6 +1153,7 @@ SOFT,stale_claim,1102 Elmwood St #G,Orlando,bdfd2358-76f9-4df4-a120-2902361d50f0
 SOFT,stale_claim,1102 Levensor Court,Sanford,144f768c-edf8-467c-9960-5a5a71e3b07f,,Schedule your private tour today!
 SOFT,stale_claim,1103 N Combee Rd,Lakeland,91a45fa4-be7c-4c27-b31e-8ede5101d590,,"Don't miss out on the opportunity to make this lovely house your new home in Lakeland, FL."
 SOFT,stale_claim,1106 Lake Willisara Cir #20-25,Orlando,52df0460-85f9-472d-be44-59625b643b09,,Don't miss your chance to own this wonderful lakeside property!
+SOFT,stale_claim,1113 Scuba Ct,Orlando,59b33dee-e844-48e9-9652-08d85e197489,,AVAILABLE NOW!!
 SOFT,stale_claim,112 Cory Lane,Winter Springs,c485eda5-302e-4c3a-9f35-f4b9b27133e1,,Bright 2BR/2BA Apartment Near Winter Springs Town Center – Available NOW!!
 SOFT,stale_claim,11213 Moonshine Creek Circle,Orlando,d9afcec3-ce60-444c-924f-c09c72b8090c,,AVAILABLE NOW!!!
 SOFT,stale_claim,11242 Savannah Landing Circle,Orlando,829a8570-c5ef-45e4-b91d-50c3b0015e0e,,AVAILABLE NOW!!!
@@ -1544,7 +1544,6 @@ SOFT,stale_claim,536 Sunrise Dr,Orlando,71fe2aa9-899d-40d2-a251-1df5e4313f97,,"W
 SOFT,stale_claim,536 Sunrise Dr,Orlando,71fe2aa9-899d-40d2-a251-1df5e4313f97,,Don’t miss out on this move-in-ready gem!
 SOFT,stale_claim,536 Sunrise Dr,Orlando,71fe2aa9-899d-40d2-a251-1df5e4313f97,,Don't miss out on this incredible opportunity to make this house your forever home.
 SOFT,stale_claim,536 Sunrise Dr,Orlando,71fe2aa9-899d-40d2-a251-1df5e4313f97,,AVAILABLE NOW!!
-SOFT,stale_claim,5403 Loma Vista Loop,Davenport,4a836f48-5738-45d4-acce-a900b36d6430,,"Don't miss the opportunity to enjoy comfort, convenience, and exceptional value all in one place!"
 SOFT,stale_claim,5420 Tessin Trl,Saint Cloud,0829539d-6f04-46c5-9e59-4bf99945fb8e,,Don’t miss the opportunity to make 5420 Tessin Trl your next home.
 SOFT,stale_claim,5512 Metrowest Blvd,Orlando,ea9477c0-9d25-4a12-89fd-a44776a60ab9,,Bright 1-Bedroom Condo with Pool View at Palms Club – Available Now!
 SOFT,stale_claim,5512 Metrowest Blvd,Orlando,ea9477c0-9d25-4a12-89fd-a44776a60ab9,,AVAILABLE NOW!
@@ -1680,8 +1679,8 @@ SOFT,stale_claim,Avenues of Baldwin Park,Orlando,c7832690-97c6-4333-89aa-86bcb3d
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,c7832690-97c6-4333-89aa-86bcb3d1326a,,Rental Terms Application Fee: $95 Admin Fee $250 Available Now Pet Policy Cats allowed Dogs allowed Amenities pool Valet Trash Soccer Field Clubhouse Lake View High Speed Internet 24 Hour Fitness Center Community Grill b
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,529bf608-0d70-4da9-b513-4e911c4676a7,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities Valet Trash Clubhouse Outdoor deck High Speed Internet 24 Hour Fitness Center Community Grill basketball cour
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,5effb75d-71eb-45db-a3c6-3afe40943c44,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities pool Valet Trash Soccer Field Community Clubhouse Outdoor deck High Speed Internet 24 Hour Fitness Center Pet
-SOFT,stale_claim,Avenues of Baldwin Park,Orlando,c23137e7-ba91-4753-a6e9-f5c2a86e58d9,,Schedule your tour today!
-SOFT,stale_claim,Avenues of Baldwin Park,Orlando,c23137e7-ba91-4753-a6e9-f5c2a86e58d9,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities Valet Trash Soccer Field Clubhouse High Speed Internet Pet Friendly Dog park Basketball court Playground Comm
+SOFT,stale_claim,Avenues of Baldwin Park,Orlando,d0dd9675-7ffd-43e2-92ca-63149a5bcb17,,Schedule your tour today!
+SOFT,stale_claim,Avenues of Baldwin Park,Orlando,d0dd9675-7ffd-43e2-92ca-63149a5bcb17,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities Valet Trash Soccer Field Clubhouse High Speed Internet Pet Friendly Dog park Basketball court Playground Comm
 SOFT,stale_claim,Barna Apartments,Titusville,0c8ce6c0-bba8-457d-8921-4ff1aaafd438,,AVAILABLE NOW!
 SOFT,stale_claim,Beach Flats,Tampa,d1c91cf2-402c-4827-8e05-c37ecf5fed19,,Schedule a private tour today to find your fit.
 SOFT,stale_claim,Beach Flats,Tampa,167b45df-a29e-48ff-b7fd-df8bcc4aaae7,,Schedule a private tour today to see this two-bedroom home.
