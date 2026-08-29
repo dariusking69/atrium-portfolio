@@ -527,7 +527,7 @@ SOFT,phone,Centerpoint Apartments,Gainesville,2d5d3fd7-97b2-4c4a-a94d-0b11154c57
 SOFT,phone,Champions Chase,Davenport,7d7af5fb-b147-49d1-b4a1-863058bf39b6,,For more information contact our leasing team at (407) 243-8382.
 SOFT,phone,Champions Chase,Davenport,48a22420-6338-46a9-a0a8-36578d6da254,,For more information contact our leasing team at (407) 243-8382.
 SOFT,phone,Champions Chase,Davenport,3573dd6d-60b9-4025-919d-c539765cb04e,,For more information contact our leasing team at (407) 243-8382.
-SOFT,phone,Champions Chase,Davenport,9fdb92a6-bc44-406b-99a3-f5cdd140ee9b,,For more information contact our leasing team at (407) 243-8382.
+SOFT,phone,Champions Chase,Davenport,872efb57-99c4-44ad-99fb-7efb88f358e8,,For more information contact our leasing team at (407) 243-8382.
 SOFT,phone,Champions Chase,Davenport,35f8d1bf-1546-4af8-a3ad-1d661b6a23e1,,For more information contact our leasing team at (407) 243-8382.
 SOFT,phone,Coral Gables @ Bellview,Belleview,bdea7e61-3291-4a33-a979-71589079dcf3,,Have any questions call 904-290-2931 Monday through Friday 9-5
 SOFT,phone,Eastwood,Clearwater,6b43b7ef-c25f-43ce-80d5-8c148e842d5e,,Professionally managed by ATRIUM MANAGEMENT COMPANY (CALL 813-553-3444 TO SET UP YOUR PERSONAL TOUR).
@@ -555,7 +555,7 @@ SOFT,phone+email,Champions Village,Kissimmee,c2566f88-f68f-4355-9adf-0080fc4d8a9
 SOFT,phone+email,Champions Village,Kissimmee,a8710765-efa8-449b-ba33-6b92ca1281c3,,E: ChampionsVillage@atriummanagement.com P: 407-329-3555
 SOFT,phone+email,Champions Village,Kissimmee,2170466b-173c-4e48-a45a-bf3f689b4f62,,E: ChampionsVillage@atriummanagement.com P: 407-329-3555
 SOFT,phone+email,Champions Village,Kissimmee,647eb5c8-b68e-47a8-b744-9791208c86c1,,E: ChampionsVillage@atriummanagement.com P: 407-329-3555
-SOFT,phone+email,Cranes Landing Apartments,Winter Park,91dba0e7-6355-4830-aca9-53436dd7a976,,"For more information, please contact the leasing office: P: 407-671-5585 E: CLA@atriummanagement.com"
+SOFT,phone+email,Cranes Landing Apartments,Winter Park,aa5e8bd8-f289-4f12-8e00-fe05def30480,,"For more information, please contact the leasing office: P: 407-671-5585 E: CLA@atriummanagement.com"
 SOFT,phone+email,Cranes Landing Apartments,Winter Park,25075905-4722-486f-a867-a32b1cb154d9,,"For more information, please contact the leasing office: P: 407-671-5585 E: CLA@atriummanagement.com"
 SOFT,phone+email,Cranes Landing Apartments,Winter Park,3e1f9be4-733e-4b06-82b8-8c76434e4383,,"For more information, please contact the leasing office: P: 407-671-5585 E: cford@atriummanagement.com"
 SOFT,phone+email,Cranes Landing Apartments,Winter Park,351e890b-67db-4499-b51d-59b8a6a84eed,,"For more information, please contact the leasing office: P: 407-671-5585 E: CLA@atriummanagement.com"
@@ -1668,7 +1668,7 @@ SOFT,stale_claim,Aston Square Apartments,Kissimmee,2d92ddd2-0069-4b31-b843-97091
 SOFT,stale_claim,Aston Square Apartments,Kissimmee,51431319-0148-4f5e-991b-29eabfb568a7,,Contact us today to schedule a tour and make it yours!
 SOFT,stale_claim,Aston Square Apartments,Kissimmee,cdcdff97-d3bb-46e3-a6d5-57381e073dc4,,Don’t miss your chance to call this exceptional apartment home.
 SOFT,stale_claim,Aston Square Apartments,Kissimmee,cdcdff97-d3bb-46e3-a6d5-57381e073dc4,,Contact us today to schedule a tour!rtop
-SOFT,stale_claim,Aston Square Apartments,Kissimmee,36be7e74-912a-4ccd-993a-9bff7012aa5b,,We look forward to welcoming you—contact us today to join our tour waitlist!
+SOFT,stale_claim,Aston Square Apartments,Kissimmee,01aab3f5-9c9d-47ec-9591-8bf7f9b5aa44,,We look forward to welcoming you—contact us today to join our tour waitlist!
 SOFT,stale_claim,Aston Square Apartments,Kissimmee,9bef899e-1a71-42f2-af39-3a6d909c333c,,Contact us today to schedule a tour and secure your new home!
 SOFT,stale_claim,Aston Square Apartments,Kissimmee,d462c59c-caed-4ea6-93fc-be6d19730a24,,Don’t miss the opportunity to experience luxury living at its finest in this stunning apartment community.
 SOFT,stale_claim,Aston Square Apartments,Kissimmee,d462c59c-caed-4ea6-93fc-be6d19730a24,,Contact us today to schedule a tour and secure your new home!
@@ -1697,7 +1697,7 @@ SOFT,stale_claim,Champions Village,Kissimmee,2170466b-173c-4e48-a45a-bf3f689b4f6
 SOFT,stale_claim,Champions Village,Kissimmee,2170466b-173c-4e48-a45a-bf3f689b4f62,,Please call for more information.
 SOFT,stale_claim,Champions Village,Kissimmee,647eb5c8-b68e-47a8-b744-9791208c86c1,,Schedule a tour today!
 SOFT,stale_claim,Coral Gables @ Bellview,Belleview,bdea7e61-3291-4a33-a979-71589079dcf3,,Schedule a tour today and discover the perfect place to call home.
-SOFT,stale_claim,Cranes Landing Apartments,Winter Park,91dba0e7-6355-4830-aca9-53436dd7a976,,Schedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.
+SOFT,stale_claim,Cranes Landing Apartments,Winter Park,aa5e8bd8-f289-4f12-8e00-fe05def30480,,Schedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.
 SOFT,stale_claim,Cranes Landing Apartments,Winter Park,25075905-4722-486f-a867-a32b1cb154d9,,Schedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.
 SOFT,stale_claim,Cranes Landing Apartments,Winter Park,3e1f9be4-733e-4b06-82b8-8c76434e4383,,Schedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.
 SOFT,stale_claim,Cranes Landing Apartments,Winter Park,351e890b-67db-4499-b51d-59b8a6a84eed,,Schedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.
@@ -1770,7 +1770,7 @@ SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,d7646d3
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,5179d5e5-7ab1-4287-bd0c-1e0ae7e9d570,,"With comfortable living spaces and a community designed to feel like home, this opportunity won’t last long, reach out today before it’s gone!"
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,5179d5e5-7ab1-4287-bd0c-1e0ae7e9d570,,Schedule your tour today and see why you’ll love calling our community home!
 SOFT,stale_claim,Reserve at Lake Irene,Casselberry,a844b6ca-e648-4388-80c3-2fb8d7aa5ed2,,Contact us today to schedule your personalized tour and find your new home!
-SOFT,stale_claim,Reserve at Lake Irene,Casselberry,22796773-dc86-44e1-ad39-21804ea4f1af,,Contact us today to schedule your personalized tour and find your new home!
+SOFT,stale_claim,Reserve at Lake Irene,Casselberry,129ff2e5-cc51-4c91-86b3-b8f63cae4c7b,,Contact us today to schedule your personalized tour and find your new home!
 SOFT,stale_claim,Reserve at Lake Irene,Casselberry,592d36aa-446b-4c59-be2f-43b57db5cdcd,,Contact us today to schedule your personalized tour and find your new home!
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,AVAILABLE NOW!!!!!!!!
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,"Don't miss out on your opportunity to call one of these apartments your home, and now, renters can save BIG on our newest  * Rent includes water via monthly fee*"
@@ -1813,7 +1813,7 @@ SOFT,stale_claim,The Roberson,Orlando,3a928e57-6664-49e4-82bb-5c0c2592c7a2,,Sche
 SOFT,stale_claim,The Roberson,Orlando,56c60764-7b61-4fe8-b5ab-6273b613e2bf,,Schedule your tour today and discover why College Park remains one of Orlando's most sought-after places to live.
 SOFT,stale_claim,The Roberson,Orlando,0f639369-643e-4271-97fc-ccc49a139c1e,,Don’t miss this opportunity to own a beautifully updated home in a prime location!
 SOFT,stale_claim,The William at Westshore,Tampa,4ae3b6e8-9863-44b2-893f-2eb72136631a,,Schedule a private tour today to see this efficient home in person.
-SOFT,stale_claim,The William at Westshore,Tampa,a09af91e-a02e-4d2b-b534-084ce604ca20,,Schedule a private tour today to experience it for yourself.
+SOFT,stale_claim,The William at Westshore,Tampa,a59d30bf-d2bf-4fd1-b9fa-21da97ced9ed,,Schedule a private tour today to experience it for yourself.
 SOFT,stale_claim,Timber Pointe Apartments,Macon,51864d70-8d42-4ac8-90c2-c6f2e525f14e,,1 bedroom/1bath AVAILABLE NOW!
 SOFT,stale_claim,Timber Pointe Apartments,Macon,3a07fb57-5125-40f6-9b01-ea596c5abb0a,,2bed/1bath - AVAILABLE NOW!
 SOFT,stale_claim,WMUR61,Orlando,23d8bdc1-f9c0-465e-86c2-9eb5cc2b6e89,,AVAILABLE NOW!
