@@ -263,7 +263,6 @@ HARD,school_steering,241 Porchester Dr,Sanford,875dc4e2-bea4-498f-85fa-8e1e162e2
 HARD,school_steering,2413 Waxwing Way,Sanford,a139d4e1-09ab-4b2f-b3f5-7f32cca59f23,,Zoned for Sanford Middle School and Seminole High School.
 HARD,school_steering,2421 White Magnolia Way,Sanford,0e45c2c3-aa4f-4070-ab38-876cb25ef5b3,,"Zoned for Region 1 Elementary School, Sanford Middle School and Seminole High School."
 HARD,school_steering,2444 Hickory Oak Blvd,Orlando,f7bdaf22-7513-436a-ac6f-fd78ca0e16a9,,"Zoned for Riverdale Elementary School, Corner Lake Middle School and University High School."
-HARD,school_steering,250 Killarney Drive,Winter Park,3494a68c-b636-4fe1-ad21-dbfc26e3ba8f,,"Zoned for Killarney Elementary School, College Park Middle School and Edgewater High School."
 HARD,school_steering,2504 Carmel Ln,Eustis,8695894c-958a-4c7c-a00c-f8a95a786ff2,,"Zoned for Eustis Elementary School, Eustis Middle School and Eustis High School."
 HARD,school_steering,2510 Lauder Dr,Maitland,c6763025-b577-4b80-87af-63ba23f5c3cd,,"Nestled on a quiet street in the highly sought-after Dommerich community within walking distance to top-rated schools and minutes to downtown Winter Park, this 4 bedroom, 3 bathroom beauty boasts an open floorplan and mo"
 HARD,school_steering,2513 Grassy Point Dr,Lake Mary,f50753bb-fe3d-48ea-92c6-4edeb2ceee1c,,"Zoned for Lake Mary Elementary School, Greenwood Lakes Middle School, and Lake Mary High School."
@@ -796,7 +795,6 @@ SOFT,phone+stale_claim,2421 White Magnolia Way,Sanford,0e45c2c3-aa4f-4070-ab38-8
 SOFT,phone+stale_claim,2421 Wild Tamarind Blvd,Orlando,92d4a206-b5ee-49c4-a004-77eb5f500872,,Please call 407-585-2721 to schedule your private showing!
 SOFT,phone+stale_claim,2437 E. Jefferson Street,Orlando,4a83bfc3-89cb-4e08-8684-e586b41b2c10,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,2444 Hickory Oak Blvd,Orlando,f7bdaf22-7513-436a-ac6f-fd78ca0e16a9,,Please call 407-585-2721 to schedule your private showing!
-SOFT,phone+stale_claim,250 Killarney Drive,Winter Park,3494a68c-b636-4fe1-ad21-dbfc26e3ba8f,,Please call 407-585-2721 to schedule your private showing!
 SOFT,phone+stale_claim,2504 Carmel Ln,Eustis,8695894c-958a-4c7c-a00c-f8a95a786ff2,,Please call 407-585-2721 to schedule your private showing!
 SOFT,phone+stale_claim,2504 Grassy Pt. Dr. #214,Lake Mary,c5b0ba00-1c10-4d70-8ff3-f0968fc902d6,,Showings: Please call 407-585-2721 to schedule your private tour!
 SOFT,phone+stale_claim,2505 E. Central Blvd.,Orlando,96d941d9-ea5d-4123-9702-ecd6f7606d71,,Please call 407-585-2721 to schedule your private showing!
@@ -1761,8 +1759,8 @@ SOFT,stale_claim,Oasis at San Marco,Jacksonville,4d2cfbeb-a461-449e-b17d-1168724
 SOFT,stale_claim,Oasis at San Marco,Jacksonville,1ae84ec3-75e7-47d9-9093-2713f91b698b,,Schedule your tour today — your new home awaits!
 SOFT,stale_claim,Oasis at San Marco,Jacksonville,2910d971-48da-449b-b417-63219070c6c8,,Schedule your tour today — your new home awaits!
 SOFT,stale_claim,Oasis at San Marco,Jacksonville,1262020b-1c2a-40ef-a310-7e0046b48ce6,,Schedule your tour today — your new home awaits!
-SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,8c75eec1-45aa-4a5f-bbdc-3ac0c1e8015b,,Call today to secure your preferred special before it’s gone!
-SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,8c75eec1-45aa-4a5f-bbdc-3ac0c1e8015b,,Schedule your tour today and see why you’ll love calling our community home!
+SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,8bf90dba-e175-470b-b314-c5b64d4d0ed8,,Call today to secure your preferred special before it’s gone!
+SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,8bf90dba-e175-470b-b314-c5b64d4d0ed8,,Schedule your tour today and see why you’ll love calling our community home!
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,b122e57e-6d41-4fcb-940a-472b99bdd2c3,,Don’t miss your chance to call Renaissance at Strawberry Creek home—schedule a tour today!
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,8c74a7b8-8982-4fa1-850f-9a350d149cdb,,Call today to secure your preferred special before it’s gone!
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,8c74a7b8-8982-4fa1-850f-9a350d149cdb,,Schedule your tour today and see why you’ll love calling our community home!
@@ -1814,7 +1812,7 @@ SOFT,stale_claim,The Roberson,Orlando,3a928e57-6664-49e4-82bb-5c0c2592c7a2,,Sche
 SOFT,stale_claim,The Roberson,Orlando,56c60764-7b61-4fe8-b5ab-6273b613e2bf,,Schedule your tour today and discover why College Park remains one of Orlando's most sought-after places to live.
 SOFT,stale_claim,The Roberson,Orlando,0f639369-643e-4271-97fc-ccc49a139c1e,,Don’t miss this opportunity to own a beautifully updated home in a prime location!
 SOFT,stale_claim,The William at Westshore,Tampa,4ae3b6e8-9863-44b2-893f-2eb72136631a,,Schedule a private tour today to see this efficient home in person.
-SOFT,stale_claim,The William at Westshore,Tampa,a59d30bf-d2bf-4fd1-b9fa-21da97ced9ed,,Schedule a private tour today to experience it for yourself.
+SOFT,stale_claim,The William at Westshore,Tampa,460c3dbc-280f-42cf-9776-ee3e10cdc08e,,Schedule a private tour today to experience it for yourself.
 SOFT,stale_claim,Timber Pointe Apartments,Macon,51864d70-8d42-4ac8-90c2-c6f2e525f14e,,1 bedroom/1bath AVAILABLE NOW!
 SOFT,stale_claim,Timber Pointe Apartments,Macon,3a07fb57-5125-40f6-9b01-ea596c5abb0a,,2bed/1bath - AVAILABLE NOW!
 SOFT,stale_claim,WMUR61,Orlando,23d8bdc1-f9c0-465e-86c2-9eb5cc2b6e89,,AVAILABLE NOW!
