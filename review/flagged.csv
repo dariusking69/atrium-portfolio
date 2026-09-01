@@ -522,7 +522,7 @@ SOFT,phone,8205-31 Sun Spring Circle,Orlando,6651a170-28c5-4455-ae22-560c7c30b01
 SOFT,phone,8503 N Semmes St Unit B,Tampa,503741ed-3ca9-49a2-8fee-1a1c4b50522d,,813-553-3444
 SOFT,phone,913 New Bedford Drive,Deland,a80777c0-4edd-4695-ab10-45102dd2bd78,,(407) 585-2721.
 SOFT,phone,CIRC7,Melbourne,78808bf5-0214-41a2-8daf-dd0ecac4df43,,Professionally managed by Atrium Management Company — call (407) 585-2721   to schedule your in-person showing.
-SOFT,phone,Centerpoint Apartments,Gainesville,2d5d3fd7-97b2-4c4a-a94d-0b11154c57f5,,Gladys Weeks Leasing Coordinator | Atrium Management 352-462-4414
+SOFT,phone,Centerpoint Apartments,Gainesville,2d5d3fd7-97b2-4c4a-a94d-0b11154c57f5,,Maximus Montepeque Leasing Coordinator | Atrium Management 352-234-3496
 SOFT,phone,Champions Chase,Davenport,7d7af5fb-b147-49d1-b4a1-863058bf39b6,,For more information contact our leasing team at (407) 243-8382.
 SOFT,phone,Champions Chase,Davenport,48a22420-6338-46a9-a0a8-36578d6da254,,For more information contact our leasing team at (407) 243-8382.
 SOFT,phone,Champions Chase,Davenport,3573dd6d-60b9-4025-919d-c539765cb04e,,For more information contact our leasing team at (407) 243-8382.
@@ -557,7 +557,7 @@ SOFT,phone+email,Champions Village,Kissimmee,647eb5c8-b68e-47a8-b744-9791208c86c
 SOFT,phone+email,Cranes Landing Apartments,Winter Park,aa5e8bd8-f289-4f12-8e00-fe05def30480,,"For more information, please contact the leasing office: P: 407-671-5585 E: CLA@atriummanagement.com"
 SOFT,phone+email,Cranes Landing Apartments,Winter Park,25075905-4722-486f-a867-a32b1cb154d9,,"For more information, please contact the leasing office: P: 407-671-5585 E: CLA@atriummanagement.com"
 SOFT,phone+email,Cranes Landing Apartments,Winter Park,3e1f9be4-733e-4b06-82b8-8c76434e4383,,"For more information, please contact the leasing office: P: 407-671-5585 E: cford@atriummanagement.com"
-SOFT,phone+email,Cranes Landing Apartments,Winter Park,351e890b-67db-4499-b51d-59b8a6a84eed,,"For more information, please contact the leasing office: P: 407-671-5585 E: CLA@atriummanagement.com"
+SOFT,phone+email,Cranes Landing Apartments,Winter Park,9589487b-5979-4e54-b251-5f3035b16e2b,,"For more information, please contact the leasing office: P: 407-671-5585 E: CLA@atriummanagement.com"
 SOFT,phone+email,Cranes Landing Apartments,Winter Park,f37053c3-1a9a-41ed-b3f7-395969cea0e7,,"For more information, please contact the leasing office: P: 407-671-5585 E: CLA@atriummanagement.com"
 SOFT,phone+email,Cranes Landing Apartments,Winter Park,09192b06-083f-4eb7-9822-781d5cd2a061,,"For more information, please contact the leasing office: P: 407-671-5585 E: CLA@atriummanagement.com"
 SOFT,phone+email,Janie B Apartments,Tampa,2194f9c8-81aa-437f-8bbf-cc61b1b0f7b3,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
@@ -1345,7 +1345,6 @@ SOFT,stale_claim,2252 Weber St,Lakeland,91a51e13-4781-4b49-ac2e-edf1ba8c2ab3,,Do
 SOFT,stale_claim,2252 Weber St,Lakeland,91a51e13-4781-4b49-ac2e-edf1ba8c2ab3,,Contact us today to schedule your tour!
 SOFT,stale_claim,2253 Golfview St,Lakeland,21a3240d-1b1b-4ef1-9990-4a791172d462,,Don't miss the opportunity to make this house your home sweet home.
 SOFT,stale_claim,2253 Golfview St,Lakeland,21a3240d-1b1b-4ef1-9990-4a791172d462,,Contact us today to schedule a tour!
-SOFT,stale_claim,2253 Golfview St,Lakeland,21a3240d-1b1b-4ef1-9990-4a791172d462,,AVAILABLE NOW!
 SOFT,stale_claim,2321 Formosa Avenue,Orlando,a14689e8-0d23-4210-8d19-5ef8094cbe77,,AVAILABLE NOW!
 SOFT,stale_claim,234 Afton Square #303,Altamonte Springs,e999a471-4a32-424e-80c4-32f0801164da,,Nice 1 Bedroom 1 Bath Condo - 3rd Floor -  Available Immediately!!!
 SOFT,stale_claim,234 Afton Square #303,Altamonte Springs,e999a471-4a32-424e-80c4-32f0801164da,,Don’t miss the chance to make this impeccable condo your new home.
@@ -1698,7 +1697,7 @@ SOFT,stale_claim,Coral Gables @ Bellview,Belleview,bdea7e61-3291-4a33-a979-71589
 SOFT,stale_claim,Cranes Landing Apartments,Winter Park,aa5e8bd8-f289-4f12-8e00-fe05def30480,,Schedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.
 SOFT,stale_claim,Cranes Landing Apartments,Winter Park,25075905-4722-486f-a867-a32b1cb154d9,,Schedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.
 SOFT,stale_claim,Cranes Landing Apartments,Winter Park,3e1f9be4-733e-4b06-82b8-8c76434e4383,,Schedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.
-SOFT,stale_claim,Cranes Landing Apartments,Winter Park,351e890b-67db-4499-b51d-59b8a6a84eed,,Schedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.
+SOFT,stale_claim,Cranes Landing Apartments,Winter Park,9589487b-5979-4e54-b251-5f3035b16e2b,,Schedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.
 SOFT,stale_claim,Cranes Landing Apartments,Winter Park,f37053c3-1a9a-41ed-b3f7-395969cea0e7,,Schedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.
 SOFT,stale_claim,Cranes Landing Apartments,Winter Park,09192b06-083f-4eb7-9822-781d5cd2a061,,Schedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.
 SOFT,stale_claim,Crossings at Conway,Orlando,f56248f1-4b2c-4c06-80b3-f1b4c12f7fd8,,A competitively priced condo in one of Orlando's most connected neighborhoods — schedule a tour or apply today!
@@ -1761,15 +1760,15 @@ SOFT,stale_claim,Oasis at San Marco,Jacksonville,1262020b-1c2a-40ef-a310-7e0046b
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,8bf90dba-e175-470b-b314-c5b64d4d0ed8,,Call today to secure your preferred special before it’s gone!
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,8bf90dba-e175-470b-b314-c5b64d4d0ed8,,Schedule your tour today and see why you’ll love calling our community home!
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,b122e57e-6d41-4fcb-940a-472b99bdd2c3,,Don’t miss your chance to call Renaissance at Strawberry Creek home—schedule a tour today!
-SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,09217a98-708a-4392-9bed-e172c1a27606,,Call today to secure your preferred special before it’s gone!
-SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,09217a98-708a-4392-9bed-e172c1a27606,,Schedule your tour today and see why you’ll love calling our community home!
+SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,a632e273-cc4c-4bc7-8af0-642d8f8b32c2,,Call today to secure your preferred special before it’s gone!
+SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,a632e273-cc4c-4bc7-8af0-642d8f8b32c2,,Schedule your tour today and see why you’ll love calling our community home!
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,d7646d3c-0637-489d-b90c-63b8f63f6a0d,,Call today to secure your preferred special before it’s gone!
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,d7646d3c-0637-489d-b90c-63b8f63f6a0d,,Schedule your tour today and see why you’ll love calling our community home!
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,5179d5e5-7ab1-4287-bd0c-1e0ae7e9d570,,"With comfortable living spaces and a community designed to feel like home, this opportunity won’t last long, reach out today before it’s gone!"
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,5179d5e5-7ab1-4287-bd0c-1e0ae7e9d570,,Schedule your tour today and see why you’ll love calling our community home!
 SOFT,stale_claim,Reserve at Lake Irene,Casselberry,a844b6ca-e648-4388-80c3-2fb8d7aa5ed2,,Contact us today to schedule your personalized tour and find your new home!
 SOFT,stale_claim,Reserve at Lake Irene,Casselberry,129ff2e5-cc51-4c91-86b3-b8f63cae4c7b,,Contact us today to schedule your personalized tour and find your new home!
-SOFT,stale_claim,Reserve at Lake Irene,Casselberry,592d36aa-446b-4c59-be2f-43b57db5cdcd,,Contact us today to schedule your personalized tour and find your new home!
+SOFT,stale_claim,Reserve at Lake Irene,Casselberry,c05f1f54-9774-43af-bc31-5a21d876d7ba,,Contact us today to schedule your personalized tour and find your new home!
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,AVAILABLE NOW!!!!!!!!
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,"Don't miss out on your opportunity to call one of these apartments your home, and now, renters can save BIG on our newest  * Rent includes water via monthly fee*"
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,Schedule your showing now and APPLY ONLINE
