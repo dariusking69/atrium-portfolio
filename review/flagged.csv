@@ -14,6 +14,7 @@ HARD,familial,1409 Embassy Dr,Clearwater,d6bed114-c0c6-499e-81a2-684cd82967d6,,"
 HARD,familial,1421 Ridgecrest Road,Orlando,7e0da0b3-6be8-4c93-8752-9ab6a799c1b8,,"Zoned for top-rated schools like Blankner K-8 and Boone High School, this home is perfect for families."
 HARD,familial,1518 Almond Ave,Orlando,8bdec8c0-35ea-4273-b7f5-cece7f337ae9,,Features an open concept with wood and tile flooring downstairs and Luxury Vinyl Plank flooring upstairs perfect for kids and pets.
 HARD,familial,1695 W Lake Mary Blvd,Lake Mary,a70a92f7-1e53-4537-a165-220b40496ceb,,You'll get a great sense of flow and connectivity throughout the home as you're greeted with an open formal dining area and living room that are perfect for family gatherings.
+HARD,familial,1711 Barton Towne Cir,Saint Cloud,2cb7243e-8e74-4e32-837c-eaaccdb8b3b5,,"Nestled in a growing and family friendly area, St."
 HARD,familial,1714 Morgans Mill Circle,Orlando,e7041842-1fd9-47d3-bdb2-fbd9bbaea586,,"Conveniently located near UCF and Fullsail University, this home is ideal for students and professionals alike."
 HARD,familial,1746 Stafford Dr,Orlando,ec2cf846-f4ab-44e9-8fa9-731716baad60,,"This beautifully maintained 4-bedroom, 3-bathroom home offers a spacious and well-designed split floor plan, ideal for families, professionals, or anyone who loves to entertain."
 HARD,familial,17973 Frame Bend,Land O Lakes,7cd662ae-2f7d-4e0d-bd24-5e621ac638af,,The spacious living area is perfect for family gatherings and entertaining guests.
@@ -202,6 +203,7 @@ HARD,school_steering,1695 W Lake Mary Blvd,Lake Mary,a70a92f7-1e53-4537-a165-220
 HARD,school_steering,16950 Deer Oak Ln,Orlando,06396aaf-9ef1-47f1-b05d-f6fd831bf520,,"Zoned for Timber Lakes Elementary, Timber Springs Middle, and Timber Creek High Schools."
 HARD,school_steering,1704 Weltin Street,Orlando,bac95839-bf65-45b3-82fa-886ce63c07f7,,"Zoned for Audubon Park Elementary, Howard Middle, and Edgewater High School."
 HARD,school_steering,1709 Pine Bay Dr,Lake Mary,3dd24ecf-4515-4259-9f4d-e8047bbc7766,,"Zoned for Woodlands Elementary School, Markham Woods Middle School, and Lake Mary High School."
+HARD,school_steering,1711 Barton Towne Cir,Saint Cloud,2cb7243e-8e74-4e32-837c-eaaccdb8b3b5,,"With top rated schools, community events, and a welcoming neighborhood feel, this location offers the perfect balance of relaxation and convenience."
 HARD,school_steering,1713 Pine Bay Dr,Lake Mary,c9abbf1b-838d-4cce-970d-89514b97b67a,,"Zoned for Woodlands Elementary School, Markham Woods Middle School, and Lake Mary High School."
 HARD,school_steering,1720 Merrick Rd,Lakeland,912250ea-d31e-4525-8552-4cabb58a7034,,"Schools nearby are Phillip O'Brien Elementary, Crystal Lake Middle, and Tenoroc High School."
 HARD,school_steering,1735 Barrow Street,Deltona,9b930ba8-d5cf-4575-b88b-d276280ad71e,,"Zoned for Timbercrest Elementary School, Galaxy Middle School, and Deltona High School."
@@ -1256,6 +1258,8 @@ SOFT,stale_claim,16950 Deer Oak Ln,Orlando,06396aaf-9ef1-47f1-b05d-f6fd831bf520,
 SOFT,stale_claim,1707 Jindo Dr,Lake Alfred,6b38099d-8dec-40f6-95db-ce919ad9a80b,,Don't miss your chance to live in this wonderful Lake Alfred community.
 SOFT,stale_claim,1707 Jindo Dr,Lake Alfred,6b38099d-8dec-40f6-95db-ce919ad9a80b,,Contact your Atrium leasing coordinator today to schedule a tour and discover all that 1707 Jindo Dr.
 SOFT,stale_claim,1709 Pine Bay Dr,Lake Mary,3dd24ecf-4515-4259-9f4d-e8047bbc7766,,AVAILABLE NOW!!!
+SOFT,stale_claim,1711 Barton Towne Cir,Saint Cloud,2cb7243e-8e74-4e32-837c-eaaccdb8b3b5,,Don't miss your chance to call this home!
+SOFT,stale_claim,1711 Barton Towne Cir,Saint Cloud,2cb7243e-8e74-4e32-837c-eaaccdb8b3b5,,Schedule a tour today.
 SOFT,stale_claim,1714 Morgans Mill Circle,Orlando,e7041842-1fd9-47d3-bdb2-fbd9bbaea586,,Don't miss out on the opportunity to make this charming house your new home in sunny Orlando.
 SOFT,stale_claim,1714 Morgans Mill Circle,Orlando,e7041842-1fd9-47d3-bdb2-fbd9bbaea586,,Contact us today to schedule a tour!
 SOFT,stale_claim,1714 Morgans Mill Circle,Orlando,e7041842-1fd9-47d3-bdb2-fbd9bbaea586,,AVAILABLE NOW!!!
@@ -1664,7 +1668,7 @@ SOFT,stale_claim,963 Glen Abbey Circle,Winter Springs,61264225-f204-4c79-84e7-e4
 SOFT,stale_claim,Aston Square Apartments,Kissimmee,33036c74-87c2-4615-b8ff-86442671b978,,Contact us today to schedule a tour and make this exceptional residence your new home.
 SOFT,stale_claim,Aston Square Apartments,Kissimmee,4fcea9d3-4934-4f15-963e-0d8d3843b504,,Contact us today to join our tour waitlist!
 SOFT,stale_claim,Aston Square Apartments,Kissimmee,2d92ddd2-0069-4b31-b843-97091f5a9926,,Contact us today to join our tour!
-SOFT,stale_claim,Aston Square Apartments,Kissimmee,51431319-0148-4f5e-991b-29eabfb568a7,,Contact us today to schedule a tour and make it yours!
+SOFT,stale_claim,Aston Square Apartments,Kissimmee,4ac8a5ab-0091-4f38-8d4d-5d7f7d6e1591,,Contact us today to schedule a tour and make it yours!
 SOFT,stale_claim,Aston Square Apartments,Kissimmee,cdcdff97-d3bb-46e3-a6d5-57381e073dc4,,Don’t miss your chance to call this exceptional apartment home.
 SOFT,stale_claim,Aston Square Apartments,Kissimmee,cdcdff97-d3bb-46e3-a6d5-57381e073dc4,,Contact us today to schedule a tour!rtop
 SOFT,stale_claim,Aston Square Apartments,Kissimmee,01aab3f5-9c9d-47ec-9591-8bf7f9b5aa44,,We look forward to welcoming you—contact us today to join our tour waitlist!
