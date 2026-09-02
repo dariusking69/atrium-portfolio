@@ -53,7 +53,7 @@ HARD,familial,Avenues of Baldwin Park,Orlando,5ae35864-dbe3-4635-abc5-4a92f48faa
 HARD,familial,Case Residences,Tampa,fbef3793-1234-4262-b1f8-8bc4f46930e9,,"It's an easy fit for professionals who need a home office or empty nesters hosting visiting family, with room to spare."
 HARD,familial,Janie B Apartments,Tampa,2194f9c8-81aa-437f-8bbf-cc61b1b0f7b3,,Seminole heights is home to dozens of urban diners and local family friendly hang out spots.
 HARD,familial,Mission Club Apartments,Orlando,55635c12-a996-43a7-af65-240b84092d2b,,"of beautifully designed living space, this 3-bedroom, 2-bathroom floor plan is perfect for families, roommates, or anyone who loves to spread out, relax, and enjoy life in style."
-HARD,familial,Mission Club Apartments,Orlando,4d955dce-2386-425f-985f-1b53ed350622,,"of flexible living space, perfect for families, roommates, or anyone who loves room to live, work, and entertain."
+HARD,familial,Mission Club Apartments,Orlando,31533270-760f-434f-ad48-3e779a2c2577,,"of flexible living space, perfect for families, roommates, or anyone who loves room to live, work, and entertain."
 HARD,familial,Napiers Cir.,Orlando,90791133-34e0-4cf8-891a-bbc587b60f09,,"Perfect for students and budget-conscious renters, this home offers:"
 HARD,familial,Salisbury Apartments,Deland,34f24df7-a15c-45da-80f4-9305b2279f51,,"Steps from vibrant Downtown DeLand (0.3 miles): award-winning restaurants, boutique shops, live music, Athens Theatre, Museum of Art - DeLand Historic charm all around: enjoy the DeLand Mural Walk, Sculpture Walk, and we"
 HARD,familial,The Roberson,Orlando,25ac0fa7-92a5-4b54-94d3-c37c40fe770a,,"- Lifestyle Amenities: The area boasts family-friendly parks, accessible public transit, and walkable streets leading to grocery stores and restaurants."
@@ -74,7 +74,6 @@ HARD,school_steering,10008 Canopy Tree Ct,Orlando,cb70c9fb-be94-49ce-afca-2c291e
 HARD,school_steering,10008 Canopy Tree Ct,Orlando,cb70c9fb-be94-49ce-afca-2c291e70bf36,,Phillips High School.
 HARD,school_steering,10067 John Adams Way,Orlando,f765c037-1deb-4f3c-bded-632260bbe0b9,,"Families will appreciate being zoned for highly-rated Riverdale Elementary School, Corner Lake Middle School, and University High School, ensuring excellent educational opportunities."
 HARD,school_steering,1010 Winderley Place,Maitland,0d0a4254-3230-4282-9197-fc6f426ab76f,,"Zoned for Lake Sybelia Elementary School, Lockhart Middle School, and Edgewater High School."
-HARD,school_steering,10109 Marsh Pine Cir,Orlando,24721c56-6bf1-4f0a-a9f8-1dba9694e9bc,,"Close proximity to excellent schools adds an extra layer of appeal, promising an enriching environment for education and growth."
 HARD,school_steering,1011 Palmer St,Orlando,807ae2f7-27e1-46b6-8cec-03c5d72daaa7,,"Set on a quaint, tree-lined street, this home offers all the character Lake Davis/Greenwood is known for—mature oaks draped in Spanish moss, brick streets, and timeless architecture—while being just minutes from Downtown"
 HARD,school_steering,1013 Cypress Ave,Sanford,5f4133e9-35df-406c-b5f5-f95c60ef0639,,It is zoned for Seminole High School and is professionally Leased and Managed by Atrium Management.
 HARD,school_steering,1013 Cypress Ave,Sanford,5f4133e9-35df-406c-b5f5-f95c60ef0639,,It is zoned for Seminole High School and is professionally Leased and Managed by Atrium Management.
@@ -511,6 +510,7 @@ SOFT,phone,4351 Paraglider Place,Wesley Chapel,08bec036-17ee-45e9-9e3a-a6b90bd2f
 SOFT,phone,4355 Paraglider Place,Wesley Chapel,323b1e97-c296-4de6-bf7b-90be08845c5e,,Professionally managed by Atrium Management Company: CALL (813)553-3444.
 SOFT,phone,4359 Paraglider Place,Wesley Chapel,99dbe2c7-2770-4f92-be2b-88ba383199e8,,"Professionally managed by Atrium Management Company, call (813)553-3444 for additional information, or to schedule your personal tour."
 SOFT,phone,4554 Shanewood Ct,Orlando,43a2e3a6-8a21-44ba-a4ae-0bd8e2208fe2,,407-585-2721!!!
+SOFT,phone,4717 Fernery Ln,Lakeland,3eb247b4-823e-49d8-a0a3-772147fdba2a,,Contact Atrium Management today at 407-585-2721 for more details and to schedule your personal tour!
 SOFT,phone,4760 SE 30th Ct,Ocala,085da860-c9d5-40ee-8d1e-d9b768101e65,,352-505-5174
 SOFT,phone,5 Laurel Pass,Ocala,0182f549-bb79-43f3-b7d3-d1d25fab94d8,,904-290-2931
 SOFT,phone,5 Laurel Pass,Ocala,bccb2495-b81b-4be9-a93e-62d584e80fc3,,Gladys Weeks Leasing Coordinator Phone: 352-462-4414
@@ -566,11 +566,11 @@ SOFT,phone+email,Janie B Apartments,Tampa,2194f9c8-81aa-437f-8bbf-cc61b1b0f7b3,,
 SOFT,phone+email,Janie B Apartments,Tampa,f812226b-f1c1-494e-b888-93cce0d2217b,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,Janie B Apartments,Tampa,355dbab0-c6e3-4c83-9c4e-676691f09196,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,Marina Villas,Tampa,a9cf0527-0b18-474d-ad61-4abe6ab661cb,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
-SOFT,phone+email,Ocoee Village,Ocoee,b9e15ec8-e966-41a0-a460-436401984bf9,,For more information Text Ilka Goitia at (321) 549-0284 or igoitia@atriummanagement.com.
-SOFT,phone+email,Ocoee Village,Ocoee,2fe38e97-d0a8-4b22-9826-915607e7e79f,,For more information Text Ilka Goitia at (321) 549-0284 or igoitia@atriummanagement.com.
-SOFT,phone+email,Ocoee Village,Ocoee,902aaecf-8c9d-425e-a3ee-5c6bb77640b4,,For more information Text Ilka Goitia at (321) 549-0284 or igoitia@atriummanagement.com.
+SOFT,phone+email,Ocoee Village,Ocoee,769540f3-f92d-4f8d-9893-361ccbaf5977,,For more information Text Ilka Goitia at (321) 549-0284 or igoitia@atriummanagement.com.
+SOFT,phone+email,Ocoee Village,Ocoee,f64edd70-ae66-4294-80cc-22341d3d34f4,,For more information Text Ilka Goitia at (321) 549-0284 or igoitia@atriummanagement.com.
+SOFT,phone+email,Ocoee Village,Ocoee,7360640b-437b-4a24-aa7c-b08e813b59cd,,For more information Text Ilka Goitia at (321) 549-0284 or igoitia@atriummanagement.com.
 SOFT,phone+email,Ocoee Village,Ocoee,b48c40e8-2d01-46a6-884d-87f79da9d435,,For more information Text Ilka Goitia at (321) 549-0284 or igoitia@atriummanagement.com.
-SOFT,phone+email,Ocoee Village,Ocoee,1a88d09c-18d8-4207-8648-c5ae2c84ca09,,For more information Text Ilka Goitia at (321) 549-0284 or igoitia@atriummanagement.com.
+SOFT,phone+email,Ocoee Village,Ocoee,b330897a-361c-43a6-be5b-782bbeac847e,,For more information Text Ilka Goitia at (321) 549-0284 or igoitia@atriummanagement.com.
 SOFT,phone+email,SOUT2648,Clearwater,03d0f630-a14b-48ff-8c59-97a8ce2dfaf3,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,Sutton Fields,St Cloud,1480d23d-f46f-43c3-bfe1-2cb336fc05b3,,For more information contact (407) 243-8382 or dbone@atriummanagement.com.
 SOFT,phone+email,Sutton Fields,St Cloud,818a9c95-f0b6-4a73-b5b5-57eb82d7f6e5,,For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.
@@ -601,7 +601,6 @@ SOFT,phone+stale_claim,10067 John Adams Way,Orlando,f765c037-1deb-4f3c-bded-6322
 SOFT,phone+stale_claim,1010 S Miramar Ave,Indialantic,dd020c0c-18e4-4827-a7f8-776178f84f7a,,Please call (407) 585-2721  to schedule your private showing!
 SOFT,phone+stale_claim,1010 S Miramar Ave #W,"Indialantic Beach,",c37a2a01-ff05-4dd7-baa1-3065529cfa04,,Professionally managed by Atrium Management please call 407-243-8937 to schedule your private showing.
 SOFT,phone+stale_claim,1010 Winderley Place,Maitland,0d0a4254-3230-4282-9197-fc6f426ab76f,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
-SOFT,phone+stale_claim,10109 Marsh Pine Cir,Orlando,24721c56-6bf1-4f0a-a9f8-1dba9694e9bc,,"This property is professionally leased and managed by Atrium Management Company, call today to schedule a private showing (407) 585-2721."
 SOFT,phone+stale_claim,1011 Palmer St,Orlando,807ae2f7-27e1-46b6-8cec-03c5d72daaa7,,Call today for your private showing (407) 585-2721.
 SOFT,phone+stale_claim,1019 W Berry Ave,Tampa,0fa26a06-1048-425f-8be0-1aba411cbab4,,Call now to schedule a viewing (813)787-4477!!!!
 SOFT,phone+stale_claim,10226 Fiddley Aly,Orlando,f23c1b4e-f207-4b18-b93c-193aecc12d89,,Call 407-585-2721 to schedule your private showing.
@@ -1113,7 +1112,6 @@ SOFT,stale_claim,1004 Sugarberry Trl,Oviedo,26155130-06fa-4639-9dd6-b44fe2b90bb9
 SOFT,stale_claim,1004 Sugarberry Trl,Oviedo,26155130-06fa-4639-9dd6-b44fe2b90bb9,,"BEAUTIFUL 3 Bedroom 2 Bath Alafaya Woods home in Oviedo, available Now!"
 SOFT,stale_claim,1010 S Miramar Ave,Indialantic,dd020c0c-18e4-4827-a7f8-776178f84f7a,,AVAILABLE NOW!!!
 SOFT,stale_claim,1010 S Miramar Ave #W,"Indialantic Beach,",c37a2a01-ff05-4dd7-baa1-3065529cfa04,,Don't miss the opportunity to make this beachside home your next address.
-SOFT,stale_claim,10109 Marsh Pine Cir,Orlando,24721c56-6bf1-4f0a-a9f8-1dba9694e9bc,,Don't miss out on this extraordinary opportunity to elevate your living experience to new heights.
 SOFT,stale_claim,1013 Cypress Ave,Sanford,5f4133e9-35df-406c-b5f5-f95c60ef0639,,Call today to schedule your personal viewing!
 SOFT,stale_claim,1013 Cypress Ave,Sanford,5f4133e9-35df-406c-b5f5-f95c60ef0639,,Call today to schedule your personal viewing!
 SOFT,stale_claim,1017 Priory Cir,Winter Garden,3ef46d6f-0b6d-4f38-b474-8cad1d36356b,,Don't miss out on this fantastic opportunity to make this house your new home!
@@ -1528,9 +1526,7 @@ SOFT,stale_claim,4670 Elena Way,Melbourne,45bec5c6-2a64-46c9-bc7f-856ce62fdc3b,,
 SOFT,stale_claim,4698 Tribute Trl,Kissimmee,38c10438-a3f0-4724-8258-0f27bf8ad0f1,,Don't miss out on this fantastic opportunity to own a beautiful home in one of the most sought-after areas in Central Florida.
 SOFT,stale_claim,4698 Tribute Trl,Kissimmee,38c10438-a3f0-4724-8258-0f27bf8ad0f1,,Schedule your tour today and discover all that this amazing community has to offer!
 SOFT,stale_claim,4698 Tribute Trl,Kissimmee,38c10438-a3f0-4724-8258-0f27bf8ad0f1,,AVAILABLE NOW!!!
-SOFT,stale_claim,4717 Fernery Ln,Lakeland,3eb247b4-823e-49d8-a0a3-772147fdba2a,,Available Now!!
-SOFT,stale_claim,4717 Fernery Ln,Lakeland,3eb247b4-823e-49d8-a0a3-772147fdba2a,,Don't miss out on the opportunity to make this lovely house your new home.
-SOFT,stale_claim,4717 Fernery Ln,Lakeland,3eb247b4-823e-49d8-a0a3-772147fdba2a,,Contact us today for more information and to schedule a viewing.
+SOFT,stale_claim,4717 Fernery Ln,Lakeland,3eb247b4-823e-49d8-a0a3-772147fdba2a,,Available now!
 SOFT,stale_claim,4760 SE 30th Ct,Ocala,085da860-c9d5-40ee-8d1e-d9b768101e65,,"- Utility Concierge Service: Simplify your move with one call to set up utility services, cable, and internet."
 SOFT,stale_claim,4760 SE 30th Ct,Ocala,085da860-c9d5-40ee-8d1e-d9b768101e65,,Contact us today to make this charming cabin your new home.
 SOFT,stale_claim,4862 S Semoran Blvd,Orlando,0d264cc9-5799-4ad1-b638-a01f9ca67fa2,,"Newly Updated 2 Bedroom 2 Bathroom Southbrooke Condominiums 2nd Floor Corner Unit, GREAT LOCATION AVAILABLE NOW!"
@@ -1774,7 +1770,7 @@ SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,5179d5e
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,5179d5e5-7ab1-4287-bd0c-1e0ae7e9d570,,Schedule your tour today and see why you’ll love calling our community home!
 SOFT,stale_claim,Reserve at Lake Irene,Casselberry,a844b6ca-e648-4388-80c3-2fb8d7aa5ed2,,Contact us today to schedule your personalized tour and find your new home!
 SOFT,stale_claim,Reserve at Lake Irene,Casselberry,129ff2e5-cc51-4c91-86b3-b8f63cae4c7b,,Contact us today to schedule your personalized tour and find your new home!
-SOFT,stale_claim,Reserve at Lake Irene,Casselberry,c05f1f54-9774-43af-bc31-5a21d876d7ba,,Contact us today to schedule your personalized tour and find your new home!
+SOFT,stale_claim,Reserve at Lake Irene,Casselberry,0107ab25-af1a-4e91-9413-899791214981,,Contact us today to schedule your personalized tour and find your new home!
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,AVAILABLE NOW!!!!!!!!
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,"Don't miss out on your opportunity to call one of these apartments your home, and now, renters can save BIG on our newest  * Rent includes water via monthly fee*"
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,Schedule your showing now and APPLY ONLINE
