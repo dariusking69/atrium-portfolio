@@ -64,7 +64,7 @@ HARD,familial,Westshore Marina Flats,Tampa,9369ae5c-bb40-4bae-8244-edd8d945a941,
 HARD,religion,1310 Fairview Avenue,Winter Park,76fac962-2a84-4f36-9a36-60e0368eeb3f,,"Margaret Mary Catholic School, Park Maitland School, Orangewood Christian School, and Trinity Preparatory School."
 HARD,religion,Raven Place,Richmond,a49a10dd-3775-4358-8e82-43fff8521312,,"Located in Richmond's vibrant East End, Raven's Place places you just minutes from downtown Richmond, VCU Medical Center, Church Hill, Shockoe Bottom, local restaurants, shopping, and major employers, offering the ideal "
 HARD,religion,Raven Place,Richmond,18a41785-b694-4e8f-a257-a6e9ae85af0e,,"Located in the heart of Richmond's historic East End, Raven's Place places you just minutes from downtown Richmond, VCU Medical Center, Church Hill, Shockoe Bottom, and some of the city's best dining, shopping, and enter"
-HARD,religion,Raven Place,Richmond,eed73076-dd84-45f1-8284-d3ad4aaf3c5b,,"Located in the heart of Richmond's historic East End, this spacious apartment places you just minutes from Church Hill, Shockoe Bottom, downtown Richmond, VCU Medical Center, shopping, dining, and entertainment."
+HARD,religion,Raven Place,Richmond,03628e93-7b2d-475e-9268-5cbcc86390f9,,"Located in the heart of Richmond's historic East End, this spacious apartment places you just minutes from Church Hill, Shockoe Bottom, downtown Richmond, VCU Medical Center, shopping, dining, and entertainment."
 HARD,school_steering,1 E King St,Orlando,f91039a6-18dd-4aef-8722-742c44046795,,"Schools: Zoned for sought-after Orange County public schools, including Princeton Elementary (0.5 miles), and near several respected private institutions."
 HARD,school_steering,100 Bantry Dr.,Lake Mary,9515c92d-c897-4e62-ae1f-c6cebe3449fb,,"Zoned for Lake Mary Elementary School, Greenwood Lakes Middle School and Lake Mary High School."
 HARD,school_steering,1000 Huntington Ct,Longwood,38f874b5-5942-48f5-8144-1f98ee68323c,,"Location & School Zoning Situated in a convenient pocket of Longwood, the home is zoned for respected Seminole County Schools:"
@@ -426,7 +426,7 @@ HARD,school_steering,919 Pine Street,Titusville,b103ddf5-010b-46b5-a6cc-83f784a5
 HARD,school_steering,933 Ponderosa Pine Ct.,Orlando,ab9c11a3-1f5c-4a27-bd9a-5fe3d977663f,,"A must-see property, conveniently located just minutes from shopping, dining, major roadways, and top-rated schools—making it an ideal spot for comfort and convenience."
 HARD,school_steering,935 Shriver Cir,Lake Mary,0c0f7538-3a02-491f-90fd-8b374b253b1c,,"Ideally situated just minutes from Lake Mary’s popular shops and restaurants, this home is zoned for Lake Mary Elementary, Markham Woods Middle, and Lake Mary High."
 HARD,school_steering,974 Leeward Pl #104,Altamonte Springs,36cc74d2-1392-4e57-8821-8586e4209422,,"Ideally located near Seminole State College, major shopping, dining, entertainment, public transportation, and top-rated schools, this home offers an unbeatable lifestyle in a quiet, friendly community."
-HARD,school_steering,Barna Apartments,Titusville,0c8ce6c0-bba8-457d-8921-4ff1aaafd438,,"Zoned for Coquina Elementary School, Andrew Jackson Middle School, and Titusville High School."
+HARD,school_steering,Barna Apartments,Titusville,dbd2a175-b18d-4091-a2e7-6236f07b8dfb,,"Zoned for Coquina Elementary School, Andrew Jackson Middle School, and Titusville High School."
 HARD,school_steering,CIRC5,Melbourne,b33dafdd-f2fc-49e9-8788-bbb7988c212d,,"Zoned for Herbert C Elementary School, Harbor City Elementary School and Melbourne Senior High School."
 HARD,school_steering,CIRC7,Melbourne,78808bf5-0214-41a2-8daf-dd0ecac4df43,,Zoned for Herbert C.
 HARD,school_steering,CIRC7,Melbourne,78808bf5-0214-41a2-8daf-dd0ecac4df43,,"Hoover Middle School, Harbor City Elementary, and Melbourne Senior High School."
@@ -1045,7 +1045,7 @@ SOFT,phone+stale_claim,954-22 Courtyard Lane,Orlando,fee9fbbc-7718-44b8-a171-343
 SOFT,phone+stale_claim,963 Glen Abbey Circle,Winter Springs,61264225-f204-4c79-84e7-e4588a6940cc,,Please call 407-585-2721 to schedule your private showing!
 SOFT,phone+stale_claim,Avenues of Baldwin Park,Orlando,529bf608-0d70-4da9-b513-4e911c4676a7,,Don’t miss your chance to call this stunning apartment home — schedule your tour today (407) 917-7786!
 SOFT,phone+stale_claim,Avenues of Baldwin Park,Orlando,5effb75d-71eb-45db-a3c6-3afe40943c44,,Schedule your tour today 407-671-0200
-SOFT,phone+stale_claim,Barna Apartments,Titusville,0c8ce6c0-bba8-457d-8921-4ff1aaafd438,,Please call 321-479-0644 to schedule your in-person showing.
+SOFT,phone+stale_claim,Barna Apartments,Titusville,dbd2a175-b18d-4091-a2e7-6236f07b8dfb,,"Professionally managed by Atrium Management Company, please call 407-243-8937 to schedule your in person showing."
 SOFT,phone+stale_claim,Bear Creek Apts (New),Bartow,238c5961-a6f0-429b-a7c8-dad37dfad65b,,Call or text 813-438-3799 for questions and to schedule an appointment!
 SOFT,phone+stale_claim,CIRC5,Melbourne,b33dafdd-f2fc-49e9-8788-bbb7988c212d,,"Professionally managed by Atrium Management Company, please call (407) 585-2721   to schedule your in person showing."
 SOFT,phone+stale_claim,Camelot Apartments,Gainesville,76eca804-4e26-4771-978f-eaf7a56fae32,,Please call (352)-338-7700 to schedule your private showing!
@@ -1681,7 +1681,7 @@ SOFT,stale_claim,Avenues of Baldwin Park,Orlando,529bf608-0d70-4da9-b513-4e911c4
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,5effb75d-71eb-45db-a3c6-3afe40943c44,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities pool Valet Trash Soccer Field Community Clubhouse Outdoor deck High Speed Internet 24 Hour Fitness Center Pet
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,5ae35864-dbe3-4635-abc5-4a92f48faa0e,,Schedule your tour today!
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,5ae35864-dbe3-4635-abc5-4a92f48faa0e,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities Valet Trash Soccer Field Clubhouse High Speed Internet Pet Friendly Dog park Basketball court Playground Comm
-SOFT,stale_claim,Barna Apartments,Titusville,0c8ce6c0-bba8-457d-8921-4ff1aaafd438,,AVAILABLE NOW!
+SOFT,stale_claim,Barna Apartments,Titusville,dbd2a175-b18d-4091-a2e7-6236f07b8dfb,,AVAILABLE NOW!
 SOFT,stale_claim,Beach Flats,Tampa,d1c91cf2-402c-4827-8e05-c37ecf5fed19,,Schedule a private tour today to find your fit.
 SOFT,stale_claim,Beach Flats,Tampa,167b45df-a29e-48ff-b7fd-df8bcc4aaae7,,Schedule a private tour today to see this two-bedroom home.
 SOFT,stale_claim,Beach Flats,Tampa,38df859e-5868-435a-90df-825ee8044b4d,,Schedule a private tour today to see this two-bedroom home.
@@ -1755,10 +1755,10 @@ SOFT,stale_claim,North Pointe Place,Orlando,671e2b28-4f5b-40ec-96c2-ce8ab8ec4aa3
 SOFT,stale_claim,North Pointe Place,Orlando,f2e69426-808f-41ad-9960-4d0a4d5cb61d,,Available Now: Professionally prepped and completely rent-ready today.
 SOFT,stale_claim,North Pointe Place,Orlando,f2e69426-808f-41ad-9960-4d0a4d5cb61d,,Don’t miss your chance to secure this beautifully appointed 2-bedroom apartment in Orlando.
 SOFT,stale_claim,North Pointe Place,Orlando,f2e69426-808f-41ad-9960-4d0a4d5cb61d,,Contact us today to schedule your private tour or submit your application to make Unit 313 at North Pointe Place your new home.
-SOFT,stale_claim,Oasis at San Marco,Jacksonville,4d2cfbeb-a461-449e-b17d-1168724bae2b,,Schedule your tour today — your new home awaits!
+SOFT,stale_claim,Oasis at San Marco,Jacksonville,1b7ee929-5f17-429b-b7ab-42eb383a057b,,Schedule your tour today — your new home awaits!
 SOFT,stale_claim,Oasis at San Marco,Jacksonville,1ae84ec3-75e7-47d9-9093-2713f91b698b,,Schedule your tour today — your new home awaits!
 SOFT,stale_claim,Oasis at San Marco,Jacksonville,2910d971-48da-449b-b417-63219070c6c8,,Schedule your tour today — your new home awaits!
-SOFT,stale_claim,Oasis at San Marco,Jacksonville,1262020b-1c2a-40ef-a310-7e0046b48ce6,,Schedule your tour today — your new home awaits!
+SOFT,stale_claim,Oasis at San Marco,Jacksonville,9f1811bc-339b-41dd-be47-5692d0a6b7bb,,Schedule your tour today — your new home awaits!
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,8bf90dba-e175-470b-b314-c5b64d4d0ed8,,Call today to secure your preferred special before it’s gone!
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,8bf90dba-e175-470b-b314-c5b64d4d0ed8,,Schedule your tour today and see why you’ll love calling our community home!
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,b122e57e-6d41-4fcb-940a-472b99bdd2c3,,Don’t miss your chance to call Renaissance at Strawberry Creek home—schedule a tour today!
@@ -1770,7 +1770,7 @@ SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,5179d5e
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,5179d5e5-7ab1-4287-bd0c-1e0ae7e9d570,,Schedule your tour today and see why you’ll love calling our community home!
 SOFT,stale_claim,Reserve at Lake Irene,Casselberry,a844b6ca-e648-4388-80c3-2fb8d7aa5ed2,,Contact us today to schedule your personalized tour and find your new home!
 SOFT,stale_claim,Reserve at Lake Irene,Casselberry,129ff2e5-cc51-4c91-86b3-b8f63cae4c7b,,Contact us today to schedule your personalized tour and find your new home!
-SOFT,stale_claim,Reserve at Lake Irene,Casselberry,0107ab25-af1a-4e91-9413-899791214981,,Contact us today to schedule your personalized tour and find your new home!
+SOFT,stale_claim,Reserve at Lake Irene,Casselberry,79b25332-ce2d-4565-8bb2-f97292b4a550,,Contact us today to schedule your personalized tour and find your new home!
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,AVAILABLE NOW!!!!!!!!
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,"Don't miss out on your opportunity to call one of these apartments your home, and now, renters can save BIG on our newest  * Rent includes water via monthly fee*"
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,Schedule your showing now and APPLY ONLINE
@@ -1845,7 +1845,7 @@ SOFT,url,912 Covington Ct,Rockledge,9433cead-bce6-4b6a-abd7-379b34495bdd,,https:
 SOFT,url,915 Pine Street,Titusville,12dfa3c3-61e1-4d8b-8544-c20fecfa33a5,,Application fees are per adult and applications must be filled out on our site at www.atriummanagement.com $95.00 Application Fee (Non-Refundable) per adult.
 SOFT,url,915 Pine Street,Titusville,12dfa3c3-61e1-4d8b-8544-c20fecfa33a5,,"Pet screenings, affidavits, and/or applications are located online at https://app.petscreening.com"
 SOFT,url,919 Pine Street,Titusville,b103ddf5-010b-46b5-a6cc-83f784a53592,,https://atrium.petscreening.com/
-SOFT,url,Barna Apartments,Titusville,0c8ce6c0-bba8-457d-8921-4ff1aaafd438,,Pet screening required: https://atrium.petscreening.com/
+SOFT,url,Barna Apartments,Titusville,dbd2a175-b18d-4091-a2e7-6236f07b8dfb,,https://atrium.petscreening.com/
 SOFT,url,CIRC5,Melbourne,b33dafdd-f2fc-49e9-8788-bbb7988c212d,,https://atrium.petscreening.com/
 SOFT,url,Janie B Apartments,Tampa,2194f9c8-81aa-437f-8bbf-cc61b1b0f7b3,,https://my.matterport.com/show/?m=LHge8GwtpUm
 SOFT,url,Janie B Apartments,Tampa,f812226b-f1c1-494e-b888-93cce0d2217b,,Virtual tour below https://my.matterport.com/show/?m=FaJ26idcmdo
