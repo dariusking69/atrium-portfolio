@@ -169,6 +169,10 @@ select.apf-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
 </style>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.js"
+        integrity="sha384-5+cfbwT0iiub6VsQAdn6yz16nr6sDiQoHx6tm4O8OVYXHYOxcffFmCJBL0dgdvGp" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@maplibre/maplibre-gl-leaflet@0.1.4/leaflet-maplibre-gl.js"
+        integrity="sha384-tXYNKOHx4T02jMP7YYCtBxPIv1B5gaA5mcVPBzqMp6d7VzWzxJgI2aWF/nJLrQdS" crossorigin="anonymous"></script>
 <script>
 (function(){
   // ================= CONFIG =================
@@ -325,13 +329,55 @@ select.apf-in{cursor:pointer;-webkit-appearance:none;appearance:none;padding-rig
     imgs.forEach(function(im){ io.observe(im); });
   }
 
+  // ---- Basemap -------------------------------------------------------------
+  // CARTO began stamping "API KEY REQUIRED" across its key-less RASTER tiles in
+  // Aug 2026. Its VECTOR styles are the same cartography and are still key-less,
+  // so the basemap is voyager-gl-style drawn through MapLibre GL. If CARTO ever
+  // stops serving that style, OpenFreeMap (same Positron lineage) takes over;
+  // with no WebGL at all we land back on the raster tiles, because a
+  // watermarked map still beats a blank one.
+  var OSM_ATTR='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>';
+  var CARTO_ATTR=OSM_ATTR+', &copy; <a href="https://carto.com/attributions">CARTO</a>';
+  var BASEMAPS=[
+    {url:'https://basemaps.cartocdn.com/gl/voyager-gl-style/style.json',attr:CARTO_ATTR},
+    {url:'https://tiles.openfreemap.org/styles/bright',
+     attr:OSM_ATTR+', &copy; <a href="https://openfreemap.org">OpenFreeMap</a>'}
+  ];
+  function hasWebGL(){
+    try{var c=document.createElement('canvas');
+        return !!(window.WebGLRenderingContext&&(c.getContext('webgl')||c.getContext('experimental-webgl')));}
+    catch(e){return false;}
+  }
+  function basemapRaster(map){
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png',
+      {maxZoom:19,subdomains:'abcd',attribution:CARTO_ATTR}).addTo(map);
+  }
+  // Probe the style URL before handing it to MapLibre. A dead style is the one
+  // failure worth switching providers over, whereas MapLibre's own error event
+  // also fires for harmless things like a single missing glyph range.
+  // The two-argument then() is load-bearing: only a failed probe may advance to
+  // the next provider. If addTo() throws - a zero-height container at init is
+  // the usual cause - a .catch() here would stack a SECOND basemap on the first.
+  function basemapVector(map,i){
+    if(i>=BASEMAPS.length)return basemapRaster(map);
+    fetch(BASEMAPS[i].url).then(function(r){
+      if(!r.ok)throw 0;
+    }).then(function(){
+      L.maplibreGL({style:BASEMAPS[i].url,attribution:BASEMAPS[i].attr}).addTo(map);
+    },function(){
+      basemapVector(map,i+1);
+    });
+  }
+  function addBasemap(map){
+    if(!hasWebGL()||!window.fetch||!L.maplibreGL)return basemapRaster(map);
+    basemapVector(map,0);
+  }
+
   // ---------------- map ----------------
   function initMap(){
     MAP = L.map('apf-map', {scrollWheelZoom:false, preferCanvas:true})
            .setView([28.54, -81.38], 9);
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
-      attribution:'&copy; OpenStreetMap &copy; CARTO', subdomains:'abcd', maxZoom:19
-    }).addTo(MAP);
+    addBasemap(MAP);
     LAYER = L.layerGroup().addTo(MAP);
     MAP.on('zoomend moveend', renderPins);
     watchSize();
