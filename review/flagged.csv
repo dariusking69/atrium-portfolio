@@ -453,6 +453,7 @@ BRAND,banned_word,1216 Cloverlawn Ave - A,Orlando,858aa349-b17e-45a0-94b3-46e02e
 BRAND,banned_word,1216 Cloverlawn Ave - B,Orlando,8335602c-d79c-4f13-abe3-18bcf317f60f,,"Nestled in a friendly community, this home is ideal for individuals or couples seeking an affordable living option without sacrificing the essence of a personal touch."
 BRAND,banned_word,2203 Silver Pines Pl #601,Orlando,dd48c861-25e1-4c0a-af55-bdac81e1ba20,,"Welcome home to this inviting 3-bedroom, 1-bath condo offering the perfect blend of space, functionality, and affordability."
 BRAND,banned_word,2252 Weber St,Lakeland,91a51e13-4781-4b49-ac2e-edf1ba8c2ab3,,"This home has everything you need at an affordable price comfort, privacy, and space."
+BRAND,banned_word,311 S Palmetto Ave,Daytona Beach,6c573792-8266-4295-81ec-7f4dd37198f2,,"A great option for anyone wanting an affordable, centrally located Daytona Beach rental."
 BRAND,banned_word,405 NE Avenue M,Winter Haven,9b35b12a-fe80-4c76-8425-6962eb48e1e2,,"Water is included in the rent, making this home both convenient and affordable."
 BRAND,banned_word,517-B Blackbird Lane,Poinciana,80ec6efc-c0e1-4623-843e-371d3172e0bb,,"Prime Poinciana Location: Conveniently located just minutes from local shops, restaurants, and everyday essentials, this home is perfect for those looking for affordable rentals near central Poinciana amenities while enj"
 BRAND,banned_word,5325 Curry Ford Rd Unit B201,Orlando,1a7bd754-f67d-4ee4-bb35-9b9ae5cf7905,,"This charming second-floor unit offers the perfect blend of affordability, comfort, and prime location."
@@ -508,7 +509,6 @@ SOFT,phone,3810 Deeson Rd Unit 2,Lakeland,f4c6829e-4931-49b3-ba5d-579ab1740bf0,,
 SOFT,phone,405 NE Avenue M,Winter Haven,9b35b12a-fe80-4c76-8425-6962eb48e1e2,,Contact Our Leasing Agent Today - (863) 320-0517
 SOFT,phone,4351 Paraglider Place,Wesley Chapel,08bec036-17ee-45e9-9e3a-a6b90bd2f5f3,,Professionally managed by Atrium Management Company - CALL (813) 787-4477
 SOFT,phone,4355 Paraglider Place,Wesley Chapel,323b1e97-c296-4de6-bf7b-90be08845c5e,,Professionally managed by Atrium Management Company: CALL (813)553-3444.
-SOFT,phone,4359 Paraglider Place,Wesley Chapel,99dbe2c7-2770-4f92-be2b-88ba383199e8,,"Professionally managed by Atrium Management Company, call (813)553-3444 for additional information, or to schedule your personal tour."
 SOFT,phone,4554 Shanewood Ct,Orlando,43a2e3a6-8a21-44ba-a4ae-0bd8e2208fe2,,407-585-2721!!!
 SOFT,phone,4717 Fernery Ln,Lakeland,3eb247b4-823e-49d8-a0a3-772147fdba2a,,Contact Atrium Management today at 407-585-2721 for more details and to schedule your personal tour!
 SOFT,phone,4760 SE 30th Ct,Ocala,085da860-c9d5-40ee-8d1e-d9b768101e65,,352-505-5174
@@ -527,7 +527,7 @@ SOFT,phone,CIRC7,Melbourne,78808bf5-0214-41a2-8daf-dd0ecac4df43,,Professionally 
 SOFT,phone,Centerpoint Apartments,Gainesville,2d5d3fd7-97b2-4c4a-a94d-0b11154c57f5,,Maximus Montepeque Leasing Coordinator | Atrium Management 352-234-3496
 SOFT,phone,Champions Chase,Davenport,7d7af5fb-b147-49d1-b4a1-863058bf39b6,,For more information contact our leasing team at (407) 243-8382.
 SOFT,phone,Champions Chase,Davenport,48a22420-6338-46a9-a0a8-36578d6da254,,For more information contact our leasing team at (407) 243-8382.
-SOFT,phone,Champions Chase,Davenport,3573dd6d-60b9-4025-919d-c539765cb04e,,For more information contact our leasing team at (407) 243-8382.
+SOFT,phone,Champions Chase,Davenport,a60aa79e-d733-41a6-b16d-1c6ffd7cfad7,,For more information contact our leasing team at (407) 243-8382.
 SOFT,phone,Champions Chase,Davenport,872efb57-99c4-44ad-99fb-7efb88f358e8,,For more information contact our leasing team at (407) 243-8382.
 SOFT,phone,Champions Chase,Davenport,35f8d1bf-1546-4af8-a3ad-1d661b6a23e1,,For more information contact our leasing team at (407) 243-8382.
 SOFT,phone,Coral Gables @ Bellview,Belleview,bdea7e61-3291-4a33-a979-71589079dcf3,,Have any questions call 904-290-2931 Monday through Friday 9-5
@@ -551,7 +551,9 @@ SOFT,phone+email,2514 Commerce Ave,Spring Hill,23335e15-23e4-4f5c-b8d3-335e5c596
 SOFT,phone+email,324 7th St S Unit 1,St. Petersburg,125d237e-bf0c-4892-89a9-dcfb2c458b3f,,Rent Ready Now: 813-553-3444 or pg5@atriummanagement.com
 SOFT,phone+email,3806 -3808 W El Prado Blvd,Tampa,93c8fe8f-0939-414e-afde-3ecc9fe134d6,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,3806 -3808 W El Prado Blvd,Tampa,2a19015b-1921-4f75-8b8d-a2bd1cf2dd37,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
+SOFT,phone+email,4359 Paraglider Place,Wesley Chapel,99dbe2c7-2770-4f92-be2b-88ba383199e8,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,7106 - 7108 S Kissimme St.,Tampa,294a5840-f124-4649-bdc5-39e9b5a63ce7,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
+SOFT,phone+email,Avenue Lofts,Tampa,fa4b2bcb-86bc-41ab-ada4-2f73137577a6,,Phone: 407-585-2721 Email: pg5@atriummanagement.com
 SOFT,phone+email,Champions Village,Kissimmee,c2566f88-f68f-4355-9adf-0080fc4d8a93,,E: ChampionsVillage@atriummanagement.com P: 407-329-3555
 SOFT,phone+email,Champions Village,Kissimmee,fe443023-f339-45ef-9aa1-ef2c4b26075b,,E: ChampionsVillage@atriummanagement.com P: 407-329-3555
 SOFT,phone+email,Champions Village,Kissimmee,34cbdca5-a8e3-4571-8cc7-6e6abf6bebb2,,E: ChampionsVillage@atriummanagement.com P: 407-329-3555
@@ -585,6 +587,7 @@ SOFT,phone+email,Valencia Isle,Orlando,fdb064bb-8446-40d1-8c45-bb64bf173cc8,,For
 SOFT,phone+email,Valencia Isle,Orlando,1b3878fc-0132-4b7c-9bba-36a73145ad25,,For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.
 SOFT,phone+email,Valencia Isle,Orlando,191c7660-7eca-4620-950a-e60bfe5f5411,,For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.
 SOFT,phone+email,Valencia Isle,Orlando,0b399d13-6409-4b56-bb0e-819a23b2628c,,For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.
+SOFT,phone+email,Warehouse Lofts,Tampa,df76f8a5-4760-4bdb-a44f-2279a21f2144,,Phone: 407-585-2721 Email: pg5@atriummanagement.com
 SOFT,phone+email+stale_claim,1026 12th St N,St. Petersburg,8dac928d-715d-46e6-ba97-09b6d8fb9ccc,,Call now for more details or to schedule your tour: 813-553-3444 or 813-355-9968 pg5@atriummanagement.com
 SOFT,phone+email+stale_claim,8705 N 37th Street,Tampa,579a530b-bb1c-468d-8898-ad80e3fb5a2a,,"To schedule your private showing, call 813-553-3444 or email pg5@atriummanagement.com"
 SOFT,phone+stale_claim,1 E King St,Orlando,f91039a6-18dd-4aef-8722-742c44046795,,"This property is professionally leased and managed by Atrium Management Company, call today to schedule a private showing (407) 585-2721."
@@ -1055,7 +1058,6 @@ SOFT,phone+stale_claim,Camelot Apartments,Gainesville,1d22cc48-d192-41f3-b95d-e5
 SOFT,phone+stale_claim,Camelot Apartments,Gainesville,ad22dcb2-dfc5-4895-9c49-a10519db28b6,,Please call (352)-338-7700 to schedule your private showing!
 SOFT,phone+stale_claim,Camelot Apartments,Gainesville,95a13319-e9b9-497a-afd4-935c8af64d77,,Please call (352)-338-7700 to schedule your private showing!
 SOFT,phone+stale_claim,Cutshaw Apartments,Richmond,f9fcf3f4-b233-41d8-a788-a7954ae3fe0b,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
-SOFT,phone+stale_claim,Delaney Court,Orlando,511978e2-2546-49fd-a4bf-4a53411a325a,,"Professionally managed by Atrium Management, please call us at 407-258-1332 to schedule your private showing."
 SOFT,phone+stale_claim,Dharma Apartments,Orlando,70eb6d7c-8ecc-4f2e-999f-3fcdac0c2ba3,,"For more details or to schedule a viewing, please contact us at 407-585-2721."
 SOFT,phone+stale_claim,Dharma Apartments,Orlando,228a09e9-7463-4059-b4c2-c8477b62a381,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,EPIN2423-2431,Orlando,9748c1e1-22ba-44e9-bb57-904d53f7fc94,,Call 407-585-2721 to schedule your private showing.
@@ -1641,7 +1643,7 @@ SOFT,stale_claim,8503 N Semmes St Unit B,Tampa,503741ed-3ca9-49a2-8fee-1a1c4b505
 SOFT,stale_claim,851 Carver Street,Winter Park,5f9bdb08-dc90-4cf0-986a-ae73c9d7b7ec,,Don't miss this opportunity to make this wonderful Winter Park home yours.
 SOFT,stale_claim,851 Carver Street,Winter Park,5f9bdb08-dc90-4cf0-986a-ae73c9d7b7ec,,Contact us today to schedule a showing!
 SOFT,stale_claim,857 Desert Mountain Ct,Kissimmee,f09cf117-1dc5-4517-ad92-ae6fd1bc522c,,Apply today!
-SOFT,stale_claim,87 N. Central Avenue,Umatilla,0103a1ec-6b08-4ac6-847d-00d38c6717d0,,"Call now to schedule a tour and secure your 1 Bedroom/1 Bathroom apartment at Towne View Apartments in Umatilla, FL."
+SOFT,stale_claim,87 N. Central Avenue,Umatilla,bad7cd82-425e-43df-a534-f40208ea6daf,,"Call now to schedule a tour and secure your apartment at Towne View Apartments in Umatilla, FL."
 SOFT,stale_claim,870 Farrington Drive,Deltona,1b2cbbfc-a479-4926-8f76-67c15ee611d8,,AVAILABLE NOW!!
 SOFT,stale_claim,887 Fraser Dr,Kissimmee,5aee1400-472d-46ce-b5d5-c5c3194b7f2e,,Tranquil 3 Bedroom  2.5 Bath Rural Retreat AVAILABLE NOW!!!
 SOFT,stale_claim,887 Fraser Dr,Kissimmee,5aee1400-472d-46ce-b5d5-c5c3194b7f2e,,Don't miss out on the chance to make this tranquil retreat your own.
@@ -1675,6 +1677,7 @@ SOFT,stale_claim,Aston Square Apartments,Kissimmee,dcd012bf-5def-45b4-8284-db3f8
 SOFT,stale_claim,Aston Square Apartments,Kissimmee,dcd012bf-5def-45b4-8284-db3f83b6d277,,Contact us today to schedule a tour!
 SOFT,stale_claim,Aston Square Apartments,Kissimmee,e159cf67-1ba0-4f81-af8b-394c3361a767,,Don’t miss the chance to make this stunning carriage home your new residence.
 SOFT,stale_claim,Aston Square Apartments,Kissimmee,e159cf67-1ba0-4f81-af8b-394c3361a767,,Contact us today to schedule a tour!
+SOFT,stale_claim,Avenue Lofts,Tampa,fa4b2bcb-86bc-41ab-ada4-2f73137577a6,,Schedule your tour today.
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,f67beb9f-be49-4947-910d-cc35e511b6b8,,Schedule your tour today!
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,f67beb9f-be49-4947-910d-cc35e511b6b8,,Rental Terms Application Fee: $95 Admin Fee $250 Available Now Pet Policy Cats allowed Dogs allowed Amenities pool Valet Trash Soccer Field Clubhouse Lake View High Speed Internet 24 Hour Fitness Center Community Grill b
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,529bf608-0d70-4da9-b513-4e911c4676a7,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities Valet Trash Clubhouse Outdoor deck High Speed Internet 24 Hour Fitness Center Community Grill basketball cour
@@ -1816,6 +1819,7 @@ SOFT,stale_claim,The William at Westshore,Tampa,a59d30bf-d2bf-4fd1-b9fa-21da97ce
 SOFT,stale_claim,Timber Pointe Apartments,Macon,51864d70-8d42-4ac8-90c2-c6f2e525f14e,,1 bedroom/1bath AVAILABLE NOW!
 SOFT,stale_claim,Timber Pointe Apartments,Macon,3a07fb57-5125-40f6-9b01-ea596c5abb0a,,2bed/1bath - AVAILABLE NOW!
 SOFT,stale_claim,WMUR61,Orlando,23d8bdc1-f9c0-465e-86c2-9eb5cc2b6e89,,AVAILABLE NOW!
+SOFT,stale_claim,Warehouse Lofts,Tampa,df76f8a5-4760-4bdb-a44f-2279a21f2144,,Schedule your tour today.
 SOFT,stale_claim,Westshore Flats I,Tampa,50712ca4-75f9-4034-9694-76616fa00458,,Schedule a private tour today to choose your finish level.
 SOFT,stale_claim,Westshore Marina Flats,Tampa,bfb3afa7-df20-4ea9-b689-d1c8590504f2,,Schedule a private tour today to choose your finish level.
 SOFT,stale_claim,Woodland Heights Apartments,Lakeland,1ba84890-e31f-4ca0-aecf-93ef1ac0546b,,Don't miss your opportunity to make Woodland Heights your new home!
@@ -1840,6 +1844,7 @@ SOFT,url,446 Wenthrop Cir,Rockledge,d3ab5345-4192-43d6-ae99-1c87a467d026,,Applic
 SOFT,url,446 Wenthrop Cir,Rockledge,d3ab5345-4192-43d6-ae99-1c87a467d026,,"Pet screenings, affidavits, and/or applications are located online at https://atrium.petscreening.com/"
 SOFT,url,4670 Elena Way,Melbourne,45bec5c6-2a64-46c9-bc7f-856ce62fdc3b,,Application fees are per adult and applications must be filled out on our site at www.atriummanagement.com $95.00 Application Fee (Non-Refundable) per adult.
 SOFT,url,4670 Elena Way,Melbourne,45bec5c6-2a64-46c9-bc7f-856ce62fdc3b,,"Pet screenings, affidavits, and/or applications are located online at https://atrium.petscreening.com/"
+SOFT,url,4717 Fernery Ln,Lakeland,3eb247b4-823e-49d8-a0a3-772147fdba2a,,https://my.matterport.com/show/?m=PBTZUwiJ2fG&mls=1
 SOFT,url,835 Dupont Street NE,Palm Bay,ec28fd42-de44-4836-8271-bbea9e856db4,,https://atrium.petscreening.com/
 SOFT,url,912 Covington Ct,Rockledge,9433cead-bce6-4b6a-abd7-379b34495bdd,,https://atrium.petscreening.com/
 SOFT,url,915 Pine Street,Titusville,12dfa3c3-61e1-4d8b-8544-c20fecfa33a5,,Application fees are per adult and applications must be filled out on our site at www.atriummanagement.com $95.00 Application Fee (Non-Refundable) per adult.
