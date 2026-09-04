@@ -49,7 +49,7 @@ HARD,familial,786 Oak Burl Ct,Sanford,3d7e16b6-0731-43bd-8ae4-28dae01cdb8e,,"The
 HARD,familial,824 Wood Briar Loop,Sanford,b08902fd-59f9-4d01-9a31-b648d222b1a5,,"This beautiful 4-bedroom, 3-bathroom home perfectly balances luxury and comfort, with spacious living areas that are ideal for family gatherings or hosting friends."
 HARD,familial,8400 Pippen Dr,Orlando,afa86428-41d9-4664-8658-770b8cfbdb91,,"Upstairs, the 3rd, 4th, and 5th bedrooms each include walk-in closets, with the 3rd and 4th bedrooms connected by a spacious Jack-and-Jill bathroom—perfect for family living or visiting guests."
 HARD,familial,869 Brutus Terrace,Lake Mary,33df8001-b35e-4009-9077-5d5ff0ae58b7,,"Upstairs, you’ll find the luxurious master suite with an en-suite bath, plus two additional bedrooms and another full bathroom—ideal for families, roommates, or guests."
-HARD,familial,Avenues of Baldwin Park,Orlando,5ae35864-dbe3-4635-abc5-4a92f48faa0e,,"of comfortable living  ideal for families, roommates, or anyone who values extra space."
+HARD,familial,Avenues of Baldwin Park,Orlando,b99abdef-88f3-45b0-bb39-72935debe0fc,,"of comfortable living ideal for families, roommates, or anyone who values extra space."
 HARD,familial,Case Residences,Tampa,fbef3793-1234-4262-b1f8-8bc4f46930e9,,"It's an easy fit for professionals who need a home office or empty nesters hosting visiting family, with room to spare."
 HARD,familial,Janie B Apartments,Tampa,2194f9c8-81aa-437f-8bbf-cc61b1b0f7b3,,Seminole heights is home to dozens of urban diners and local family friendly hang out spots.
 HARD,familial,Mission Club Apartments,Orlando,ceb5031c-7c88-4f75-a33a-5f02754362b1,,"of beautifully designed living space, this 3-bedroom, 2-bathroom floor plan is perfect for families, roommates, or anyone who loves to spread out, relax, and enjoy life in style."
@@ -443,7 +443,6 @@ HARD,school_steering,Salisbury Apartments,Deland,6a7dc518-ce1e-4820-833c-c916b8b
 HARD,school_steering,The Carl,Orlando,87b87792-57f8-441e-808a-87c2ae151eb8,,"Excellent Schools: Situated within the Lake Silver Elementary, Lee Middle, and a short stroll to Edgewater High School zones."
 HARD,school_steering,The Carl,Orlando,11c9f93a-a559-43c1-b967-3242f6e6ef29,,"Location & Community Perks Situated in a prime Orlando location, this property offers unmatched access to local amenities and top-rated schools:"
 HARD,school_steering,The Carl,Orlando,11c9f93a-a559-43c1-b967-3242f6e6ef29,,"Top-Tier School Zoning: Lake Silver Elementary, Lee Middle School, and walking distance to Edgewater High School."
-HARD,school_steering,The Lofts at Concord,Orlando,a15e72c2-5fc0-4131-8e9d-a13e2ebde2e6,,"Zoned for Lake Como Elementary, Lake Como Middle, and Edgewater High Schools."
 HARD,school_steering,WMUR61,Orlando,23d8bdc1-f9c0-465e-86c2-9eb5cc2b6e89,,"Located just minutes from local shops, dining, and entertainment, this home is zoned for BlanknerK-8 School, and Boone High School."
 BRAND,banned_word,1 West Cary Apartments,Richmond,c7c68793-aa25-4f3c-8a5b-dd1c0640681e,,"Our spacious one-bedroom, one-bathroom apartments combine affordability and convenience with the necessary amenities you seek for your modern lifestyle."
 BRAND,banned_word,1 West Cary Apartments,Richmond,6beeb511-9c48-4e30-b682-d0032a33fffe,,"This cozy and modern apartment features one bedroom and one bathroom, perfect for those seeking a comfortable and affordable living space."
@@ -540,7 +539,6 @@ SOFT,phone,Seminole Ave,Tampa,fcdf6263-0c6a-470a-be32-405f8f7d653d,,"Professiona
 SOFT,phone,Seminole Ave,Tampa,b70350d8-f2fd-40e7-8728-b9409560c6d1,,"Professionally managed by Atrium Management, 813-553-3444 today for a private showing."
 SOFT,phone,Stetson Apartments,Deland,7f53f9c7-a442-40ee-9e13-a54490ca571b,,"To arrange your exclusive viewing, please contact us at 407-585-2721."
 SOFT,phone,The Carl,Orlando,87b87792-57f8-441e-808a-87c2ae151eb8,,"To arrange a personal tour, please dial 407-585-2721."
-SOFT,phone,The Lofts at Concord,Orlando,a15e72c2-5fc0-4131-8e9d-a13e2ebde2e6,,"Professionally Managed by Atrium Management, call 407-585-2721 today to set up your private showing."
 SOFT,phone,The Roberson,Orlando,74d9c1b9-f564-4598-8309-26d669260010,,Contact Atrium Management 407-585-2721 for showings.
 SOFT,phone,Valencia Isle,Orlando,8a758445-2e51-41c1-ab7a-ca4ff7a3d1f1,,For more information contact our leasing team at (407) 250-9302.
 SOFT,phone,Woodland Heights Apartments,Lakeland,1ba84890-e31f-4ca0-aecf-93ef1ac0546b,,Contact Atrium Management today at 407-585-2721 for more details and to schedule your personal tour!
@@ -1682,8 +1680,8 @@ SOFT,stale_claim,Avenues of Baldwin Park,Orlando,2c96a623-7336-48c4-9e1c-b003c76
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,2c96a623-7336-48c4-9e1c-b003c7612278,,Rental Terms Application Fee: $95 Admin Fee $250 Available Now Pet Policy Cats allowed Dogs allowed Amenities pool Valet Trash Soccer Field Clubhouse Lake View High Speed Internet 24 Hour Fitness Center Community Grill b
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,529bf608-0d70-4da9-b513-4e911c4676a7,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities Valet Trash Clubhouse Outdoor deck High Speed Internet 24 Hour Fitness Center Community Grill basketball cour
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,fedae60c-78ee-46d6-950a-041483bed4b2,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities pool Valet Trash Soccer Field Community Clubhouse Outdoor deck High Speed Internet 24 Hour Fitness Center Pet
-SOFT,stale_claim,Avenues of Baldwin Park,Orlando,5ae35864-dbe3-4635-abc5-4a92f48faa0e,,Schedule your tour today!
-SOFT,stale_claim,Avenues of Baldwin Park,Orlando,5ae35864-dbe3-4635-abc5-4a92f48faa0e,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities Valet Trash Soccer Field Clubhouse High Speed Internet Pet Friendly Dog park Basketball court Playground Comm
+SOFT,stale_claim,Avenues of Baldwin Park,Orlando,b99abdef-88f3-45b0-bb39-72935debe0fc,,Schedule your tour today!
+SOFT,stale_claim,Avenues of Baldwin Park,Orlando,b99abdef-88f3-45b0-bb39-72935debe0fc,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities Valet Trash Soccer Field Clubhouse High Speed Internet Pet Friendly Dog park Basketball court Playground Comm
 SOFT,stale_claim,Barna Apartments,Titusville,dbd2a175-b18d-4091-a2e7-6236f07b8dfb,,AVAILABLE NOW!
 SOFT,stale_claim,Beach Flats,Tampa,d1c91cf2-402c-4827-8e05-c37ecf5fed19,,Schedule a private tour today to find your fit.
 SOFT,stale_claim,Beach Flats,Tampa,167b45df-a29e-48ff-b7fd-df8bcc4aaae7,,Schedule a private tour today to see this two-bedroom home.
@@ -1758,7 +1756,7 @@ SOFT,stale_claim,North Pointe Place,Orlando,671e2b28-4f5b-40ec-96c2-ce8ab8ec4aa3
 SOFT,stale_claim,North Pointe Place,Orlando,f2e69426-808f-41ad-9960-4d0a4d5cb61d,,Available Now: Professionally prepped and completely rent-ready today.
 SOFT,stale_claim,North Pointe Place,Orlando,f2e69426-808f-41ad-9960-4d0a4d5cb61d,,Don’t miss your chance to secure this beautifully appointed 2-bedroom apartment in Orlando.
 SOFT,stale_claim,North Pointe Place,Orlando,f2e69426-808f-41ad-9960-4d0a4d5cb61d,,Contact us today to schedule your private tour or submit your application to make Unit 313 at North Pointe Place your new home.
-SOFT,stale_claim,Oasis at San Marco,Jacksonville,1b7ee929-5f17-429b-b7ab-42eb383a057b,,Schedule your tour today — your new home awaits!
+SOFT,stale_claim,Oasis at San Marco,Jacksonville,23aab66b-b9cb-4fb8-9ab0-9899e03f345f,,Schedule your tour today — your new home awaits!
 SOFT,stale_claim,Oasis at San Marco,Jacksonville,1ae84ec3-75e7-47d9-9093-2713f91b698b,,Schedule your tour today — your new home awaits!
 SOFT,stale_claim,Oasis at San Marco,Jacksonville,2910d971-48da-449b-b417-63219070c6c8,,Schedule your tour today — your new home awaits!
 SOFT,stale_claim,Oasis at San Marco,Jacksonville,9f1811bc-339b-41dd-be47-5692d0a6b7bb,,Schedule your tour today — your new home awaits!
@@ -1804,7 +1802,7 @@ SOFT,stale_claim,The Hammocks by Butler,Gainesville,c306955d-fe7e-4d35-8391-7339
 SOFT,stale_claim,The Hammocks on 34th,Gainesville,7afda2e8-8b01-418c-a0bd-9cd23e08c447,,AVAILABLE NOW!
 SOFT,stale_claim,The Jeffersonian,Charlottesville,a624a6f7-8520-46bd-8bda-d57b9dde698d,,"View our current availability, apply online today, or call us to schedule a personal walkthrough of this exceptional floor plan!"
 SOFT,stale_claim,The Jeffersonian,Charlottesville,f26888a4-bf7b-4545-b4ab-43325da501d3,,"View our current availability, apply online today, or call us to schedule a personal walkthrough of this exceptional floor plan!"
-SOFT,stale_claim,The Jeffersonian,Charlottesville,b4177d35-2bb5-4079-8fea-c67d7ea2cc26,,"View our current availability, apply online today, or call us to schedule a personal walkthrough of this exceptional floor plan!"
+SOFT,stale_claim,The Jeffersonian,Charlottesville,669a485a-bdbd-47b9-851c-7cf67c9b25bd,,"View our current availability, apply online today, or call us to schedule a personal walkthrough of this exceptional floor plan!"
 SOFT,stale_claim,The Jeffersonian,Charlottesville,cc465740-3ee4-4b76-88ef-06ed14997f4d,,"View our current availability, apply online today, or call us to schedule a personal walkthrough of this exceptional floor plan!"
 SOFT,stale_claim,The Jeffersonian,Charlottesville,f24c9a04-7b6b-4afe-a619-be38ef640232,,"View our current availability, apply online today, or call us to schedule a personal walkthrough of this exceptional floor plan!"
 SOFT,stale_claim,The Lofts at Concord,Orlando,2e0f539c-b819-48a3-878f-c237aa827b1e,,"Don’t miss your chance to call this exclusive enclave home—where history, comfort, and location converge in perfect harmony."
@@ -1812,12 +1810,11 @@ SOFT,stale_claim,The Roberson,Orlando,b2e3ab97-f92c-4c09-a9be-591a86f4dcc6,,Don�
 SOFT,stale_claim,The Roberson,Orlando,b2e3ab97-f92c-4c09-a9be-591a86f4dcc6,,Schedule a tour today and experience the perfect blend of past and present at College Park Villas.
 SOFT,stale_claim,The Roberson,Orlando,3a928e57-6664-49e4-82bb-5c0c2592c7a2,,Don’t miss the opportunity to make this coveted address your new home.
 SOFT,stale_claim,The Roberson,Orlando,3a928e57-6664-49e4-82bb-5c0c2592c7a2,,Schedule a tour today and experience the perfect blend of past and present at College Park Villas.
-SOFT,stale_claim,The Roberson,Orlando,56c60764-7b61-4fe8-b5ab-6273b613e2bf,,Schedule your tour today and discover why College Park remains one of Orlando's most sought-after places to live.
 SOFT,stale_claim,The Roberson,Orlando,0f639369-643e-4271-97fc-ccc49a139c1e,,Don’t miss this opportunity to own a beautifully updated home in a prime location!
 SOFT,stale_claim,The William at Westshore,Tampa,4ae3b6e8-9863-44b2-893f-2eb72136631a,,Schedule a private tour today to see this efficient home in person.
 SOFT,stale_claim,The William at Westshore,Tampa,a59d30bf-d2bf-4fd1-b9fa-21da97ced9ed,,Schedule a private tour today to experience it for yourself.
 SOFT,stale_claim,Timber Pointe Apartments,Macon,51864d70-8d42-4ac8-90c2-c6f2e525f14e,,1 bedroom/1bath AVAILABLE NOW!
-SOFT,stale_claim,Timber Pointe Apartments,Macon,3a07fb57-5125-40f6-9b01-ea596c5abb0a,,2bed/1bath - AVAILABLE NOW!
+SOFT,stale_claim,Timber Pointe Apartments,Macon,e710532e-e732-46c8-a91b-f69e276650fd,,2bed/1bath - AVAILABLE NOW!
 SOFT,stale_claim,WMUR61,Orlando,23d8bdc1-f9c0-465e-86c2-9eb5cc2b6e89,,AVAILABLE NOW!
 SOFT,stale_claim,Warehouse Lofts,Tampa,df76f8a5-4760-4bdb-a44f-2279a21f2144,,Schedule your tour today.
 SOFT,stale_claim,Westshore Flats I,Tampa,50712ca4-75f9-4034-9694-76616fa00458,,Schedule a private tour today to choose your finish level.
