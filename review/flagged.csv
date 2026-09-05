@@ -49,7 +49,7 @@ HARD,familial,786 Oak Burl Ct,Sanford,3d7e16b6-0731-43bd-8ae4-28dae01cdb8e,,"The
 HARD,familial,824 Wood Briar Loop,Sanford,b08902fd-59f9-4d01-9a31-b648d222b1a5,,"This beautiful 4-bedroom, 3-bathroom home perfectly balances luxury and comfort, with spacious living areas that are ideal for family gatherings or hosting friends."
 HARD,familial,8400 Pippen Dr,Orlando,afa86428-41d9-4664-8658-770b8cfbdb91,,"Upstairs, the 3rd, 4th, and 5th bedrooms each include walk-in closets, with the 3rd and 4th bedrooms connected by a spacious Jack-and-Jill bathroom—perfect for family living or visiting guests."
 HARD,familial,869 Brutus Terrace,Lake Mary,33df8001-b35e-4009-9077-5d5ff0ae58b7,,"Upstairs, you’ll find the luxurious master suite with an en-suite bath, plus two additional bedrooms and another full bathroom—ideal for families, roommates, or guests."
-HARD,familial,Avenues of Baldwin Park,Orlando,b99abdef-88f3-45b0-bb39-72935debe0fc,,"of comfortable living ideal for families, roommates, or anyone who values extra space."
+HARD,familial,Avenues of Baldwin Park,Orlando,5ae35864-dbe3-4635-abc5-4a92f48faa0e,,"of comfortable living ideal for families, roommates, or anyone who values extra space."
 HARD,familial,Case Residences,Tampa,fbef3793-1234-4262-b1f8-8bc4f46930e9,,"It's an easy fit for professionals who need a home office or empty nesters hosting visiting family, with room to spare."
 HARD,familial,Janie B Apartments,Tampa,2194f9c8-81aa-437f-8bbf-cc61b1b0f7b3,,Seminole heights is home to dozens of urban diners and local family friendly hang out spots.
 HARD,familial,Mission Club Apartments,Orlando,ceb5031c-7c88-4f75-a33a-5f02754362b1,,"of beautifully designed living space, this 3-bedroom, 2-bathroom floor plan is perfect for families, roommates, or anyone who loves to spread out, relax, and enjoy life in style."
@@ -1045,7 +1045,7 @@ SOFT,phone+stale_claim,952-12 Courtyard Lane,Orlando,ad8d2395-6d18-4fca-8a2b-e33
 SOFT,phone+stale_claim,954 Forest Ridge Court #206,Lake Mary,118f85ad-31a8-47fd-a1a4-1823d15c0bf6,,Professionally Managed by Atrium Management Call 407-585-2721 to schedule your private showing today!
 SOFT,phone+stale_claim,954-22 Courtyard Lane,Orlando,fee9fbbc-7718-44b8-a171-34349dba8650,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,963 Glen Abbey Circle,Winter Springs,61264225-f204-4c79-84e7-e4588a6940cc,,Please call 407-585-2721 to schedule your private showing!
-SOFT,phone+stale_claim,Avenues of Baldwin Park,Orlando,529bf608-0d70-4da9-b513-4e911c4676a7,,Don’t miss your chance to call this stunning apartment home — schedule your tour today (407) 917-7786!
+SOFT,phone+stale_claim,Avenues of Baldwin Park,Orlando,bd52e4e3-9141-4e50-aa0e-edef20f35243,,Don’t miss your chance to call this stunning apartment home — schedule your tour today (407) 917-7786!
 SOFT,phone+stale_claim,Avenues of Baldwin Park,Orlando,fedae60c-78ee-46d6-950a-041483bed4b2,,Schedule your tour today 407-671-0200
 SOFT,phone+stale_claim,Barna Apartments,Titusville,dbd2a175-b18d-4091-a2e7-6236f07b8dfb,,"Professionally managed by Atrium Management Company, please call 407-243-8937 to schedule your in person showing."
 SOFT,phone+stale_claim,Bear Creek Apts (New),Bartow,238c5961-a6f0-429b-a7c8-dad37dfad65b,,Call or text 813-438-3799 for questions and to schedule an appointment!
@@ -1678,10 +1678,10 @@ SOFT,stale_claim,Aston Square Apartments,Kissimmee,e159cf67-1ba0-4f81-af8b-394c3
 SOFT,stale_claim,Avenue Lofts,Tampa,fa4b2bcb-86bc-41ab-ada4-2f73137577a6,,Schedule your tour today.
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,2c96a623-7336-48c4-9e1c-b003c7612278,,Schedule your tour today!
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,2c96a623-7336-48c4-9e1c-b003c7612278,,Rental Terms Application Fee: $95 Admin Fee $250 Available Now Pet Policy Cats allowed Dogs allowed Amenities pool Valet Trash Soccer Field Clubhouse Lake View High Speed Internet 24 Hour Fitness Center Community Grill b
-SOFT,stale_claim,Avenues of Baldwin Park,Orlando,529bf608-0d70-4da9-b513-4e911c4676a7,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities Valet Trash Clubhouse Outdoor deck High Speed Internet 24 Hour Fitness Center Community Grill basketball cour
+SOFT,stale_claim,Avenues of Baldwin Park,Orlando,bd52e4e3-9141-4e50-aa0e-edef20f35243,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities Valet Trash Clubhouse Outdoor deck High Speed Internet 24 Hour Fitness Center Community Grill basketball cour
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,fedae60c-78ee-46d6-950a-041483bed4b2,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities pool Valet Trash Soccer Field Community Clubhouse Outdoor deck High Speed Internet 24 Hour Fitness Center Pet
-SOFT,stale_claim,Avenues of Baldwin Park,Orlando,b99abdef-88f3-45b0-bb39-72935debe0fc,,Schedule your tour today!
-SOFT,stale_claim,Avenues of Baldwin Park,Orlando,b99abdef-88f3-45b0-bb39-72935debe0fc,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities Valet Trash Soccer Field Clubhouse High Speed Internet Pet Friendly Dog park Basketball court Playground Comm
+SOFT,stale_claim,Avenues of Baldwin Park,Orlando,5ae35864-dbe3-4635-abc5-4a92f48faa0e,,Schedule your tour today!
+SOFT,stale_claim,Avenues of Baldwin Park,Orlando,5ae35864-dbe3-4635-abc5-4a92f48faa0e,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities Valet Trash Soccer Field Clubhouse High Speed Internet Pet Friendly Dog park Basketball court Playground Comm
 SOFT,stale_claim,Barna Apartments,Titusville,dbd2a175-b18d-4091-a2e7-6236f07b8dfb,,AVAILABLE NOW!
 SOFT,stale_claim,Beach Flats,Tampa,d1c91cf2-402c-4827-8e05-c37ecf5fed19,,Schedule a private tour today to find your fit.
 SOFT,stale_claim,Beach Flats,Tampa,167b45df-a29e-48ff-b7fd-df8bcc4aaae7,,Schedule a private tour today to see this two-bedroom home.
