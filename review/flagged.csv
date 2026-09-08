@@ -10,7 +10,6 @@ HARD,familial,1165 Paseo De Las Flores Apt C,Casselberry,38b4ec7f-20f1-48dc-bd18
 HARD,familial,1224 Travertine Terrace,Sanford,252cb2f3-2c1f-40cb-857b-9ec4b6f8dd54,,"Upstairs includes a built-in shelf, ideal for family photos or household trinkets."
 HARD,familial,123 W Lake Mary Ave,Lake Mary,a865a579-e790-4f5b-9bd6-b4e051d61ae7,,"The bedrooms offer ample space, making it perfect for families or individuals looking for extra comfort and privacy."
 HARD,familial,1250 S Denning Dr Unit 108,Winter Park,be02c8a9-db10-4a7e-9657-003093a9580d,,"This thoughtfully designed floor plan maximizes space and privacy, making it ideal for singles, professionals, or couples."
-HARD,familial,1409 Embassy Dr,Clearwater,d6bed114-c0c6-499e-81a2-684cd82967d6,,"This spacious 1226 sq ft residence features 2 comfortable bedrooms and 2 modern bathrooms, perfect for families or professionals."
 HARD,familial,1421 Ridgecrest Road,Orlando,7e0da0b3-6be8-4c93-8752-9ab6a799c1b8,,"Zoned for top-rated schools like Blankner K-8 and Boone High School, this home is perfect for families."
 HARD,familial,1518 Almond Ave,Orlando,8bdec8c0-35ea-4273-b7f5-cece7f337ae9,,Features an open concept with wood and tile flooring downstairs and Luxury Vinyl Plank flooring upstairs perfect for kids and pets.
 HARD,familial,1695 W Lake Mary Blvd,Lake Mary,a70a92f7-1e53-4537-a165-220b40496ceb,,You'll get a great sense of flow and connectivity throughout the home as you're greeted with an open formal dining area and living room that are perfect for family gatherings.
@@ -45,6 +44,7 @@ HARD,familial,35281 Cassis Path,Zephyrhills,86c244d9-3e71-4a32-b3ce-4fe4f89bda8e
 HARD,familial,3542 Treetop St,Deland,6c5f162e-e82d-41ed-b294-34fb62b0a542,,This home provides ample space for a comfortable living experience and is perfect for families or individuals looking for a peaceful place to call home.
 HARD,familial,3703 E North Bay St,Tampa,173627eb-c2ec-42d7-8192-7431c661f03b,,"Each bedroom provides ample space and storage, perfect for families or roommates."
 HARD,familial,4761 Willamette Cir,Orlando,47b30088-1927-49d2-96f2-aca5f085daaf,,"Two additional spacious bedrooms share an updated guest bath, perfect for family or guests."
+HARD,familial,7544 Estuary Lake Loop,Celebration,4b51deb1-bfbe-4694-bbd3-fb453a9cc160,,"Featuring an inviting open floor plan, generously sized bedrooms, and plenty of natural light, this home is ideal for families, professionals, or anyone looking to enjoy the unique lifestyle Celebration has to offer."
 HARD,familial,786 Oak Burl Ct,Sanford,3d7e16b6-0731-43bd-8ae4-28dae01cdb8e,,"The home boasts a large living room, perfect for family gatherings, and a separate formal living room, ideal for hosting guests in style."
 HARD,familial,824 Wood Briar Loop,Sanford,b08902fd-59f9-4d01-9a31-b648d222b1a5,,"This beautiful 4-bedroom, 3-bathroom home perfectly balances luxury and comfort, with spacious living areas that are ideal for family gatherings or hosting friends."
 HARD,familial,8400 Pippen Dr,Orlando,afa86428-41d9-4664-8658-770b8cfbdb91,,"Upstairs, the 3rd, 4th, and 5th bedrooms each include walk-in closets, with the 3rd and 4th bedrooms connected by a spacious Jack-and-Jill bathroom—perfect for family living or visiting guests."
@@ -52,7 +52,7 @@ HARD,familial,869 Brutus Terrace,Lake Mary,33df8001-b35e-4009-9077-5d5ff0ae58b7,
 HARD,familial,Avenues of Baldwin Park,Orlando,5ae35864-dbe3-4635-abc5-4a92f48faa0e,,"of comfortable living ideal for families, roommates, or anyone who values extra space."
 HARD,familial,Case Residences,Tampa,fbef3793-1234-4262-b1f8-8bc4f46930e9,,"It's an easy fit for professionals who need a home office or empty nesters hosting visiting family, with room to spare."
 HARD,familial,Janie B Apartments,Tampa,2194f9c8-81aa-437f-8bbf-cc61b1b0f7b3,,Seminole heights is home to dozens of urban diners and local family friendly hang out spots.
-HARD,familial,Mission Club Apartments,Orlando,ceb5031c-7c88-4f75-a33a-5f02754362b1,,"of beautifully designed living space, this 3-bedroom, 2-bathroom floor plan is perfect for families, roommates, or anyone who loves to spread out, relax, and enjoy life in style."
+HARD,familial,Mission Club Apartments,Orlando,1a09363a-1a57-447e-acbd-edbd8d0f6d61,,"of beautifully designed living space, this 3-bedroom, 2-bathroom floor plan is perfect for families, roommates, or anyone who loves to spread out, relax, and enjoy life in style."
 HARD,familial,Mission Club Apartments,Orlando,4d955dce-2386-425f-985f-1b53ed350622,,"of flexible living space, perfect for families, roommates, or anyone who loves room to live, work, and entertain."
 HARD,familial,Napiers Cir.,Orlando,90791133-34e0-4cf8-891a-bbc587b60f09,,"Perfect for students and budget-conscious renters, this home offers:"
 HARD,familial,Salisbury Apartments,Deland,34f24df7-a15c-45da-80f4-9305b2279f51,,"Steps from vibrant Downtown DeLand (0.3 miles): award-winning restaurants, boutique shops, live music, Athens Theatre, Museum of Art - DeLand Historic charm all around: enjoy the DeLand Mural Walk, Sculpture Walk, and we"
@@ -518,6 +518,7 @@ SOFT,phone,5405 Napoli Cove,Lake Mary,4310e451-dfe8-4e9b-a068-ccb0c007c266,,"Pro
 SOFT,phone,5557 Berwood Dr,Orlando,3f575a12-ae5c-4478-bf60-06cd6f40a094,,"Professionally Managed by Atrium Management, call 407-585-2721 for an appointment to view this home."
 SOFT,phone,608 S Lincoln Ave,Tampa,887ff2ff-aa08-497a-83df-1424ac0225d8,,813-355-9968
 SOFT,phone,611 E. Amelia Street,Orlando,d588ac42-b149-4491-bd17-56beb22174a5,,"Professionally Managed by Atrium Management, call 407-585-2721 today to set up your private showing."
+SOFT,phone,7544 Estuary Lake Loop,Celebration,4b51deb1-bfbe-4694-bbd3-fb453a9cc160,,Please contact Brittney 321-368-1138 for your tour today!
 SOFT,phone,7705 N Branch Ave,Tampa,73d7670f-9611-4077-bea8-90344ef20471,,Professionally Managed by Atrium Management 813-553-3444 Available July 4th 2025.
 SOFT,phone,8205-31 Sun Spring Circle,Orlando,6651a170-28c5-4455-ae22-560c7c30b018,,407-585-2721
 SOFT,phone,8503 N Semmes St Unit B,Tampa,503741ed-3ca9-49a2-8fee-1a1c4b50522d,,813-553-3444
@@ -583,7 +584,7 @@ SOFT,phone+email,Sutton Fields,St Cloud,5af9719c-5528-4cb2-9f11-2333db2c4e8d,,Fo
 SOFT,phone+email,Sutton Fields,St Cloud,e87e78fa-2f0d-4aee-a97f-c40ae0d47aa4,,For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.
 SOFT,phone+email,Sutton Fields,St Cloud,c0dc3181-9c9b-4705-9e51-b2adc0db24d9,,For more information contact Jillian Levine at (770) 713-7065 or jlevine@atriummanagement.com.
 SOFT,phone+email,Sutton Fields,St Cloud,ed67f219-3d7a-4775-95b9-4de683efb5ba,,For more information contact Jillian Levine at (770) 713-7065 or jlevine@atriummanagement.com.
-SOFT,phone+email,Valencia Isle,Orlando,fdb064bb-8446-40d1-8c45-bb64bf173cc8,,For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.
+SOFT,phone+email,Valencia Isle,Orlando,47a1b000-69e5-4c3c-96bb-139db761dacb,,For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.
 SOFT,phone+email,Valencia Isle,Orlando,1b3878fc-0132-4b7c-9bba-36a73145ad25,,For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.
 SOFT,phone+email,Valencia Isle,Orlando,191c7660-7eca-4620-950a-e60bfe5f5411,,For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.
 SOFT,phone+email,Valencia Isle,Orlando,0b399d13-6409-4b56-bb0e-819a23b2628c,,For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.
@@ -683,7 +684,6 @@ SOFT,phone+stale_claim,1387 Hampton Park Lane,Melbourne,c8161378-5553-4953-98ab-
 SOFT,phone+stale_claim,13906 Title Way,Winter Garden,648c8328-13fd-471b-83ae-8b75dc4748d3,,Call today for your private showing (407) 585-2721.
 SOFT,phone+stale_claim,14 South Court,Indialantic Beach,27265edd-a220-4428-8417-2528f019bfac,,Please call 321-779-7785 to schedule your private showing!
 SOFT,phone+stale_claim,1408 Patrick St,Kissimmee,dd197780-1318-4380-80be-2cc911dc212e,,Call (407) 585-2721 to schedule your private showing today!
-SOFT,phone+stale_claim,1409 Embassy Dr,Clearwater,d6bed114-c0c6-499e-81a2-684cd82967d6,,Contact us today at (813)787-4477 to schedule a viewing!
 SOFT,phone+stale_claim,1410 Patrick St,Kissimmee,0f65fe25-b36e-4cb1-9656-6c34cee20adc,,Call (407) 585-2721 to schedule your private showing today!
 SOFT,phone+stale_claim,1420 MALIBU CIRCLE NE,Palm Bay,ecdd86f9-a61e-414c-8bf4-627152aad8e2,,"Professionally managed by Atrium Management Company, please call 321-779-7785 to schedule your in person showing."
 SOFT,phone+stale_claim,1421 Ridgecrest Road,Orlando,7e0da0b3-6be8-4c93-8752-9ab6a799c1b8,,Call 407-585-2721 to schedule your private showing today!
@@ -1227,7 +1227,6 @@ SOFT,stale_claim,1387 Hampton Park Lane,Melbourne,c8161378-5553-4953-98ab-72456d
 SOFT,stale_claim,13906 Title Way,Winter Garden,648c8328-13fd-471b-83ae-8b75dc4748d3,,Don't miss the opportunity to make this house your home.
 SOFT,stale_claim,14 South Court,Indialantic Beach,27265edd-a220-4428-8417-2528f019bfac,,AVAILABLE NOW!!!
 SOFT,stale_claim,1408 Patrick St,Kissimmee,dd197780-1318-4380-80be-2cc911dc212e,,AVAILABLE IMMEDIATELY – Don't miss out on this Kissimmee gem!
-SOFT,stale_claim,1409 Embassy Dr,Clearwater,d6bed114-c0c6-499e-81a2-684cd82967d6,,Don’t miss out on this fantastic opportunity to make this lovely house your new home!
 SOFT,stale_claim,1410 Patrick St,Kissimmee,0f65fe25-b36e-4cb1-9656-6c34cee20adc,,AVAILABLE IMMEDIATELY – Don't miss out on this Kissimmee gem!
 SOFT,stale_claim,1420 MALIBU CIRCLE NE,Palm Bay,ecdd86f9-a61e-414c-8bf4-627152aad8e2,,AVAILABLE NOW!!!
 SOFT,stale_claim,1427 Voltaire Street,Deltona,ed883201-83d8-4fff-8d13-2a291fcba178,,Don't miss out on the opportunity to make this house your home.
