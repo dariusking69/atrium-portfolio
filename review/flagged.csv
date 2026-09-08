@@ -52,8 +52,8 @@ HARD,familial,869 Brutus Terrace,Lake Mary,33df8001-b35e-4009-9077-5d5ff0ae58b7,
 HARD,familial,Avenues of Baldwin Park,Orlando,5ae35864-dbe3-4635-abc5-4a92f48faa0e,,"of comfortable living ideal for families, roommates, or anyone who values extra space."
 HARD,familial,Case Residences,Tampa,fbef3793-1234-4262-b1f8-8bc4f46930e9,,"It's an easy fit for professionals who need a home office or empty nesters hosting visiting family, with room to spare."
 HARD,familial,Janie B Apartments,Tampa,2194f9c8-81aa-437f-8bbf-cc61b1b0f7b3,,Seminole heights is home to dozens of urban diners and local family friendly hang out spots.
-HARD,familial,Mission Club Apartments,Orlando,1a09363a-1a57-447e-acbd-edbd8d0f6d61,,"of beautifully designed living space, this 3-bedroom, 2-bathroom floor plan is perfect for families, roommates, or anyone who loves to spread out, relax, and enjoy life in style."
-HARD,familial,Mission Club Apartments,Orlando,4d955dce-2386-425f-985f-1b53ed350622,,"of flexible living space, perfect for families, roommates, or anyone who loves room to live, work, and entertain."
+HARD,familial,Mission Club Apartments,Orlando,79c10351-5da7-427f-a083-354c32b0142b,,"of beautifully designed living space, this 3-bedroom, 2-bathroom floor plan is perfect for families, roommates, or anyone who loves to spread out, relax, and enjoy life in style."
+HARD,familial,Mission Club Apartments,Orlando,31533270-760f-434f-ad48-3e779a2c2577,,"of flexible living space, perfect for families, roommates, or anyone who loves room to live, work, and entertain."
 HARD,familial,Napiers Cir.,Orlando,90791133-34e0-4cf8-891a-bbc587b60f09,,"Perfect for students and budget-conscious renters, this home offers:"
 HARD,familial,Salisbury Apartments,Deland,34f24df7-a15c-45da-80f4-9305b2279f51,,"Steps from vibrant Downtown DeLand (0.3 miles): award-winning restaurants, boutique shops, live music, Athens Theatre, Museum of Art - DeLand Historic charm all around: enjoy the DeLand Mural Walk, Sculpture Walk, and we"
 HARD,familial,The Roberson,Orlando,25ac0fa7-92a5-4b54-94d3-c37c40fe770a,,"- Lifestyle Amenities: The area boasts family-friendly parks, accessible public transit, and walkable streets leading to grocery stores and restaurants."
@@ -1722,6 +1722,7 @@ SOFT,stale_claim,Hammocks off Newberry,Gainesville,8fe92da3-a5f9-4fd8-bc7f-e1e07
 SOFT,stale_claim,Hammocks off Newberry,Gainesville,8fe92da3-a5f9-4fd8-bc7f-e1e0782268b9,,Call today for details and to book your personal tour of the community and talk about the exciting renovations that are being completed at the property!
 SOFT,stale_claim,Harwood,Orlando,248eda02-ada8-432b-ac29-467e66127e9e,,Schedule a viewing today and see how this little hideaway can be your gateway to big-city adventures!
 SOFT,stale_claim,Harwood,Orlando,a6b2b1ca-9d16-4968-a389-b649203be0a8,,Schedule your private tour today—this rare find won’t last long!
+SOFT,stale_claim,Highland Flats,Orlando,27455caa-4745-4114-8df5-411ebe4d88a2,,Don't miss this opportunity to experience the best of Orlando living!
 SOFT,stale_claim,JUAN6710,Tampa,931dc873-867b-4bd2-90e5-6f988e53525e,,Don’t miss the opportunity to live in one of Tampa’s best neighborhoods!
 SOFT,stale_claim,Janie B Apartments,Tampa,355dbab0-c6e3-4c83-9c4e-676691f09196,,Schedule your tour today!
 SOFT,stale_claim,LOFTY APARTMENTS,Richmond,83d4c3dd-e603-49db-b6db-f83bd6b42cc6,,Contact us today to schedule a tour and see why our residents love calling this place home.
@@ -1771,8 +1772,8 @@ SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,15dd5b0
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,5179d5e5-7ab1-4287-bd0c-1e0ae7e9d570,,"With comfortable living spaces and a community designed to feel like home, this opportunity won’t last long, reach out today before it’s gone!"
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,5179d5e5-7ab1-4287-bd0c-1e0ae7e9d570,,Schedule your tour today and see why you’ll love calling our community home!
 SOFT,stale_claim,Reserve at Lake Irene,Casselberry,a844b6ca-e648-4388-80c3-2fb8d7aa5ed2,,Contact us today to schedule your personalized tour and find your new home!
-SOFT,stale_claim,Reserve at Lake Irene,Casselberry,129ff2e5-cc51-4c91-86b3-b8f63cae4c7b,,Contact us today to schedule your personalized tour and find your new home!
-SOFT,stale_claim,Reserve at Lake Irene,Casselberry,807f2b98-6205-4cf0-b7ab-12565074ab0f,,Contact us today to schedule your personalized tour and find your new home!
+SOFT,stale_claim,Reserve at Lake Irene,Casselberry,bbb0e89c-7153-4cfe-979f-4c1f54c04347,,Contact us today to schedule your personalized tour and find your new home!
+SOFT,stale_claim,Reserve at Lake Irene,Casselberry,b00f0a2b-6356-47f6-ba23-59484cee08b5,,Contact us today to schedule your personalized tour and find your new home!
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,AVAILABLE NOW!!!!!!!!
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,"Don't miss out on your opportunity to call one of these apartments your home, and now, renters can save BIG on our newest  * Rent includes water via monthly fee*"
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,Schedule your showing now and APPLY ONLINE
