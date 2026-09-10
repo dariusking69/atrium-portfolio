@@ -59,7 +59,7 @@ HARD,familial,The Roberson,Orlando,25ac0fa7-92a5-4b54-94d3-c37c40fe770a,,"- Life
 HARD,familial,The Roberson,Orlando,b2e3ab97-f92c-4c09-a9be-591a86f4dcc6,,"- Lifestyle Amenities: The area boasts family-friendly parks, accessible public transit, and walkable streets leading to grocery stores and restaurants."
 HARD,familial,The Roberson,Orlando,3a928e57-6664-49e4-82bb-5c0c2592c7a2,,"- Lifestyle Amenities: The area boasts family-friendly parks, accessible public transit, and walkable streets leading to grocery stores and restaurants."
 HARD,familial,The Roberson,Orlando,a791e8f3-b52b-43ed-9fb4-dc026727b481,,"- Lifestyle Amenities: The area boasts family-friendly parks, accessible public transit, and walkable streets leading to grocery stores and restaurants."
-HARD,familial,Westshore Flats I,Tampa,7da99b99-de7a-4c21-9793-771323d96560,,"Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer — comfortable enough for professionals working from home or empty nesters h"
+HARD,familial,Westshore Flats I,Tampa,ec09cd3a-ea3c-4a25-8a05-1cb873e6b811,,"Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer — comfortable enough for professionals working from home or empty nesters h"
 HARD,familial,Westshore Marina Flats,Tampa,86bb9ca5-fee9-4e8c-aba4-987a44dd0a75,,"Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer — comfortable enough for professionals working from home or empty nesters h"
 HARD,religion,1310 Fairview Avenue,Winter Park,76fac962-2a84-4f36-9a36-60e0368eeb3f,,"Margaret Mary Catholic School, Park Maitland School, Orangewood Christian School, and Trinity Preparatory School."
 HARD,religion,Raven Place,Richmond,a49a10dd-3775-4358-8e82-43fff8521312,,"Located in Richmond's vibrant East End, Raven's Place places you just minutes from downtown Richmond, VCU Medical Center, Church Hill, Shockoe Bottom, local restaurants, shopping, and major employers, offering the ideal "
@@ -1231,6 +1231,7 @@ SOFT,stale_claim,14346 Clarkson Dr,Orlando,d7ce1901-ae36-4c31-8ea9-6c9e434d9c22,
 SOFT,stale_claim,14346 Clarkson Dr,Orlando,d7ce1901-ae36-4c31-8ea9-6c9e434d9c22,,AVAILABLE NOW!!!
 SOFT,stale_claim,1447 Swift Ct.,Poinciana,dbe78f89-cebf-4c01-8979-a676d4985ab1,,Beautiful BRAND-NEW 4 bedroom 2 bath home in Poinciana AVAILABLE IMMEDIATELY!
 SOFT,stale_claim,1447 Swift Ct.,Poinciana,dbe78f89-cebf-4c01-8979-a676d4985ab1,,AVAILABLE IMMEDIATELY!!
+SOFT,stale_claim,145 N Pearl Lake Cswy #210,Altamonte Springs,14246808-e456-4656-ac21-66107c22aeef,,AVAILABLE NOW!
 SOFT,stale_claim,1500 Coronet Drive,Deltona,780906da-164a-4e2b-8457-bf9d6c97570c,,AVAILABLE NOW!!!
 SOFT,stale_claim,151 E Washington St Unit 416,Orlando,67cb698a-a931-43a1-8ccf-423f55a08ceb,,Limited Time Offer: Get ONE MONTHFREE off your first month’s rent—Act Fast!
 SOFT,stale_claim,1531 Elf Stone Dr,Casselberry,360a51e7-5106-4a7a-867e-80341d13e082,,Don’t miss the opportunity to make this stylish Casselberry retreat your own.
@@ -1447,6 +1448,8 @@ SOFT,stale_claim,319 Golf Blvd,Daytona Beach,e442d1e9-da4b-4e3f-a946-6e05ba470ee
 SOFT,stale_claim,3204 Herons Point Cir,Kissimmee,e4acece1-cdc6-4c6f-a8ac-6bb6e0df7bec,,Don't wait—homes this close to the action don't last!
 SOFT,stale_claim,3204 Herons Point Cir,Kissimmee,e4acece1-cdc6-4c6f-a8ac-6bb6e0df7bec,,Schedule your showing today!
 SOFT,stale_claim,3204 Herons Point Cir,Kissimmee,e4acece1-cdc6-4c6f-a8ac-6bb6e0df7bec,,This end-unit gem is a must-see and won’t last long!
+SOFT,stale_claim,323 Arbor Lakes Circle,Sanford,b0f2bc46-d4a9-4d73-9d7e-0fbe11f97d22,,AVAILABLE NOW!
+SOFT,stale_claim,323 Arbor Lakes Circle,Sanford,b0f2bc46-d4a9-4d73-9d7e-0fbe11f97d22,,AVAILABLE NOW!!
 SOFT,stale_claim,3309 Messina Drive,Lake Mary,3c4570f3-4927-4ca8-a772-2165a8ccbc1c,,GORGEOUS 3 bed 3.5 bath Lake Mary Condo in Fountain Parke Available NOW!!!
 SOFT,stale_claim,3309 Messina Drive,Lake Mary,3c4570f3-4927-4ca8-a772-2165a8ccbc1c,,AVAILABLE NOW!!!!
 SOFT,stale_claim,332 Wheelhouse Ln,Lake Mary,b1863573-859d-465d-b21b-773fdacbd261,,Don't miss your chance to live in one of Lake Mary's most sought-after neighborhoods.
@@ -1814,8 +1817,8 @@ SOFT,stale_claim,The Roberson,Orlando,a791e8f3-b52b-43ed-9fb4-dc026727b481,,Sche
 SOFT,stale_claim,The Roberson,Orlando,0f639369-643e-4271-97fc-ccc49a139c1e,,Don’t miss this opportunity to own a beautifully updated home in a prime location!
 SOFT,stale_claim,The William at Westshore,Tampa,4ae3b6e8-9863-44b2-893f-2eb72136631a,,Schedule a private tour today to see this efficient home in person.
 SOFT,stale_claim,The William at Westshore,Tampa,bfce731f-8fa7-489b-8f7d-51e02c11bb93,,Schedule a private tour today to experience it for yourself.
-SOFT,stale_claim,Timber Pointe Apartments,Macon,51864d70-8d42-4ac8-90c2-c6f2e525f14e,,1 bedroom/1bath AVAILABLE NOW!
-SOFT,stale_claim,Timber Pointe Apartments,Macon,e710532e-e732-46c8-a91b-f69e276650fd,,2bed/1bath - AVAILABLE NOW!
+SOFT,stale_claim,Timber Pointe Apartments,Macon,4d54fe54-0966-4c0e-9308-6dc3a7ab62f7,,1 bedroom/1bath AVAILABLE NOW!
+SOFT,stale_claim,Timber Pointe Apartments,Macon,7fa72d1c-9a30-4dbe-ba3f-aa0fe541a11d,,2bed/1bath - AVAILABLE NOW!
 SOFT,stale_claim,WMUR61,Orlando,23d8bdc1-f9c0-465e-86c2-9eb5cc2b6e89,,AVAILABLE NOW!
 SOFT,stale_claim,Warehouse Lofts,Tampa,bda5d89b-e385-450d-b019-bf7e99647134,,Luxury Warehouse-Style Lofts in Tampa - Available Now!
 SOFT,stale_claim,Warehouse Lofts,Tampa,df76f8a5-4760-4bdb-a44f-2279a21f2144,,Luxury Warehouse-Style Lofts in Tampa- Available NOW!
