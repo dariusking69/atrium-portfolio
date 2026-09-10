@@ -8,7 +8,6 @@ HARD,familial,1100 Lake Shadow Circle #2306,Maitland,4a0b4a41-50a5-4865-bb4d-012
 HARD,familial,1131 Kersfield Cir,Lake Mary,b35a99b6-7b87-4013-bf8d-b355796c453c,,"Cooking and entertaining are a breeze in the open kitchen space that flows seamlessly into two large living areas, ideal for family gatherings or quiet evenings."
 HARD,familial,1165 Paseo De Las Flores Apt C,Casselberry,38b4ec7f-20f1-48dc-bd18-d256294e2b84,,This stunning gem offers a spacious layout is perfect for students or professionals.
 HARD,familial,1224 Travertine Terrace,Sanford,252cb2f3-2c1f-40cb-857b-9ec4b6f8dd54,,"Upstairs includes a built-in shelf, ideal for family photos or household trinkets."
-HARD,familial,123 W Lake Mary Ave,Lake Mary,a865a579-e790-4f5b-9bd6-b4e051d61ae7,,"The bedrooms offer ample space, making it perfect for families or individuals looking for extra comfort and privacy."
 HARD,familial,1250 S Denning Dr Unit 108,Winter Park,be02c8a9-db10-4a7e-9657-003093a9580d,,"This thoughtfully designed floor plan maximizes space and privacy, making it ideal for singles, professionals, or couples."
 HARD,familial,1421 Ridgecrest Road,Orlando,7e0da0b3-6be8-4c93-8752-9ab6a799c1b8,,"Zoned for top-rated schools like Blankner K-8 and Boone High School, this home is perfect for families."
 HARD,familial,1518 Almond Ave,Orlando,8bdec8c0-35ea-4273-b7f5-cece7f337ae9,,Features an open concept with wood and tile flooring downstairs and Luxury Vinyl Plank flooring upstairs perfect for kids and pets.
@@ -61,7 +60,7 @@ HARD,familial,The Roberson,Orlando,b2e3ab97-f92c-4c09-a9be-591a86f4dcc6,,"- Life
 HARD,familial,The Roberson,Orlando,3a928e57-6664-49e4-82bb-5c0c2592c7a2,,"- Lifestyle Amenities: The area boasts family-friendly parks, accessible public transit, and walkable streets leading to grocery stores and restaurants."
 HARD,familial,The Roberson,Orlando,a791e8f3-b52b-43ed-9fb4-dc026727b481,,"- Lifestyle Amenities: The area boasts family-friendly parks, accessible public transit, and walkable streets leading to grocery stores and restaurants."
 HARD,familial,Westshore Flats I,Tampa,7da99b99-de7a-4c21-9793-771323d96560,,"Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer — comfortable enough for professionals working from home or empty nesters h"
-HARD,familial,Westshore Marina Flats,Tampa,c30650fc-60cd-40ad-9319-8ac8686cd203,,"Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer — comfortable enough for professionals working from home or empty nesters h"
+HARD,familial,Westshore Marina Flats,Tampa,86bb9ca5-fee9-4e8c-aba4-987a44dd0a75,,"Upgraded units include quartz countertops, stainless steel appliances, hardwood-inspired flooring, soaking tubs, and an in-home washer and dryer — comfortable enough for professionals working from home or empty nesters h"
 HARD,religion,1310 Fairview Avenue,Winter Park,76fac962-2a84-4f36-9a36-60e0368eeb3f,,"Margaret Mary Catholic School, Park Maitland School, Orangewood Christian School, and Trinity Preparatory School."
 HARD,religion,Raven Place,Richmond,a49a10dd-3775-4358-8e82-43fff8521312,,"Located in Richmond's vibrant East End, Raven's Place places you just minutes from downtown Richmond, VCU Medical Center, Church Hill, Shockoe Bottom, local restaurants, shopping, and major employers, offering the ideal "
 HARD,religion,Raven Place,Richmond,18a41785-b694-4e8f-a257-a6e9ae85af0e,,"Located in the heart of Richmond's historic East End, Raven's Place places you just minutes from downtown Richmond, VCU Medical Center, Church Hill, Shockoe Bottom, and some of the city's best dining, shopping, and enter"
@@ -655,7 +654,6 @@ SOFT,phone+stale_claim,1224 Travertine Terrace,Sanford,252cb2f3-2c1f-40cb-857b-9
 SOFT,phone+stale_claim,12262 Fox Hound Lane,Orlando,d6866c71-1d82-499c-9337-6ba8c280bf0c,,Please call 407-585-2721 to schedule your private showing!
 SOFT,phone+stale_claim,12268 Fox Hound Ln,Orlando,32e712f8-47ba-4ff1-8798-ddc2b7af8fdf,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,"123 Lake Emma Cove Dr,",Lake Mary,2326ff19-1b5a-456e-91e8-5e1b3b9763dd,,Please call 407-585-2721 to schedule your private showing!
-SOFT,phone+stale_claim,123 W Lake Mary Ave,Lake Mary,a865a579-e790-4f5b-9bd6-b4e051d61ae7,,Contact us today at (407) 585-2721 to schedule a visit and experience the comfort and convenience of this beautiful home.
 SOFT,phone+stale_claim,1245 Alafia Way,Poinciana,72cd3236-6cd7-4d22-a9cc-57ed8a9b738c,,Please call 407-585-2721 to schedule your private showing TODAY!
 SOFT,phone+stale_claim,1246 Fox Hedge Ln,Saint Cloud,a5e6202d-8721-4ff0-91c3-065a7926395c,,Call 407-585-2721 today to schedule your private showing.
 SOFT,phone+stale_claim,1250 S Denning Dr Unit 108,Winter Park,be02c8a9-db10-4a7e-9657-003093a9580d,,Call (407) 585-2721 to schedule your private showing today.
@@ -1270,7 +1268,6 @@ SOFT,stale_claim,17973 Frame Bend,Land O Lakes,7cd662ae-2f7d-4e0d-bd24-5e621ac63
 SOFT,stale_claim,17973 Frame Bend,Land O Lakes,7cd662ae-2f7d-4e0d-bd24-5e621ac638af,,AVAILABLE NOW!
 SOFT,stale_claim,1810 NW 23rd BLVD #112,Gainesville,7ee5f3b8-2365-43ed-a7bd-ed8ddeb12421,,Beautiful 2 bedroom available NOW!
 SOFT,stale_claim,1810 NW 23rd BLVD #112,Gainesville,7ee5f3b8-2365-43ed-a7bd-ed8ddeb12421,,Call today to schedule your tour and see the beautiful upgrades!
-SOFT,stale_claim,188 Jones Fish Camp Rd,Edgewater,6cce0837-dc88-439e-8f10-c38d64d11dd0,,AVAILABLE NOW!!
 SOFT,stale_claim,1890 Erudite Way,Winter Park,972a478d-5e76-4b44-abcf-deb070fb014f,,WELCOME HOME this GORGEOUS Springdale II floorplan at Grayson Square in Winter Park is available immediately for its first ever residents!
 SOFT,stale_claim,1890 Valley Wood Way,Lake Mary,c2212fc6-0c9e-4917-9905-684b3619c247,,AVAILABLE NOW!!!
 SOFT,stale_claim,1891 Valley Wood Way,Lake Mary,68118ef9-93e4-49d3-a118-42f3e8cf231c,,AVAILABLE NOW!!!
@@ -1758,8 +1755,8 @@ SOFT,stale_claim,North Pointe Place,Orlando,f2e69426-808f-41ad-9960-4d0a4d5cb61d
 SOFT,stale_claim,North Pointe Place,Orlando,f2e69426-808f-41ad-9960-4d0a4d5cb61d,,Don’t miss your chance to secure this beautifully appointed 2-bedroom apartment in Orlando.
 SOFT,stale_claim,North Pointe Place,Orlando,f2e69426-808f-41ad-9960-4d0a4d5cb61d,,Contact us today to schedule your private tour or submit your application to make Unit 313 at North Pointe Place your new home.
 SOFT,stale_claim,Oasis at San Marco,Jacksonville,23aab66b-b9cb-4fb8-9ab0-9899e03f345f,,Schedule your tour today — your new home awaits!
-SOFT,stale_claim,Oasis at San Marco,Jacksonville,1ae84ec3-75e7-47d9-9093-2713f91b698b,,Schedule your tour today — your new home awaits!
-SOFT,stale_claim,Oasis at San Marco,Jacksonville,2910d971-48da-449b-b417-63219070c6c8,,Schedule your tour today — your new home awaits!
+SOFT,stale_claim,Oasis at San Marco,Jacksonville,d9aa95fe-891d-462f-ad47-a354b35c9b41,,Schedule your tour today — your new home awaits!
+SOFT,stale_claim,Oasis at San Marco,Jacksonville,0faca441-c617-4562-8119-277fcc4b49e8,,Schedule your tour today — your new home awaits!
 SOFT,stale_claim,Oasis at San Marco,Jacksonville,1262020b-1c2a-40ef-a310-7e0046b48ce6,,Schedule your tour today — your new home awaits!
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,4ee502a2-9914-40f9-b978-7b2b42e2f82b,,Call today to secure your preferred special before it’s gone!
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,4ee502a2-9914-40f9-b978-7b2b42e2f82b,,Schedule your tour today and see why you’ll love calling our community home!

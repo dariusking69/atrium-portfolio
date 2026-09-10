@@ -87,6 +87,7 @@
   <url><loc>https://portfolio.meetatrium.com/communities/barna-apartments-titusville/</loc><lastmod>2026-09-10</lastmod><priority>0.8</priority></url>
   <url><loc>https://portfolio.meetatrium.com/communities/barna-apartments-titusville/barna-apartments-2-beds-1-bath-825-sqft/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/communities/beach-flats-tampa/</loc><lastmod>2026-09-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://portfolio.meetatrium.com/communities/beach-flats-tampa/beach-flats-1-bed-1-bath-329-sqft/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/communities/beach-flats-tampa/beach-flats-1-bed-1-bath-465-sqft/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/communities/beach-flats-tampa/beach-flats-1-bed-1-bath-500-sqft/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/communities/beach-flats-tampa/beach-flats-2-beds-1-bath-900-sqft/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
@@ -639,7 +640,6 @@
   <url><loc>https://portfolio.meetatrium.com/homes/12268-fox-hound-ln-orlando/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/12270-fox-hound-ln-orlando/</loc><lastmod>2026-09-10</lastmod><priority>0.8</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/123-lake-emma-cove-dr-lake-mary/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
-  <url><loc>https://portfolio.meetatrium.com/homes/123-w-lake-mary-ave-lake-mary/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/1234-cascade-dr-davenport/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/124-becket-ln-heathrow/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/12407-ballentrae-forest-dr-riverview/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
@@ -758,7 +758,6 @@
   <url><loc>https://portfolio.meetatrium.com/homes/1834-raspberry-cane-court-longwood/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/185-wishing-well-cir-sw-palm-bay/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/188-angel-trumpet-way-oviedo/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
-  <url><loc>https://portfolio.meetatrium.com/homes/188-jones-fish-camp-rd-edgewater/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/1880-n-crystal-lake-dr-lakeland/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/1890-erudite-way-winter-park/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/1890-valley-wood-way-lake-mary/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
@@ -1133,7 +1132,7 @@
   <url><loc>https://portfolio.meetatrium.com/homes/7010-arcadian-ct-mount-dora/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/710-stanley-ave-wildwood/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/715-warrenton-road-winter-park/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
-  <url><loc>https://portfolio.meetatrium.com/homes/72-las-brisas-way-kissimmee/</loc><lastmod>2026-09-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://portfolio.meetatrium.com/homes/72-las-brisas-way-kissimmee/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/72-w-esther-street-orlando/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/720-buena-vista-st-lakeland/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/724-yager-ln-the-villages/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
@@ -1143,7 +1142,7 @@
   <url><loc>https://portfolio.meetatrium.com/homes/7510-blossom-ave-tampa/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/7544-estuary-lake-loop-celebration/</loc><lastmod>2026-09-10</lastmod><priority>0.8</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/755-musago-run-lake-mary/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
-  <url><loc>https://portfolio.meetatrium.com/homes/7555-loon-avenue-winter-garden/</loc><lastmod>2026-09-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://portfolio.meetatrium.com/homes/7555-loon-avenue-winter-garden/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/7611-autumn-pines-drive-orlando/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/7619-simms-ave-orlando/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://portfolio.meetatrium.com/homes/765-hendrix-ave-orlando/</loc><lastmod>2026-09-10</lastmod><priority>0.5</priority></url>
@@ -1231,7 +1230,6 @@
   <url><loc>https://portfolio.meetatrium.com/rentals/debary-fl/</loc><lastmod>2026-09-10</lastmod><priority>0.7</priority></url>
   <url><loc>https://portfolio.meetatrium.com/rentals/deland-fl/</loc><lastmod>2026-09-10</lastmod><priority>0.7</priority></url>
   <url><loc>https://portfolio.meetatrium.com/rentals/deltona-fl/</loc><lastmod>2026-09-10</lastmod><priority>0.7</priority></url>
-  <url><loc>https://portfolio.meetatrium.com/rentals/edgewater-fl/</loc><lastmod>2026-09-10</lastmod><priority>0.7</priority></url>
   <url><loc>https://portfolio.meetatrium.com/rentals/gainesville-fl/</loc><lastmod>2026-09-10</lastmod><priority>0.7</priority></url>
   <url><loc>https://portfolio.meetatrium.com/rentals/haines-city-fl/</loc><lastmod>2026-09-10</lastmod><priority>0.7</priority></url>
   <url><loc>https://portfolio.meetatrium.com/rentals/heathrow-fl/</loc><lastmod>2026-09-10</lastmod><priority>0.7</priority></url>
