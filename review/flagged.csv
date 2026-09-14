@@ -14,7 +14,9 @@ HARD,familial,1518 Almond Ave,Orlando,8bdec8c0-35ea-4273-b7f5-cece7f337ae9,,Feat
 HARD,familial,1695 W Lake Mary Blvd,Lake Mary,a70a92f7-1e53-4537-a165-220b40496ceb,,You'll get a great sense of flow and connectivity throughout the home as you're greeted with an open formal dining area and living room that are perfect for family gatherings.
 HARD,familial,1711 Barton Towne Cir,Saint Cloud,2cb7243e-8e74-4e32-837c-eaaccdb8b3b5,,"Nestled in a growing and family friendly area, St."
 HARD,familial,1714 Morgans Mill Circle,Orlando,e7041842-1fd9-47d3-bdb2-fbd9bbaea586,,"Conveniently located near UCF and Fullsail University, this home is ideal for students and professionals alike."
+HARD,familial,1744 Barton Towne Cir,Saint Cloud,8260025c-882f-41ab-b36f-34b0e183dc88,,"Located in a growing, family-friendly neighborhood, St."
 HARD,familial,1746 Stafford Dr,Orlando,ec2cf846-f4ab-44e9-8fa9-731716baad60,,"This beautifully maintained 4-bedroom, 3-bathroom home offers a spacious and well-designed split floor plan, ideal for families, professionals, or anyone who loves to entertain."
+HARD,familial,1781 Barton Towne Cir,Saint Cloud,8fdde447-9f7d-4704-86e2-b23b90f40ace,,"Cloud is one of Central Florida's fastest-growing, most family-friendly communities, offering small-town warmth with big-city convenience just minutes away."
 HARD,familial,17973 Frame Bend,Land O Lakes,7cd662ae-2f7d-4e0d-bd24-5e621ac638af,,The spacious living area is perfect for family gatherings and entertaining guests.
 HARD,familial,2009 E Jefferson St - A,Orlando,ed1a3fd2-7105-4871-a615-b9f15696c6ff,,"This amazing duplex, leased as a single-family property, features a spacious layout perfect for families, roommates, or anyone who needs an extra living quarters!"
 HARD,familial,2019 Canopy Terrace Blvd,Deland,7961f478-1ab6-4dbb-a101-5a6bc3e7760d,,This home provides ample space for a comfortable living experience and is perfect for families or individuals looking for a peaceful place to call home.
@@ -205,12 +207,14 @@ HARD,school_steering,1711 Barton Towne Cir,Saint Cloud,2cb7243e-8e74-4e32-837c-e
 HARD,school_steering,1713 Pine Bay Dr,Lake Mary,c9abbf1b-838d-4cce-970d-89514b97b67a,,"Zoned for Woodlands Elementary School, Markham Woods Middle School, and Lake Mary High School."
 HARD,school_steering,1720 Merrick Rd,Lakeland,912250ea-d31e-4525-8552-4cabb58a7034,,"Schools nearby are Phillip O'Brien Elementary, Crystal Lake Middle, and Tenoroc High School."
 HARD,school_steering,1735 Barrow Street,Deltona,9b930ba8-d5cf-4575-b88b-d276280ad71e,,"Zoned for Timbercrest Elementary School, Galaxy Middle School, and Deltona High School."
+HARD,school_steering,1744 Barton Towne Cir,Saint Cloud,8260025c-882f-41ab-b36f-34b0e183dc88,,"Families will also love the location within the School District of Osceola County, known for its top-rated schools and strong sense of community."
 HARD,school_steering,1746 Stafford Dr,Orlando,ec2cf846-f4ab-44e9-8fa9-731716baad60,,"Located in a peaceful, established neighborhood, this home is close to Conway Chain of Lakes, major highways, top-rated schools, shopping, dining, parks, and more—offering both privacy and convenience."
 HARD,school_steering,1752 Buckeye Rd,Davenport,61c4bfe5-d3cb-4e64-b4a7-920530c528a8,,"Located minutes away from Champions Gate, Disney and zoned for Horizons Elementary, Shelley S."
 HARD,school_steering,1752 Buckeye Rd,Davenport,61c4bfe5-d3cb-4e64-b4a7-920530c528a8,,"Boone Middle School, and Ridge Community High School."
 HARD,school_steering,1766 Travertine Terrace,Sanford,ed4e30d2-e903-40e8-bf3a-dc12b4a8af67,,"Zoned for Region 1 Elementary School, Sanford Middle School and Seminole High School."
 HARD,school_steering,17777 Crescent Moon Loop,Lakewood Ranch,9eaa2224-8827-439c-a501-e70f8c73c8f6,,"Located in one of Lakewood Ranch’s most desirable communities, you’ll enjoy convenient access to top-rated schools, shopping, dining, golf, and nearby Gulf Coast beaches."
 HARD,school_steering,1780 Carley Court,Orlando,6795a614-7057-4828-ab86-4147947cba1c,,"- Top-Rated Schools: Baldwin Park is known for its excellent schools, making it a desirable location for families."
+HARD,school_steering,1781 Barton Towne Cir,Saint Cloud,8fdde447-9f7d-4704-86e2-b23b90f40ace,,"This home sits within the School District of Osceola County, an area known for its community-focused schools and family-oriented atmosphere."
 HARD,school_steering,1782 Carley Court,Orlando,918ffa00-233b-43da-a5ae-75f1443a75a6,,"Enjoy a peaceful, private setting while walking distance to upscale dining, boutique shopping, farmers' markets, and the lake's scenic trails — all within Baldwin Park's top-rated schools and welcoming community atmosphe"
 HARD,school_steering,17973 Frame Bend,Land O Lakes,7cd662ae-2f7d-4e0d-bd24-5e621ac638af,,"Located just minutes from top-rated schools, shopping, and dining, this home offers both convenience and luxury."
 HARD,school_steering,17973 Frame Bend,Land O Lakes,7cd662ae-2f7d-4e0d-bd24-5e621ac638af,,"Zoned for the highly rated Bexley Elementary, Charles Rushe Middle, Sunlake High School."
@@ -539,7 +543,7 @@ SOFT,phone,The Carl,Orlando,87b87792-57f8-441e-808a-87c2ae151eb8,,"To arrange a 
 SOFT,phone,The Grande @ Gainesville,Gainesville,c5a0edfb-998b-4946-96a6-215862e38c78,,Maximus Montepeque 352-234-3496
 SOFT,phone,The Roberson,Orlando,74d9c1b9-f564-4598-8309-26d669260010,,Contact Atrium Management 407-585-2721 for showings.
 SOFT,phone,Valencia Isle,Orlando,8a758445-2e51-41c1-ab7a-ca4ff7a3d1f1,,For more information contact our leasing team at (407) 250-9302.
-SOFT,phone,Woodland Heights Apartments,Lakeland,07e0d883-c04c-4236-acfd-7cbfc40aa1f9,,Contact Atrium Management today at 407-585-2721 for more details and to schedule your personal tour!
+SOFT,phone,Woodland Heights Apartments,Lakeland,1ba84890-e31f-4ca0-aecf-93ef1ac0546b,,Contact Atrium Management today at 407-585-2721 for more details and to schedule your personal tour!
 SOFT,phone,Woodland Heights Apartments,Lakeland,af8f9927-94c3-4ef8-8509-b958a7f881f4,,Contact Atrium Management today at 407-585-2721 for more details and to schedule your personal tour!
 SOFT,phone+email,12805 Avelar Manor Pl,Riverview,ee8f5d07-9c5d-47de-aa66-41905040b45a,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,17345 White Mangrove Drive,Wimauma,b217d8f9-d974-4d27-881d-2d4bc8cb6913,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
@@ -1262,6 +1266,7 @@ SOFT,stale_claim,1746 Stafford Dr,Orlando,ec2cf846-f4ab-44e9-8fa9-731716baad60,,
 SOFT,stale_claim,1752 Buckeye Rd,Davenport,61c4bfe5-d3cb-4e64-b4a7-920530c528a8,,GORGEOUS 5 Bedroom 3 Bath Home in DESIRABLE Forest Lake Community AVAILABLE IMMEDIATELY!!
 SOFT,stale_claim,17777 Crescent Moon Loop,Lakewood Ranch,9eaa2224-8827-439c-a501-e70f8c73c8f6,,Schedule a tour today!
 SOFT,stale_claim,1780 Carley Court,Orlando,6795a614-7057-4828-ab86-4147947cba1c,,Don't miss your chance to call this urban oasis home!
+SOFT,stale_claim,1781 Barton Towne Cir,Saint Cloud,8fdde447-9f7d-4704-86e2-b23b90f40ace,,This one won't last long schedule your tour today!
 SOFT,stale_claim,17973 Frame Bend,Land O Lakes,7cd662ae-2f7d-4e0d-bd24-5e621ac638af,,Don’t miss the opportunity to make this exquisite property yours—schedule a tour today and experience all that this exceptional home has to offer!
 SOFT,stale_claim,17973 Frame Bend,Land O Lakes,7cd662ae-2f7d-4e0d-bd24-5e621ac638af,,AVAILABLE NOW!
 SOFT,stale_claim,1810 NW 23rd BLVD #112,Gainesville,7ee5f3b8-2365-43ed-a7bd-ed8ddeb12421,,Beautiful 2 bedroom available NOW!
@@ -1816,7 +1821,7 @@ SOFT,stale_claim,Timber Pointe Apartments,Macon,80b3df9a-6e60-427a-911a-73dd6df5
 SOFT,stale_claim,WMUR61,Orlando,23d8bdc1-f9c0-465e-86c2-9eb5cc2b6e89,,AVAILABLE NOW!
 SOFT,stale_claim,Westshore Flats I,Tampa,50712ca4-75f9-4034-9694-76616fa00458,,Schedule a private tour today to choose your finish level.
 SOFT,stale_claim,Westshore Marina Flats,Tampa,bfb3afa7-df20-4ea9-b689-d1c8590504f2,,Schedule a private tour today to choose your finish level.
-SOFT,stale_claim,Woodland Heights Apartments,Lakeland,07e0d883-c04c-4236-acfd-7cbfc40aa1f9,,Don't miss your opportunity to make Woodland Heights your new home!
+SOFT,stale_claim,Woodland Heights Apartments,Lakeland,1ba84890-e31f-4ca0-aecf-93ef1ac0546b,,Don't miss your opportunity to make Woodland Heights your new home!
 SOFT,stale_claim,Woodland Heights Apartments,Lakeland,af8f9927-94c3-4ef8-8509-b958a7f881f4,,Don't miss your opportunity to make Woodland Heights your new home!
 SOFT,url,1010 S Miramar Ave,Indialantic,dd020c0c-18e4-4827-a7f8-776178f84f7a,,Application fees are per adult and applications must be filled out on our site at www.atriummanagement.com $95.00 Application Fee (Non-Refundable) per adult.
 SOFT,url,1010 S Miramar Ave,Indialantic,dd020c0c-18e4-4827-a7f8-776178f84f7a,,"Pet screenings, affidavits, and/or applications are located online at https://app.petscreening.com/"
