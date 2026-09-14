@@ -52,7 +52,7 @@ HARD,familial,8400 Pippen Dr,Orlando,afa86428-41d9-4664-8658-770b8cfbdb91,,"Upst
 HARD,familial,869 Brutus Terrace,Lake Mary,33df8001-b35e-4009-9077-5d5ff0ae58b7,,"Upstairs, you’ll find the luxurious master suite with an en-suite bath, plus two additional bedrooms and another full bathroom—ideal for families, roommates, or guests."
 HARD,familial,Avenues of Baldwin Park,Orlando,5ae35864-dbe3-4635-abc5-4a92f48faa0e,,"of comfortable living ideal for families, roommates, or anyone who values extra space."
 HARD,familial,Case Residences,Tampa,fbef3793-1234-4262-b1f8-8bc4f46930e9,,"It's an easy fit for professionals who need a home office or empty nesters hosting visiting family, with room to spare."
-HARD,familial,Mission Club Apartments,Orlando,55635c12-a996-43a7-af65-240b84092d2b,,"of beautifully designed living space, this 3-bedroom, 2-bathroom floor plan is perfect for families, roommates, or anyone who loves to spread out, relax, and enjoy life in style."
+HARD,familial,Mission Club Apartments,Orlando,34623e70-f741-495a-b0ae-610772ca003f,,"of beautifully designed living space, this 3-bedroom, 2-bathroom floor plan is perfect for families, roommates, or anyone who loves to spread out, relax, and enjoy life in style."
 HARD,familial,Mission Club Apartments,Orlando,4d955dce-2386-425f-985f-1b53ed350622,,"of flexible living space, perfect for families, roommates, or anyone who loves room to live, work, and entertain."
 HARD,familial,Napiers Cir.,Orlando,90791133-34e0-4cf8-891a-bbc587b60f09,,"Perfect for students and budget-conscious renters, this home offers:"
 HARD,familial,Salisbury Apartments,Deland,34f24df7-a15c-45da-80f4-9305b2279f51,,"Steps from vibrant Downtown DeLand (0.3 miles): award-winning restaurants, boutique shops, live music, Athens Theatre, Museum of Art - DeLand Historic charm all around: enjoy the DeLand Mural Walk, Sculpture Walk, and we"
@@ -541,8 +541,9 @@ SOFT,phone,Stetson Apartments,Deland,7f53f9c7-a442-40ee-9e13-a54490ca571b,,"To a
 SOFT,phone,The Carl,Orlando,87b87792-57f8-441e-808a-87c2ae151eb8,,"To arrange a personal tour, please dial 407-585-2721."
 SOFT,phone,The Grande @ Gainesville,Gainesville,c5a0edfb-998b-4946-96a6-215862e38c78,,Maximus Montepeque 352-234-3496
 SOFT,phone,The Roberson,Orlando,74d9c1b9-f564-4598-8309-26d669260010,,Contact Atrium Management 407-585-2721 for showings.
+SOFT,phone,Tumblin Creek,Gainesville,39f013b2-58e3-4d1e-9f3a-830114a61af3,,Maximus Montepeque-- 352-234-3496
 SOFT,phone,Valencia Isle,Orlando,8a758445-2e51-41c1-ab7a-ca4ff7a3d1f1,,For more information contact our leasing team at (407) 250-9302.
-SOFT,phone,Woodland Heights Apartments,Lakeland,1ba84890-e31f-4ca0-aecf-93ef1ac0546b,,Contact Atrium Management today at 407-585-2721 for more details and to schedule your personal tour!
+SOFT,phone,Woodland Heights Apartments,Lakeland,07e0d883-c04c-4236-acfd-7cbfc40aa1f9,,Contact Atrium Management today at 407-585-2721 for more details and to schedule your personal tour!
 SOFT,phone,Woodland Heights Apartments,Lakeland,af8f9927-94c3-4ef8-8509-b958a7f881f4,,Contact Atrium Management today at 407-585-2721 for more details and to schedule your personal tour!
 SOFT,phone+email,12805 Avelar Manor Pl,Riverview,ee8f5d07-9c5d-47de-aa66-41905040b45a,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,17345 White Mangrove Drive,Wimauma,b217d8f9-d974-4d27-881d-2d4bc8cb6913,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
@@ -1042,7 +1043,7 @@ SOFT,phone+stale_claim,952-12 Courtyard Lane,Orlando,ad8d2395-6d18-4fca-8a2b-e33
 SOFT,phone+stale_claim,954 Forest Ridge Court #206,Lake Mary,118f85ad-31a8-47fd-a1a4-1823d15c0bf6,,Professionally Managed by Atrium Management Call 407-585-2721 to schedule your private showing today!
 SOFT,phone+stale_claim,954-22 Courtyard Lane,Orlando,fee9fbbc-7718-44b8-a171-34349dba8650,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,963 Glen Abbey Circle,Winter Springs,61264225-f204-4c79-84e7-e4588a6940cc,,Please call 407-585-2721 to schedule your private showing!
-SOFT,phone+stale_claim,Avenues of Baldwin Park,Orlando,7fbd0610-b1aa-431b-85f5-58860f1b20fc,,Don’t miss your chance to call this stunning apartment home — schedule your tour today (407) 917-7786!
+SOFT,phone+stale_claim,Avenues of Baldwin Park,Orlando,e4bad02c-d5fc-4b10-8c2a-9caa140d9faa,,Don’t miss your chance to call this stunning apartment home — schedule your tour today (407) 917-7786!
 SOFT,phone+stale_claim,Avenues of Baldwin Park,Orlando,fedae60c-78ee-46d6-950a-041483bed4b2,,Schedule your tour today 407-671-0200
 SOFT,phone+stale_claim,Barna Apartments,Titusville,dbd2a175-b18d-4091-a2e7-6236f07b8dfb,,"Professionally managed by Atrium Management Company, please call 407-243-8937 to schedule your in person showing."
 SOFT,phone+stale_claim,Bear Creek Apts (New),Bartow,238c5961-a6f0-429b-a7c8-dad37dfad65b,,Call or text 813-438-3799 for questions and to schedule an appointment!
@@ -1679,7 +1680,7 @@ SOFT,stale_claim,Aston Square Apartments,Kissimmee,e159cf67-1ba0-4f81-af8b-394c3
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,0975b8de-ddba-4c1d-8af9-292dd325145f,,Schedule your tour today!
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,0975b8de-ddba-4c1d-8af9-292dd325145f,,Rental Terms Application Fee: $95 Admin Fee $250 Available Now Pet Policy Cats allowed Dogs allowed Amenities pool Valet Trash Soccer Field Clubhouse Lake View High Speed Internet 24 Hour Fitness Center Community Grill b
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,4f74a1de-dd21-4ff2-acbc-d04324c004c6,,Rental Terms Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities Valet Trash Clubhouse Community Park Community Playground Community Lake In Unit Washer and Dryer Carpet Community Swimming P
-SOFT,stale_claim,Avenues of Baldwin Park,Orlando,7fbd0610-b1aa-431b-85f5-58860f1b20fc,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities Valet Trash Clubhouse Outdoor deck High Speed Internet 24 Hour Fitness Center Community Grill basketball cour
+SOFT,stale_claim,Avenues of Baldwin Park,Orlando,e4bad02c-d5fc-4b10-8c2a-9caa140d9faa,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities Valet Trash Clubhouse Outdoor deck High Speed Internet 24 Hour Fitness Center Community Grill basketball cour
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,fedae60c-78ee-46d6-950a-041483bed4b2,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities pool Valet Trash Soccer Field Community Clubhouse Outdoor deck High Speed Internet 24 Hour Fitness Center Pet
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,5ae35864-dbe3-4635-abc5-4a92f48faa0e,,Schedule your tour today!
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,5ae35864-dbe3-4635-abc5-4a92f48faa0e,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities Valet Trash Soccer Field Clubhouse High Speed Internet Pet Friendly Dog park Basketball court Playground Comm
@@ -1756,7 +1757,7 @@ SOFT,stale_claim,North Pointe Place,Orlando,671e2b28-4f5b-40ec-96c2-ce8ab8ec4aa3
 SOFT,stale_claim,North Pointe Place,Orlando,f2e69426-808f-41ad-9960-4d0a4d5cb61d,,Available Now: Professionally prepped and completely rent-ready today.
 SOFT,stale_claim,North Pointe Place,Orlando,f2e69426-808f-41ad-9960-4d0a4d5cb61d,,Don’t miss your chance to secure this beautifully appointed 2-bedroom apartment in Orlando.
 SOFT,stale_claim,North Pointe Place,Orlando,f2e69426-808f-41ad-9960-4d0a4d5cb61d,,Contact us today to schedule your private tour or submit your application to make Unit 313 at North Pointe Place your new home.
-SOFT,stale_claim,Oasis at San Marco,Jacksonville,3ed7abaa-3d54-4119-ac6c-126afa7920e1,,Schedule your tour today — your new home awaits!
+SOFT,stale_claim,Oasis at San Marco,Jacksonville,1b7ee929-5f17-429b-b7ab-42eb383a057b,,Schedule your tour today — your new home awaits!
 SOFT,stale_claim,Oasis at San Marco,Jacksonville,f74cf03a-f04c-435c-9e60-fbc2a90c0f66,,Schedule your tour today — your new home awaits!
 SOFT,stale_claim,Oasis at San Marco,Jacksonville,0faca441-c617-4562-8119-277fcc4b49e8,,Schedule your tour today — your new home awaits!
 SOFT,stale_claim,Oasis at San Marco,Jacksonville,1262020b-1c2a-40ef-a310-7e0046b48ce6,,Schedule your tour today — your new home awaits!
@@ -1770,8 +1771,8 @@ SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,15dd5b0
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,5179d5e5-7ab1-4287-bd0c-1e0ae7e9d570,,"With comfortable living spaces and a community designed to feel like home, this opportunity won’t last long, reach out today before it’s gone!"
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,5179d5e5-7ab1-4287-bd0c-1e0ae7e9d570,,Schedule your tour today and see why you’ll love calling our community home!
 SOFT,stale_claim,Reserve at Lake Irene,Casselberry,a844b6ca-e648-4388-80c3-2fb8d7aa5ed2,,Contact us today to schedule your personalized tour and find your new home!
-SOFT,stale_claim,Reserve at Lake Irene,Casselberry,bbb0e89c-7153-4cfe-979f-4c1f54c04347,,Contact us today to schedule your personalized tour and find your new home!
-SOFT,stale_claim,Reserve at Lake Irene,Casselberry,d78ef9a1-2797-404f-a388-01f00a448322,,Contact us today to schedule your personalized tour and find your new home!
+SOFT,stale_claim,Reserve at Lake Irene,Casselberry,0dfe6e09-babb-44ba-b812-d32f33420b1d,,Contact us today to schedule your personalized tour and find your new home!
+SOFT,stale_claim,Reserve at Lake Irene,Casselberry,592d36aa-446b-4c59-be2f-43b57db5cdcd,,Contact us today to schedule your personalized tour and find your new home!
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,AVAILABLE NOW!!!!!!!!
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,"Don't miss out on your opportunity to call one of these apartments your home, and now, renters can save BIG on our newest  * Rent includes water via monthly fee*"
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,Schedule your showing now and APPLY ONLINE
@@ -1821,7 +1822,7 @@ SOFT,stale_claim,Timber Pointe Apartments,Macon,80b3df9a-6e60-427a-911a-73dd6df5
 SOFT,stale_claim,WMUR61,Orlando,23d8bdc1-f9c0-465e-86c2-9eb5cc2b6e89,,AVAILABLE NOW!
 SOFT,stale_claim,Westshore Flats I,Tampa,50712ca4-75f9-4034-9694-76616fa00458,,Schedule a private tour today to choose your finish level.
 SOFT,stale_claim,Westshore Marina Flats,Tampa,88ad2967-0651-4b5d-bc7d-b9d1aecd8f66,,Schedule a private tour today to choose your finish level.
-SOFT,stale_claim,Woodland Heights Apartments,Lakeland,1ba84890-e31f-4ca0-aecf-93ef1ac0546b,,Don't miss your opportunity to make Woodland Heights your new home!
+SOFT,stale_claim,Woodland Heights Apartments,Lakeland,07e0d883-c04c-4236-acfd-7cbfc40aa1f9,,Don't miss your opportunity to make Woodland Heights your new home!
 SOFT,stale_claim,Woodland Heights Apartments,Lakeland,af8f9927-94c3-4ef8-8509-b958a7f881f4,,Don't miss your opportunity to make Woodland Heights your new home!
 SOFT,url,1010 S Miramar Ave,Indialantic,dd020c0c-18e4-4827-a7f8-776178f84f7a,,Application fees are per adult and applications must be filled out on our site at www.atriummanagement.com $95.00 Application Fee (Non-Refundable) per adult.
 SOFT,url,1010 S Miramar Ave,Indialantic,dd020c0c-18e4-4827-a7f8-776178f84f7a,,"Pet screenings, affidavits, and/or applications are located online at https://app.petscreening.com/"
