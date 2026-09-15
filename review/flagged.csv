@@ -378,7 +378,7 @@ HARD,school_steering,6153 Metrowest Blvd,Orlando,4c033d18-87ee-490d-be7b-53f024e
 HARD,school_steering,616 Iris St,Altamonte Springs,0c7ddeb7-9ebd-4bc6-b954-fddff69b3cb7,,Zoned for Lake Brantley High School.
 HARD,school_steering,620 Florida Street,Orlando,93171002-2a9c-47e9-b0fc-a453970c4c09,,"Zoned for Blankner Elementary School, Blankner Middle School and Boone High School."
 HARD,school_steering,620 Florida Street,Orlando,f5f2075d-9582-4254-848f-ffad1a7bfa88,,"Zoned for Blankner Elementary School, Blankner Middle School and Boone High School."
-HARD,school_steering,620 Florida Street,Orlando,93250fa0-2bfa-4deb-96f3-380d8d9698ac,,"Zoned for Blankner Elementary School, Blankner Middle School and Boone High School."
+HARD,school_steering,620 Florida Street,Orlando,035f9b60-d29d-441e-a972-db6038172c21,,"Zoned for top-rated Blankner Elementary, Blankner Middle, and Boone High School."
 HARD,school_steering,630 Broadoak Loop,Sanford,41882ce2-ddde-44e9-88ff-3f5901b6cd54,,"Zoned Schools: Region 1 Elementary, Sanford Middle, and Seminole High School."
 HARD,school_steering,630 Kenwick APT 102 Cir,Casselberry,525c56cf-eae2-4d12-9c7e-8fdfd984cac1,,"Plus, benefit from the reputable Lake Howell High School zoning."
 HARD,school_steering,630 Linda Ct,Palm Harbor,865c4f45-98b7-42c0-80e9-22c6c2ff66bf,,"Plus, with easy access to public transit, shopping, dining, and top-rated schools, you’ll have everything you need right at your fingertips."
@@ -441,7 +441,7 @@ HARD,school_steering,GEOR1527,Orlando,26961f94-abad-41bd-a2c3-5f1b02fbd959,,- Ho
 HARD,school_steering,GEOR1527,Orlando,26961f94-abad-41bd-a2c3-5f1b02fbd959,,- Boone High School
 HARD,school_steering,Myrtle Ave Apartments,Sanford,4392df9a-d6c6-43dd-9920-83df96e5e766,,"Zoned for Pine Crest Elementary, Millennium Middle, and Seminole High School."
 HARD,school_steering,Salisbury Apartments,Deland,3a3648af-71c6-4987-a071-857c5b86f390,,"Zoned for Blue Lake Elementary School, DeLand Middle School, and DeLand High School."
-HARD,school_steering,Salisbury Apartments,Deland,6a7dc518-ce1e-4820-833c-c916b8b18f03,,"Zoned for Blue Lake Elementary School, DeLand Middle School, and DeLand High School."
+HARD,school_steering,Salisbury Apartments,Deland,f8a9c292-b8f9-484c-b8d8-bb345aa01d5b,,"Zoned for Blue Lake Elementary School, DeLand Middle School, and DeLand High School."
 HARD,school_steering,The Carl,Orlando,87b87792-57f8-441e-808a-87c2ae151eb8,,"Excellent Schools: Situated within the Lake Silver Elementary, Lee Middle, and a short stroll to Edgewater High School zones."
 HARD,school_steering,The Carl,Orlando,11c9f93a-a559-43c1-b967-3242f6e6ef29,,"Location & Community Perks Situated in a prime Orlando location, this property offers unmatched access to local amenities and top-rated schools:"
 HARD,school_steering,The Carl,Orlando,11c9f93a-a559-43c1-b967-3242f6e6ef29,,"Top-Tier School Zoning: Lake Silver Elementary, Lee Middle School, and walking distance to Edgewater High School."
@@ -971,7 +971,7 @@ SOFT,phone+stale_claim,615 Casa Park Court A,Winter Springs,f1ddf895-8ea4-45db-b
 SOFT,phone+stale_claim,6153 Metrowest Blvd,Orlando,4c033d18-87ee-490d-be7b-53f024e1f527,,Please call 407-585-2721 to schedule your private showing!
 SOFT,phone+stale_claim,620 Florida Street,Orlando,93171002-2a9c-47e9-b0fc-a453970c4c09,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,620 Florida Street,Orlando,f5f2075d-9582-4254-848f-ffad1a7bfa88,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
-SOFT,phone+stale_claim,620 Florida Street,Orlando,93250fa0-2bfa-4deb-96f3-380d8d9698ac,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
+SOFT,phone+stale_claim,620 Florida Street,Orlando,035f9b60-d29d-441e-a972-db6038172c21,,Call 407-585-2721 to schedule your private showing today!
 SOFT,phone+stale_claim,6262 Yorktown Dr #177,Orlando,a6114d54-5738-47ad-b7fc-3e605e0bacc6,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,630 Broadoak Loop,Sanford,41882ce2-ddde-44e9-88ff-3f5901b6cd54,,Showings: Please call 407-585-2721 to schedule your private tour!
 SOFT,phone+stale_claim,630 Kenwick APT 102 Cir,Casselberry,525c56cf-eae2-4d12-9c7e-8fdfd984cac1,,Contact us today at 407.585.2721 to arrange a personal tour!
@@ -1060,7 +1060,7 @@ SOFT,phone+stale_claim,Dharma Apartments,Orlando,70eb6d7c-8ecc-4f2e-999f-3fcdac0
 SOFT,phone+stale_claim,Dharma Apartments,Orlando,228a09e9-7463-4059-b4c2-c8477b62a381,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,EPIN2423-2431,Orlando,9748c1e1-22ba-44e9-bb57-904d53f7fc94,,Call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,EPIN2437-2471,Orlando,e648f666-d3f8-4118-b673-f7b4a79f763a,,Call 407-585-2721 to schedule your private showing today!
-SOFT,phone+stale_claim,Elmwood Apartments,Orlando,1323928b-8045-4ae3-9501-37219294dd12,,Please call 407-585-2721 to schedule your private showing.
+SOFT,phone+stale_claim,Elmwood Apartments,Orlando,28057b54-10ad-4524-8e82-62de5d6d1add,,Call 407-585-2721 to schedule your private showing today!
 SOFT,phone+stale_claim,GEOR1527,Orlando,26961f94-abad-41bd-a2c3-5f1b02fbd959,,Call 407-585-2721 today to schedule your private showing and experience the comfort and convenience of this charming Orlando rental for yourself.
 SOFT,phone+stale_claim,Green Cove Apartments,Gainesville,1d46d516-1b2e-46b9-8de4-d34576904dd3,,Call today to schedule a showing: Maximus Montepeque 352-234-3496
 SOFT,phone+stale_claim,Janie B Apartments,Tampa,3259e94f-6e86-42a8-a4f6-16fe58e554e9,,Call 813-355-9968 to schedule your tour!
@@ -1079,7 +1079,7 @@ SOFT,phone+stale_claim,NCEN130,Winter Park,2bb54eb7-4dfb-47a1-a24f-a79a0daaf5af,
 SOFT,phone+stale_claim,Royal Villas,Titusville,c1c72454-4ede-4817-a6ab-49e6ba5ba41e,,Professionally managed by Atrium Management please call 407-243-8937 to schedule your showing.
 SOFT,phone+stale_claim,Royal Villas,Titusville,cb2dcda9-86b3-4425-8e91-4c4fe5ae44e0,,Professionally managed by Atrium Management please call 407-243-8937 to schedule your showing.
 SOFT,phone+stale_claim,Salisbury Apartments,Deland,3a3648af-71c6-4987-a071-857c5b86f390,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
-SOFT,phone+stale_claim,Salisbury Apartments,Deland,6a7dc518-ce1e-4820-833c-c916b8b18f03,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
+SOFT,phone+stale_claim,Salisbury Apartments,Deland,f8a9c292-b8f9-484c-b8d8-bb345aa01d5b,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,Stetson Apartments,Deland,65cf158d-8406-47de-b0a4-16f8e79c9350,,Contact us at 407-585-2721 to schedule your tour.
 SOFT,phone+stale_claim,The Grande @ Gainesville,Gainesville,cc3a93ae-8467-4978-9ebf-f5abd420f9f8,,"Pets $250 one time Non refundable Pet monthly $25.00 This property is professionally leased and managed by Atrium Management Company, call today to schedule a showing Maximus Montepeque 352-234-3496"
 SOFT,phone+stale_claim,The Grande @ Gainesville,Gainesville,939cce2a-2a85-4fe2-b32c-1d193d2b87b1,,"This property is professionally leased and managed by Atrium Management Company, call today to schedule a private showing (352) 505-5174."
@@ -1738,7 +1738,7 @@ SOFT,stale_claim,Marina Villas,Tampa,117a5d4a-06d9-4793-b19a-baa3b3871b99,,AVAIL
 SOFT,stale_claim,Marina Villas,Tampa,dc296b0e-b8ef-4acd-83d8-5c9effcb9ddf,,AVAILABLE NOW!!
 SOFT,stale_claim,Marina Villas,Tampa,a85dcc53-1059-4a46-a4af-d788e1320e9f,,Don't miss out on the chance to call this remarkable residence your home.
 SOFT,stale_claim,Milk Stacks,Orlando,59ac3ae7-fdc0-4f86-8b65-967c4e51120e,,Don't miss your opportunity to call The Milk Stacks home and experience modern apartment living in one of Orlando’s most unique neighborhoods.
-SOFT,stale_claim,Milk Stacks,Orlando,d3ca4d04-c9a8-404e-ac38-03173ca95ae4,,Don't miss your opportunity to call The Milk Stacks home and experience modern apartment living in one of Orlando’s most unique neighborhoods.
+SOFT,stale_claim,Milk Stacks,Orlando,52c86c8f-4bab-4731-9046-dc349fc32162,,Don't miss your opportunity to call The Milk Stacks home and experience modern apartment living in one of Orlando’s most unique neighborhoods.
 SOFT,stale_claim,Milk Stacks,Orlando,6bf12432-d96a-467f-857c-3685eef62166,,Don't miss your opportunity to call The Milk Stacks home and experience modern apartment living in one of Orlando’s most unique neighborhoods.
 SOFT,stale_claim,Millie Gardens,Gainesville,d1c62f3e-43ff-475c-a1a0-23ba11e9e73c,,SPECIAL OFFER: Apply now and receive a $500 gift certificate!
 SOFT,stale_claim,Millie Gardens,Gainesville,d1c62f3e-43ff-475c-a1a0-23ba11e9e73c,,Don’t miss this limited-time
