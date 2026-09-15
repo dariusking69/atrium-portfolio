@@ -528,9 +528,10 @@ SOFT,phone,CIRC7,Melbourne,78808bf5-0214-41a2-8daf-dd0ecac4df43,,Professionally 
 SOFT,phone,Centerpoint Apartments,Gainesville,9c758375-5f59-4576-97f2-bc3b87f12faa,,Maximus Montepeque Leasing Coordinator | Atrium Management 352-234-3496
 SOFT,phone,Champions Chase,Davenport,7d7af5fb-b147-49d1-b4a1-863058bf39b6,,For more information contact our leasing team at (407) 243-8382.
 SOFT,phone,Champions Chase,Davenport,aced2fde-08bd-4bd9-b52f-9012b9624ef3,,For more information contact our leasing team at (407) 243-8382.
-SOFT,phone,Champions Chase,Davenport,a60aa79e-d733-41a6-b16d-1c6ffd7cfad7,,For more information contact our leasing team at (407) 243-8382.
+SOFT,phone,Champions Chase,Davenport,3573dd6d-60b9-4025-919d-c539765cb04e,,For more information contact our leasing team at (407) 243-8382.
 SOFT,phone,Champions Chase,Davenport,872efb57-99c4-44ad-99fb-7efb88f358e8,,For more information contact our leasing team at (407) 243-8382.
 SOFT,phone,Champions Chase,Davenport,35f8d1bf-1546-4af8-a3ad-1d661b6a23e1,,For more information contact our leasing team at (407) 243-8382.
+SOFT,phone,Coral Gables @ Bellview,Belleview,bdea7e61-3291-4a33-a979-71589079dcf3,,Have any questions call Maximus Montepeque 352-234-3496
 SOFT,phone,Eastwood,Clearwater,6b43b7ef-c25f-43ce-80d5-8c148e842d5e,,Professionally managed by ATRIUM MANAGEMENT COMPANY (CALL 813-553-3444 TO SET UP YOUR PERSONAL TOUR).
 SOFT,phone,Eastwood,Clearwater,6b43b7ef-c25f-43ce-80d5-8c148e842d5e,,"Professionally Managed by Atrium Management Company, call 813-553-3444 today for more information."
 SOFT,phone,JUAN6710,Tampa,931dc873-867b-4bd2-90e5-6f988e53525e,,Call and ask about our move in concession: 813-355-9968!
@@ -1054,7 +1055,6 @@ SOFT,phone+stale_claim,Camelot Apartments,Gainesville,d2f2c892-7690-4077-bfbb-9a
 SOFT,phone+stale_claim,Camelot Apartments,Gainesville,1d22cc48-d192-41f3-b95d-e50b84fec017,,Please call (352)-338-7700 to schedule your private showing!
 SOFT,phone+stale_claim,Camelot Apartments,Gainesville,ad22dcb2-dfc5-4895-9c49-a10519db28b6,,Please call (352)-338-7700 to schedule your private showing!
 SOFT,phone+stale_claim,Camelot Apartments,Gainesville,95a13319-e9b9-497a-afd4-935c8af64d77,,Please call (352)-338-7700 to schedule your private showing!
-SOFT,phone+stale_claim,Coral Gables @ Bellview,Belleview,66e1462c-9027-484d-b3cb-474eed79ce09,,Don’t miss your opportunity to call Maximus Montepeque 352-234-3496
 SOFT,phone+stale_claim,Cutshaw Apartments,Richmond,f9fcf3f4-b233-41d8-a788-a7954ae3fe0b,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,Dharma Apartments,Orlando,70eb6d7c-8ecc-4f2e-999f-3fcdac0c2ba3,,"For more details or to schedule a viewing, please contact us at 407-585-2721."
 SOFT,phone+stale_claim,Dharma Apartments,Orlando,228a09e9-7463-4059-b4c2-c8477b62a381,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
@@ -1697,6 +1697,7 @@ SOFT,stale_claim,Champions Village,Kissimmee,fe443023-f339-45ef-9aa1-ef2c4b26075
 SOFT,stale_claim,Champions Village,Kissimmee,34cbdca5-a8e3-4571-8cc7-6e6abf6bebb2,,Schedule a tour today!
 SOFT,stale_claim,Champions Village,Kissimmee,34cbdca5-a8e3-4571-8cc7-6e6abf6bebb2,,Please call for more information.
 SOFT,stale_claim,Champions Village,Kissimmee,647eb5c8-b68e-47a8-b744-9791208c86c1,,Schedule a tour today!
+SOFT,stale_claim,Coral Gables @ Bellview,Belleview,bdea7e61-3291-4a33-a979-71589079dcf3,,Schedule a tour today and discover the perfect place to call home.
 SOFT,stale_claim,Cranes Landing Apartments,Winter Park,aa5e8bd8-f289-4f12-8e00-fe05def30480,,Schedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.
 SOFT,stale_claim,Cranes Landing Apartments,Winter Park,25075905-4722-486f-a867-a32b1cb154d9,,Schedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.
 SOFT,stale_claim,Cranes Landing Apartments,Winter Park,3e1f9be4-733e-4b06-82b8-8c76434e4383,,Schedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.
