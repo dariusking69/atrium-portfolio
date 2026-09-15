@@ -52,6 +52,7 @@ HARD,familial,8400 Pippen Dr,Orlando,afa86428-41d9-4664-8658-770b8cfbdb91,,"Upst
 HARD,familial,869 Brutus Terrace,Lake Mary,33df8001-b35e-4009-9077-5d5ff0ae58b7,,"Upstairs, you’ll find the luxurious master suite with an en-suite bath, plus two additional bedrooms and another full bathroom—ideal for families, roommates, or guests."
 HARD,familial,Avenues of Baldwin Park,Orlando,5ae35864-dbe3-4635-abc5-4a92f48faa0e,,"of comfortable living ideal for families, roommates, or anyone who values extra space."
 HARD,familial,Case Residences,Tampa,fbef3793-1234-4262-b1f8-8bc4f46930e9,,"It's an easy fit for professionals who need a home office or empty nesters hosting visiting family, with room to spare."
+HARD,familial,Janie B Apartments,Tampa,16709393-475a-47b5-a932-c731b9c4b725,,The home is in walking distance to dozen of  urban diners and local family friendly hang out spots.
 HARD,familial,Mission Club Apartments,Orlando,34623e70-f741-495a-b0ae-610772ca003f,,"of beautifully designed living space, this 3-bedroom, 2-bathroom floor plan is perfect for families, roommates, or anyone who loves to spread out, relax, and enjoy life in style."
 HARD,familial,Mission Club Apartments,Orlando,4d955dce-2386-425f-985f-1b53ed350622,,"of flexible living space, perfect for families, roommates, or anyone who loves room to live, work, and entertain."
 HARD,familial,Napiers Cir.,Orlando,90791133-34e0-4cf8-891a-bbc587b60f09,,"Perfect for students and budget-conscious renters, this home offers:"
@@ -445,6 +446,7 @@ HARD,school_steering,Salisbury Apartments,Deland,f8a9c292-b8f9-484c-b8d8-bb345aa
 HARD,school_steering,The Carl,Orlando,87b87792-57f8-441e-808a-87c2ae151eb8,,"Excellent Schools: Situated within the Lake Silver Elementary, Lee Middle, and a short stroll to Edgewater High School zones."
 HARD,school_steering,The Carl,Orlando,11c9f93a-a559-43c1-b967-3242f6e6ef29,,"Location & Community Perks Situated in a prime Orlando location, this property offers unmatched access to local amenities and top-rated schools:"
 HARD,school_steering,The Carl,Orlando,11c9f93a-a559-43c1-b967-3242f6e6ef29,,"Top-Tier School Zoning: Lake Silver Elementary, Lee Middle School, and walking distance to Edgewater High School."
+HARD,school_steering,The Lofts at Concord,Orlando,a15e72c2-5fc0-4131-8e9d-a13e2ebde2e6,,"Zoned for Lake Como Elementary, Lake Como Middle, and Edgewater High Schools."
 HARD,school_steering,WMUR61,Orlando,23d8bdc1-f9c0-465e-86c2-9eb5cc2b6e89,,"Located just minutes from local shops, dining, and entertainment, this home is zoned for BlanknerK-8 School, and Boone High School."
 BRAND,banned_word,1 West Cary Apartments,Richmond,c7c68793-aa25-4f3c-8a5b-dd1c0640681e,,"Our spacious one-bedroom, one-bathroom apartments combine affordability and convenience with the necessary amenities you seek for your modern lifestyle."
 BRAND,banned_word,1 West Cary Apartments,Richmond,6beeb511-9c48-4e30-b682-d0032a33fffe,,"This cozy and modern apartment features one bedroom and one bathroom, perfect for those seeking a comfortable and affordable living space."
@@ -523,15 +525,15 @@ SOFT,phone,7705 N Branch Ave,Tampa,73d7670f-9611-4077-bea8-90344ef20471,,Profess
 SOFT,phone,8205-31 Sun Spring Circle,Orlando,6651a170-28c5-4455-ae22-560c7c30b018,,407-585-2721
 SOFT,phone,8503 N Semmes St Unit B,Tampa,503741ed-3ca9-49a2-8fee-1a1c4b50522d,,813-553-3444
 SOFT,phone,913 New Bedford Drive,Deland,a80777c0-4edd-4695-ab10-45102dd2bd78,,(407) 585-2721.
-SOFT,phone,Avenues of Baldwin Park,Orlando,4f74a1de-dd21-4ff2-acbc-d04324c004c6,,#407-671-0200
 SOFT,phone,CIRC7,Melbourne,78808bf5-0214-41a2-8daf-dd0ecac4df43,,Professionally managed by Atrium Management Company — call (407) 585-2721   to schedule your in-person showing.
-SOFT,phone,Centerpoint Apartments,Gainesville,9c758375-5f59-4576-97f2-bc3b87f12faa,,Maximus Montepeque Leasing Coordinator | Atrium Management 352-234-3496
+SOFT,phone,Centerpoint Apartments,Gainesville,7a023f91-85d5-4ea6-a402-d52b5bb6b847,,Administration Fee: $295 one-time fee Electric: Paid directly to GRU – (352) 334-3434 Water/Sewer/Trash: $55/month Renters Insurance: $15.50/month Pet Fee: $250 one-time fee + $25/month
+SOFT,phone,Centerpoint Apartments,Gainesville,7a023f91-85d5-4ea6-a402-d52b5bb6b847,,Maximus Montepeque Leasing Coordinator | Atrium Management 352-234-3496
 SOFT,phone,Champions Chase,Davenport,7d7af5fb-b147-49d1-b4a1-863058bf39b6,,For more information contact our leasing team at (407) 243-8382.
 SOFT,phone,Champions Chase,Davenport,aced2fde-08bd-4bd9-b52f-9012b9624ef3,,For more information contact our leasing team at (407) 243-8382.
 SOFT,phone,Champions Chase,Davenport,3573dd6d-60b9-4025-919d-c539765cb04e,,For more information contact our leasing team at (407) 243-8382.
 SOFT,phone,Champions Chase,Davenport,872efb57-99c4-44ad-99fb-7efb88f358e8,,For more information contact our leasing team at (407) 243-8382.
 SOFT,phone,Champions Chase,Davenport,35f8d1bf-1546-4af8-a3ad-1d661b6a23e1,,For more information contact our leasing team at (407) 243-8382.
-SOFT,phone,Coral Gables @ Bellview,Belleview,bdea7e61-3291-4a33-a979-71589079dcf3,,Have any questions call Maximus Montepeque 352-234-3496
+SOFT,phone,Coral Gables @ Bellview,Belleview,e5b1685b-663a-40aa-8a88-b9506cbe7ed3,,Have any questions call Maximus Montepeque 352-234-3496
 SOFT,phone,Eastwood,Clearwater,6b43b7ef-c25f-43ce-80d5-8c148e842d5e,,Professionally managed by ATRIUM MANAGEMENT COMPANY (CALL 813-553-3444 TO SET UP YOUR PERSONAL TOUR).
 SOFT,phone,Eastwood,Clearwater,6b43b7ef-c25f-43ce-80d5-8c148e842d5e,,"Professionally Managed by Atrium Management Company, call 813-553-3444 today for more information."
 SOFT,phone,JUAN6710,Tampa,931dc873-867b-4bd2-90e5-6f988e53525e,,Call and ask about our move in concession: 813-355-9968!
@@ -540,7 +542,7 @@ SOFT,phone,Seminole Ave,Tampa,fcdf6263-0c6a-470a-be32-405f8f7d653d,,"Professiona
 SOFT,phone,Seminole Ave,Tampa,b70350d8-f2fd-40e7-8728-b9409560c6d1,,"Professionally managed by Atrium Management, 813-553-3444 today for a private showing."
 SOFT,phone,Stetson Apartments,Deland,7f53f9c7-a442-40ee-9e13-a54490ca571b,,"To arrange your exclusive viewing, please contact us at 407-585-2721."
 SOFT,phone,The Carl,Orlando,87b87792-57f8-441e-808a-87c2ae151eb8,,"To arrange a personal tour, please dial 407-585-2721."
-SOFT,phone,The Grande @ Gainesville,Gainesville,c5a0edfb-998b-4946-96a6-215862e38c78,,Maximus Montepeque 352-234-3496
+SOFT,phone,The Lofts at Concord,Orlando,a15e72c2-5fc0-4131-8e9d-a13e2ebde2e6,,"Professionally Managed by Atrium Management, call 407-585-2721 today to set up your private showing."
 SOFT,phone,The Roberson,Orlando,74d9c1b9-f564-4598-8309-26d669260010,,Contact Atrium Management 407-585-2721 for showings.
 SOFT,phone,Tumblin Creek,Gainesville,39f013b2-58e3-4d1e-9f3a-830114a61af3,,Maximus Montepeque-- 352-234-3496
 SOFT,phone,Valencia Isle,Orlando,8a758445-2e51-41c1-ab7a-ca4ff7a3d1f1,,For more information contact our leasing team at (407) 250-9302.
@@ -566,7 +568,7 @@ SOFT,phone+email,Cranes Landing Apartments,Winter Park,351e890b-67db-4499-b51d-5
 SOFT,phone+email,Cranes Landing Apartments,Winter Park,f37053c3-1a9a-41ed-b3f7-395969cea0e7,,"For more information, please contact the leasing office: P: 407-671-5585 E: CLA@atriummanagement.com"
 SOFT,phone+email,Cranes Landing Apartments,Winter Park,31551fb9-c5e4-4b52-848d-b5a64eeae877,,"For more information, please contact the leasing office: P: 407-671-5585 E: CLA@atriummanagement.com"
 SOFT,phone+email,Janie B Apartments,Tampa,f812226b-f1c1-494e-b888-93cce0d2217b,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
-SOFT,phone+email,Janie B Apartments,Tampa,355dbab0-c6e3-4c83-9c4e-676691f09196,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
+SOFT,phone+email,Janie B Apartments,Tampa,16709393-475a-47b5-a932-c731b9c4b725,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,Marina Villas,Tampa,117a5d4a-06d9-4793-b19a-baa3b3871b99,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,Ocoee Village,Ocoee,769540f3-f92d-4f8d-9893-361ccbaf5977,,For more information Text Ilka Goitia at (321) 549-0284 or igoitia@atriummanagement.com.
 SOFT,phone+email,Ocoee Village,Ocoee,f64edd70-ae66-4294-80cc-22341d3d34f4,,For more information Text Ilka Goitia at (321) 549-0284 or igoitia@atriummanagement.com.
@@ -579,8 +581,8 @@ SOFT,phone+email,Sutton Fields,St Cloud,8995bc4f-5ef1-481c-aef6-ebe1fb0575bc,,Fo
 SOFT,phone+email,Sutton Fields,St Cloud,3bc8c2d9-7610-4295-a46b-ac0b9b2b438c,,For more information contact Jillian Levine at (770) 713-7065 or jlevine@atriummanagement.com.
 SOFT,phone+email,Sutton Fields,St Cloud,b6b62359-2998-4aed-a229-0fceac5b7f44,,For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.
 SOFT,phone+email,Sutton Fields,St Cloud,5121c638-4318-4e08-a058-13684da3d3bf,,For more information contact Jillian Levine at (770) 713-7065 or jlevine@atriummanagement.com.
-SOFT,phone+email,Sutton Fields,St Cloud,c477b1e3-82de-4a44-a980-5e4984c22d03,,For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.
-SOFT,phone+email,Sutton Fields,St Cloud,e87e78fa-2f0d-4aee-a97f-c40ae0d47aa4,,For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.
+SOFT,phone+email,Sutton Fields,St Cloud,bd918dbf-a640-44be-83a2-5fcc6417a6f5,,For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.
+SOFT,phone+email,Sutton Fields,St Cloud,6c01f851-8ad5-4ff5-ba28-5185976105cc,,For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.
 SOFT,phone+email,Sutton Fields,St Cloud,c0dc3181-9c9b-4705-9e51-b2adc0db24d9,,For more information contact Jillian Levine at (770) 713-7065 or jlevine@atriummanagement.com.
 SOFT,phone+email,Sutton Fields,St Cloud,ed67f219-3d7a-4775-95b9-4de683efb5ba,,For more information contact Jillian Levine at (770) 713-7065 or jlevine@atriummanagement.com.
 SOFT,phone+email,Valencia Isle,Orlando,47a1b000-69e5-4c3c-96bb-139db761dacb,,For more information contact Darren Bone at (407) 243-8382 or dbone@atriummanagement.com.
@@ -1067,7 +1069,7 @@ SOFT,phone+stale_claim,Janie B Apartments,Tampa,3259e94f-6e86-42a8-a4f6-16fe58e5
 SOFT,phone+stale_claim,LOFTY APARTMENTS,Richmond,a01e1c10-6496-47b9-bc64-8d8abec09dc5,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,Marina Villas,Tampa,dc296b0e-b8ef-4acd-83d8-5c9effcb9ddf,,Professionally managed by Atrium Management please call 813-553-3444 to schedule your private showing.
 SOFT,phone+stale_claim,Marina Villas,Tampa,a85dcc53-1059-4a46-a4af-d788e1320e9f,,Contact us today at 813-553-3444 to schedule a private tour and experience the epitome of modern living in one of Tampa's most desirable neighborhoods.
-SOFT,phone+stale_claim,Millie Gardens,Gainesville,5fb87966-ad5a-4f0c-bf43-138f83575620,,"Contact Information: For more details or to schedule a viewing, contact Maximus Montepeque at 352-234-3496"
+SOFT,phone+stale_claim,Millie Gardens,Gainesville,166f695c-9c65-404d-a95a-068d8f5e0534,,"• Lease term: 12-month lease Contact Information: For more details or to schedule a viewing, contact Maximus Montepeque with Atrium Management at 352-234-3496"
 SOFT,phone+stale_claim,Millie Gardens,Gainesville,65c55513-649d-4edc-a2e0-67f2f43a6488,,Call today to schedule a tour 352-505-5174
 SOFT,phone+stale_claim,Mirabella Apartments,Gainesville,404fb76e-b5da-4060-ba4b-c4fdd9c46967,,Please call (352)-338-7700 to schedule your private showing!
 SOFT,phone+stale_claim,Mirabella Apartments,Gainesville,aaac487a-843a-4217-8e6c-b9590af076e9,,Please call (352)-338-7700 to schedule your private showing!
@@ -1081,6 +1083,7 @@ SOFT,phone+stale_claim,Royal Villas,Titusville,cb2dcda9-86b3-4425-8e91-4c4fe5ae4
 SOFT,phone+stale_claim,Salisbury Apartments,Deland,3a3648af-71c6-4987-a071-857c5b86f390,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,Salisbury Apartments,Deland,f8a9c292-b8f9-484c-b8d8-bb345aa01d5b,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,Stetson Apartments,Deland,65cf158d-8406-47de-b0a4-16f8e79c9350,,Contact us at 407-585-2721 to schedule your tour.
+SOFT,phone+stale_claim,The Grande @ Gainesville,Gainesville,a5f5371e-dc67-4dfc-963f-095c14f3c324,,"This property is professionally leased and managed by Atrium Management Company, call today to schedule a showing Maximus Montepeque (352)-234-3496."
 SOFT,phone+stale_claim,The Grande @ Gainesville,Gainesville,cc3a93ae-8467-4978-9ebf-f5abd420f9f8,,"Pets $250 one time Non refundable Pet monthly $25.00 This property is professionally leased and managed by Atrium Management Company, call today to schedule a showing Maximus Montepeque 352-234-3496"
 SOFT,phone+stale_claim,The Grande @ Gainesville,Gainesville,939cce2a-2a85-4fe2-b32c-1d193d2b87b1,,"This property is professionally leased and managed by Atrium Management Company, call today to schedule a private showing (352) 505-5174."
 SOFT,phone+stale_claim,The Hammocks at Camelot,Gainesville,4186f3ba-3f84-42eb-94e5-0bda9f328945,,Please call (352)-338-7700 to schedule your private showing!
@@ -1677,9 +1680,8 @@ SOFT,stale_claim,Aston Square Apartments,Kissimmee,dcd012bf-5def-45b4-8284-db3f8
 SOFT,stale_claim,Aston Square Apartments,Kissimmee,dcd012bf-5def-45b4-8284-db3f83b6d277,,Contact us today to schedule a tour!
 SOFT,stale_claim,Aston Square Apartments,Kissimmee,e159cf67-1ba0-4f81-af8b-394c3361a767,,Don’t miss the chance to make this stunning carriage home your new residence.
 SOFT,stale_claim,Aston Square Apartments,Kissimmee,e159cf67-1ba0-4f81-af8b-394c3361a767,,Contact us today to schedule a tour!
-SOFT,stale_claim,Avenues of Baldwin Park,Orlando,0975b8de-ddba-4c1d-8af9-292dd325145f,,Schedule your tour today!
-SOFT,stale_claim,Avenues of Baldwin Park,Orlando,0975b8de-ddba-4c1d-8af9-292dd325145f,,Rental Terms Application Fee: $95 Admin Fee $250 Available Now Pet Policy Cats allowed Dogs allowed Amenities pool Valet Trash Soccer Field Clubhouse Lake View High Speed Internet 24 Hour Fitness Center Community Grill b
-SOFT,stale_claim,Avenues of Baldwin Park,Orlando,4f74a1de-dd21-4ff2-acbc-d04324c004c6,,Rental Terms Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities Valet Trash Clubhouse Community Park Community Playground Community Lake In Unit Washer and Dryer Carpet Community Swimming P
+SOFT,stale_claim,Avenues of Baldwin Park,Orlando,5d22a972-b515-4105-ae54-38bb3aa20986,,Schedule your tour today!
+SOFT,stale_claim,Avenues of Baldwin Park,Orlando,5d22a972-b515-4105-ae54-38bb3aa20986,,Rental Terms Application Fee: $95 Admin Fee $250 Available Now Pet Policy Cats allowed Dogs allowed Amenities pool Valet Trash Soccer Field Clubhouse Lake View High Speed Internet 24 Hour Fitness Center Community Grill b
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,e4bad02c-d5fc-4b10-8c2a-9caa140d9faa,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities Valet Trash Clubhouse Outdoor deck High Speed Internet 24 Hour Fitness Center Community Grill basketball cour
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,fedae60c-78ee-46d6-950a-041483bed4b2,,Rental Terms Admin Fee: $250 Application Fee: $95 Available Now Pet Policy Cats allowed Dogs allowed Amenities pool Valet Trash Soccer Field Community Clubhouse Outdoor deck High Speed Internet 24 Hour Fitness Center Pet
 SOFT,stale_claim,Avenues of Baldwin Park,Orlando,5ae35864-dbe3-4635-abc5-4a92f48faa0e,,Schedule your tour today!
@@ -1692,12 +1694,13 @@ SOFT,stale_claim,CIRC5,Melbourne,b33dafdd-f2fc-49e9-8788-bbb7988c212d,,AVAILABLE
 SOFT,stale_claim,Carriage House,Deland,346fe0b4-2f3c-4a91-ae34-f0b351612295,,"Schedule Your Tour Today Spacious, renovated units in this prime location move quickly."
 SOFT,stale_claim,Case Residences,Tampa,e4dbb607-38fa-4f41-9120-da891019a594,,Schedule a private tour today to see this Palma Ceia home.
 SOFT,stale_claim,Case Residences,Tampa,fbef3793-1234-4262-b1f8-8bc4f46930e9,,Schedule a private tour today to see this two-bedroom home.
+SOFT,stale_claim,Centerpoint Apartments,Gainesville,7a023f91-85d5-4ea6-a402-d52b5bb6b847,,Contact us today for more information or to schedule a tour!
 SOFT,stale_claim,Champions Village,Kissimmee,dad2188d-0a27-447d-adde-d61fd9da0a88,,Schedule a tour today!
 SOFT,stale_claim,Champions Village,Kissimmee,fe443023-f339-45ef-9aa1-ef2c4b26075b,,Schedule a tour today!
 SOFT,stale_claim,Champions Village,Kissimmee,34cbdca5-a8e3-4571-8cc7-6e6abf6bebb2,,Schedule a tour today!
 SOFT,stale_claim,Champions Village,Kissimmee,34cbdca5-a8e3-4571-8cc7-6e6abf6bebb2,,Please call for more information.
 SOFT,stale_claim,Champions Village,Kissimmee,647eb5c8-b68e-47a8-b744-9791208c86c1,,Schedule a tour today!
-SOFT,stale_claim,Coral Gables @ Bellview,Belleview,bdea7e61-3291-4a33-a979-71589079dcf3,,Schedule a tour today and discover the perfect place to call home.
+SOFT,stale_claim,Coral Gables @ Bellview,Belleview,e5b1685b-663a-40aa-8a88-b9506cbe7ed3,,Schedule a tour today and discover the perfect place to call home.
 SOFT,stale_claim,Cranes Landing Apartments,Winter Park,aa5e8bd8-f289-4f12-8e00-fe05def30480,,Schedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.
 SOFT,stale_claim,Cranes Landing Apartments,Winter Park,25075905-4722-486f-a867-a32b1cb154d9,,Schedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.
 SOFT,stale_claim,Cranes Landing Apartments,Winter Park,3e1f9be4-733e-4b06-82b8-8c76434e4383,,Schedule a tour today and discover why Cranes Landing Apartments is the perfect place to call home.
@@ -1772,8 +1775,8 @@ SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,15dd5b0
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,5179d5e5-7ab1-4287-bd0c-1e0ae7e9d570,,"With comfortable living spaces and a community designed to feel like home, this opportunity won’t last long, reach out today before it’s gone!"
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,5179d5e5-7ab1-4287-bd0c-1e0ae7e9d570,,Schedule your tour today and see why you’ll love calling our community home!
 SOFT,stale_claim,Reserve at Lake Irene,Casselberry,a844b6ca-e648-4388-80c3-2fb8d7aa5ed2,,Contact us today to schedule your personalized tour and find your new home!
-SOFT,stale_claim,Reserve at Lake Irene,Casselberry,0dfe6e09-babb-44ba-b812-d32f33420b1d,,Contact us today to schedule your personalized tour and find your new home!
-SOFT,stale_claim,Reserve at Lake Irene,Casselberry,1fe58630-8b1e-4667-b556-7c2f1724ad9b,,Contact us today to schedule your personalized tour and find your new home!
+SOFT,stale_claim,Reserve at Lake Irene,Casselberry,df8377a9-8372-4893-b241-f159e3867a06,,Contact us today to schedule your personalized tour and find your new home!
+SOFT,stale_claim,Reserve at Lake Irene,Casselberry,340b6458-3bcb-45b0-aa8e-9a3491012a15,,Contact us today to schedule your personalized tour and find your new home!
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,AVAILABLE NOW!!!!!!!!
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,"Don't miss out on your opportunity to call one of these apartments your home, and now, renters can save BIG on our newest  * Rent includes water via monthly fee*"
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,Schedule your showing now and APPLY ONLINE
@@ -1799,7 +1802,6 @@ SOFT,stale_claim,Stetson Apartments,Deland,7f53f9c7-a442-40ee-9e13-a54490ca571b,
 SOFT,stale_claim,Stetson Apartments,Deland,cbf55946-2fab-4b32-9798-b1fd18caf3c5,,Don't miss out on this rare opportunity to live in a piece of DeLand's history.
 SOFT,stale_claim,Stetson Apartments,Deland,cbf55946-2fab-4b32-9798-b1fd18caf3c5,,Contact us today to schedule a viewing and make Stetson Apartments your new home!
 SOFT,stale_claim,The Carl,Orlando,11c9f93a-a559-43c1-b967-3242f6e6ef29,,Schedule Your Private Tour Today!
-SOFT,stale_claim,The Grande @ Gainesville,Gainesville,c5a0edfb-998b-4946-96a6-215862e38c78,,call today to schedule a showing.
 SOFT,stale_claim,The Hammocks by Butler,Gainesville,4f5b8816-3340-43d7-8388-4a4a3b7add29,,AVAILABLE NOW!
 SOFT,stale_claim,The Hammocks by Butler,Gainesville,c306955d-fe7e-4d35-8391-7339a5531eda,,AVAILABLE NOW!
 SOFT,stale_claim,The Hammocks on 34th,Gainesville,7afda2e8-8b01-418c-a0bd-9cd23e08c447,,AVAILABLE NOW!
@@ -1808,7 +1810,6 @@ SOFT,stale_claim,The Jeffersonian,Charlottesville,f26888a4-bf7b-4545-b4ab-43325d
 SOFT,stale_claim,The Jeffersonian,Charlottesville,669a485a-bdbd-47b9-851c-7cf67c9b25bd,,"View our current availability, apply online today, or call us to schedule a personal walkthrough of this exceptional floor plan!"
 SOFT,stale_claim,The Jeffersonian,Charlottesville,cc465740-3ee4-4b76-88ef-06ed14997f4d,,"View our current availability, apply online today, or call us to schedule a personal walkthrough of this exceptional floor plan!"
 SOFT,stale_claim,The Jeffersonian,Charlottesville,f24c9a04-7b6b-4afe-a619-be38ef640232,,"View our current availability, apply online today, or call us to schedule a personal walkthrough of this exceptional floor plan!"
-SOFT,stale_claim,The Lofts at Concord,Orlando,2e0f539c-b819-48a3-878f-c237aa827b1e,,"Don’t miss your chance to call this exclusive enclave home—where history, comfort, and location converge in perfect harmony."
 SOFT,stale_claim,The Roberson,Orlando,b2e3ab97-f92c-4c09-a9be-591a86f4dcc6,,Don’t miss the opportunity to make this coveted address your new home.
 SOFT,stale_claim,The Roberson,Orlando,b2e3ab97-f92c-4c09-a9be-591a86f4dcc6,,Schedule a tour today and experience the perfect blend of past and present at College Park Villas.
 SOFT,stale_claim,The Roberson,Orlando,3a928e57-6664-49e4-82bb-5c0c2592c7a2,,Don’t miss the opportunity to make this coveted address your new home.
@@ -1854,7 +1855,7 @@ SOFT,url,919 Pine Street,Titusville,b103ddf5-010b-46b5-a6cc-83f784a53592,,https:
 SOFT,url,Barna Apartments,Titusville,dbd2a175-b18d-4091-a2e7-6236f07b8dfb,,https://atrium.petscreening.com/
 SOFT,url,CIRC5,Melbourne,b33dafdd-f2fc-49e9-8788-bbb7988c212d,,https://atrium.petscreening.com/
 SOFT,url,Janie B Apartments,Tampa,f812226b-f1c1-494e-b888-93cce0d2217b,,Virtual tour below https://my.matterport.com/show/?m=FaJ26idcmdo
-SOFT,url,Janie B Apartments,Tampa,355dbab0-c6e3-4c83-9c4e-676691f09196,,TAKE THE ONLINE TOUR NOW: https://my.matterport.com/show/?m=qTRsPGvdXTd
-SOFT,url,Warehouse Lofts,Tampa,bda5d89b-e385-450d-b019-bf7e99647134,,http://www.warehouseloftstampa.com/
+SOFT,url,Janie B Apartments,Tampa,16709393-475a-47b5-a932-c731b9c4b725,,ONLINE TOUR BELOW https://my.matterport.com/show/?m=qTRsPGvdXTd
+SOFT,url,Warehouse Lofts,Tampa,bb5aa2e5-a756-467c-bbb8-b97c305b8922,,http://www.warehouseloftstampa.com/
 SOFT,url,Warehouse Lofts,Tampa,df76f8a5-4760-4bdb-a44f-2279a21f2144,,http://www.warehouseloftstampa.com/
 SOFT,url,Warehouse Lofts,Tampa,964b79e0-f063-49ab-8cf8-b0ca00636ff9,,http://www.warehouseloftstampa.com/
