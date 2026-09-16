@@ -330,7 +330,7 @@ HARD,school_steering,3906 Angola Ln,Sanford,a1bde8d3-5394-4e58-a1ba-1d4d1727c0f2
 HARD,school_steering,3970 Lancashire Ln,Longwood,df7ca452-020a-4059-85b0-2af7c70acbb5,,"Wekiva Springs State Park is just around the corner, and the area is served by excellent schools."
 HARD,school_steering,4010 San Gallo Dr,Kissimmee,6799fc69-f989-4da6-afd9-2f13faeee1f6,,"Ideally located just minutes from theme parks, dining, shopping, and more, and zoned for Kissimmee Elementary and Middle Schools and Celebration High School."
 HARD,school_steering,4036 Messina Drive,Lake Mary,aeab35c7-985a-4072-9876-8bf6b7088845,,"Zoned for Crystal Lake Elementary School, Millennium Middle School, and Seminole High School."
-HARD,school_steering,404 E. 14th Street,Sanford,bedfc9a6-fb86-491e-b10b-8a469b3f02b2,,"Zoned for Region 3 Elementary School, Sanford Middle School, and Seminole High School."
+HARD,school_steering,404 E. 14th Street,Sanford,45a7e5b8-ab56-4f6e-a377-e7efaff2e1af,,"Zoned for Region 3 Elementary School, Sanford Middle School, and Seminole High School."
 HARD,school_steering,404 E. 14th Street,Sanford,a31d232b-1e26-4107-849f-304c4a02172f,,"Families will appreciate the proximity to esteemed educational institutions such as Region 3 Elementary School, Sanford Middle School, and Seminole High School."
 HARD,school_steering,404 E. 14th Street,Sanford,6d504c8c-bda8-4ac5-b31f-5624fb1f062e,,"Zoned for Region 3 Elementary School, Sanford Middle School, and Seminole High School."
 HARD,school_steering,404 E. 14th Street,Sanford,a8137d29-5a57-4793-9cac-aead50a48d52,,"Zoned for Region 3 Elementary School, Sanford Middle School, and Seminole High School."
@@ -555,6 +555,7 @@ SOFT,phone+email,324 7th St S Unit 1,St. Petersburg,125d237e-bf0c-4892-89a9-dcfb
 SOFT,phone+email,3806 -3808 W El Prado Blvd,Tampa,93c8fe8f-0939-414e-afde-3ecc9fe134d6,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,3806 -3808 W El Prado Blvd,Tampa,2a19015b-1921-4f75-8b8d-a2bd1cf2dd37,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,4359 Paraglider Place,Wesley Chapel,99dbe2c7-2770-4f92-be2b-88ba383199e8,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
+SOFT,phone+email,500 Southwest Blvd N,Saint Petersburg,0a87a798-92fd-400e-85ad-76c9fdfd993f,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,700 S Harbour Island Blvd #238,Tampa,2ec63550-f4cb-4084-b923-80f22dd9f97b,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,7106 - 7108 S Kissimme St.,Tampa,75c4d63f-75af-4359-a9ff-f3f75372f51a,,Professional Managed By: Atrium Management Call: 813-553-3444 or 813-428-8643 | Email: pg5@atriummanagement.com
 SOFT,phone+email,Champions Village,Kissimmee,dad2188d-0a27-447d-adde-d61fd9da0a88,,E: ChampionsVillage@atriummanagement.com P: 407-329-3555
@@ -902,7 +903,7 @@ SOFT,phone+stale_claim,4006 Wilkes Dr,Melbourne,ba060832-2252-4478-bc6d-6b60051f
 SOFT,phone+stale_claim,4010 Atrium Dr #U-7,Orlando,434b847b-31ef-4be6-b916-5a5c6ec8bb85,,"This property is professionally leased and managed by Atrium Management Company, call today to schedule a private showing (407) 585-2721."
 SOFT,phone+stale_claim,4010 San Gallo Dr,Kissimmee,6799fc69-f989-4da6-afd9-2f13faeee1f6,,This property is professionally leased and managed by Atrium Management Company Call today to schedule a private showing (407) 585-2721.
 SOFT,phone+stale_claim,4036 Messina Drive,Lake Mary,aeab35c7-985a-4072-9876-8bf6b7088845,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
-SOFT,phone+stale_claim,404 E. 14th Street,Sanford,bedfc9a6-fb86-491e-b10b-8a469b3f02b2,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
+SOFT,phone+stale_claim,404 E. 14th Street,Sanford,45a7e5b8-ab56-4f6e-a377-e7efaff2e1af,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,404 E. 14th Street,Sanford,a31d232b-1e26-4107-849f-304c4a02172f,,"For inquiries and to schedule a private showing, please contact us at 407-585-2721."
 SOFT,phone+stale_claim,404 E. 14th Street,Sanford,6d504c8c-bda8-4ac5-b31f-5624fb1f062e,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,404 E. 14th Street,Sanford,a8137d29-5a57-4793-9cac-aead50a48d52,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
@@ -912,7 +913,6 @@ SOFT,phone+stale_claim,408 Kays Landing Dr,Sanford,0fcd4ae5-b5fb-4714-844b-ada33
 SOFT,phone+stale_claim,4082 Sapsucker Loop,Sanford,d02b41bb-e59c-4447-b805-a7b776216288,,Contact us at 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,422 Springview Dr,Sanford,ce982903-c08a-4975-9161-cd032f05ca3b,,Call today to schedule a private showing (407) 585-2721.
 SOFT,phone+stale_claim,426 Cape Honeysuckle Pl,Sanford,ba52998d-68e0-4216-a92d-4e998592cc83,,Professionally leased by Atrium Management please call 407-585-2721 to schedule your private showing.
-SOFT,phone+stale_claim,4303 Shoshone Court,Saint Cloud,26407651-70b6-4280-8c1f-aea191208ed8,,Please call 407-585-2721 to schedule your private showing!
 SOFT,phone+stale_claim,4310 Regal Town Lane,Lake Mary,88ef056e-8288-4cdc-a835-854b9dfd0e28,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,435 Pleasant St,Lake Helen,32408695-3fd5-4122-9fd2-a9cc250e48eb,,"This property is professionally leased and managed by Atrium Management Company, call today to schedule a private showing (407) 585-2721."
 SOFT,phone+stale_claim,4401 Har Paul Cir,Tampa,cbeb16e2-3d79-4b7a-8650-e16d6af74866,,"For more information or to schedule a viewing, call Atrium Management at 813-787-4477 today!"
@@ -956,7 +956,7 @@ SOFT,phone+stale_claim,5512 Metrowest Blvd,Orlando,ea9477c0-9d25-4a12-89fd-a4477
 SOFT,phone+stale_claim,5514 Decatur Street,Orlando,a30c0de4-cc58-48f5-bb23-d5ccbdb2b83c,,Please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,5516 Decatur Street,Orlando,cf377548-fd2e-4a1a-a6cc-d33400e97b1f,,Please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,5550 E Michigan St Unit 2330,Orlando,f3c88f1d-5aed-4794-bb82-cbed907d0e83,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
-SOFT,phone+stale_claim,5556 Andrea St,Titusville,a08a5221-2d55-4825-bdb4-1c4eb586734e,,"Professionally managed by Atrium Management Company, please call 321-779-7785 to schedule your in person showing."
+SOFT,phone+stale_claim,5556 Andrea St,Titusville,a08a5221-2d55-4825-bdb4-1c4eb586734e,,"Professionally managed by Atrium Management Company, please call 407-243-8937 to schedule your in person showing."
 SOFT,phone+stale_claim,5558 Maggiore Blvd,Lakeland,76c6cf6f-e015-45c9-912f-c808572d1a18,,Contact Atrium Property Management today 863-688-1000 to apply or book a showing.
 SOFT,phone+stale_claim,5629 Siracusa Ln,Sanford,009ebd4f-0615-4946-a830-9441496b6df5,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,566 Shining Armor Lane,Longwood,e8fbdd99-6ef6-43b8-a1a1-88eb3657e35f,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
