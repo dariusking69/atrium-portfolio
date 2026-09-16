@@ -54,7 +54,7 @@ HARD,familial,Avenues of Baldwin Park,Orlando,5ae35864-dbe3-4635-abc5-4a92f48faa
 HARD,familial,Case Residences,Tampa,fbef3793-1234-4262-b1f8-8bc4f46930e9,,"It's an easy fit for professionals who need a home office or empty nesters hosting visiting family, with room to spare."
 HARD,familial,Janie B Apartments,Tampa,16709393-475a-47b5-a932-c731b9c4b725,,The home is in walking distance to dozen of  urban diners and local family friendly hang out spots.
 HARD,familial,Mission Club Apartments,Orlando,34623e70-f741-495a-b0ae-610772ca003f,,"of beautifully designed living space, this 3-bedroom, 2-bathroom floor plan is perfect for families, roommates, or anyone who loves to spread out, relax, and enjoy life in style."
-HARD,familial,Mission Club Apartments,Orlando,4d955dce-2386-425f-985f-1b53ed350622,,"of flexible living space, perfect for families, roommates, or anyone who loves room to live, work, and entertain."
+HARD,familial,Mission Club Apartments,Orlando,31533270-760f-434f-ad48-3e779a2c2577,,"of flexible living space, perfect for families, roommates, or anyone who loves room to live, work, and entertain."
 HARD,familial,Napiers Cir.,Orlando,90791133-34e0-4cf8-891a-bbc587b60f09,,"Perfect for students and budget-conscious renters, this home offers:"
 HARD,familial,Salisbury Apartments,Deland,34f24df7-a15c-45da-80f4-9305b2279f51,,"Steps from vibrant Downtown DeLand (0.3 miles): award-winning restaurants, boutique shops, live music, Athens Theatre, Museum of Art - DeLand Historic charm all around: enjoy the DeLand Mural Walk, Sculpture Walk, and we"
 HARD,familial,The Roberson,Orlando,25ac0fa7-92a5-4b54-94d3-c37c40fe770a,,"- Lifestyle Amenities: The area boasts family-friendly parks, accessible public transit, and walkable streets leading to grocery stores and restaurants."
@@ -440,7 +440,7 @@ HARD,school_steering,Dharma Apartments,Orlando,228a09e9-7463-4059-b4c2-c8477b62a
 HARD,school_steering,GEOR1527,Orlando,26961f94-abad-41bd-a2c3-5f1b02fbd959,,- Lake Como Elementary School
 HARD,school_steering,GEOR1527,Orlando,26961f94-abad-41bd-a2c3-5f1b02fbd959,,- Howard Middle School
 HARD,school_steering,GEOR1527,Orlando,26961f94-abad-41bd-a2c3-5f1b02fbd959,,- Boone High School
-HARD,school_steering,Myrtle Ave Apartments,Sanford,4392df9a-d6c6-43dd-9920-83df96e5e766,,"Zoned for Pine Crest Elementary, Millennium Middle, and Seminole High School."
+HARD,school_steering,Myrtle Ave Apartments,Sanford,e304e4c7-873e-4eb6-a9e8-bf6f6e57797e,,"Zoned for Pine Crest Elementary, Millennium Middle, and Seminole High School."
 HARD,school_steering,Salisbury Apartments,Deland,3a3648af-71c6-4987-a071-857c5b86f390,,"Zoned for Blue Lake Elementary School, DeLand Middle School, and DeLand High School."
 HARD,school_steering,Salisbury Apartments,Deland,f8a9c292-b8f9-484c-b8d8-bb345aa01d5b,,"Zoned for Blue Lake Elementary School, DeLand Middle School, and DeLand High School."
 HARD,school_steering,The Carl,Orlando,87b87792-57f8-441e-808a-87c2ae151eb8,,"Excellent Schools: Situated within the Lake Silver Elementary, Lee Middle, and a short stroll to Edgewater High School zones."
@@ -1076,7 +1076,7 @@ SOFT,phone+stale_claim,Mirabella Apartments,Gainesville,aaac487a-843a-4217-8e6c-
 SOFT,phone+stale_claim,Mirabella Apartments,Gainesville,bc16e6ed-0b6f-4bc3-b4e7-99d6e55dc33d,,Please call (352)-338-7700 to schedule your private showing!
 SOFT,phone+stale_claim,Mirabella Apartments,Gainesville,dbacd078-a1f2-4ced-acf4-22244278c20c,,Please call (352)-338-7700 to schedule your private showing!
 SOFT,phone+stale_claim,Mirabella Apartments,Gainesville,98bd6d52-fd9f-477f-b58d-de4b4ffb4ef4,,Please call (352)-338-7700 to schedule your private showing!
-SOFT,phone+stale_claim,Myrtle Ave Apartments,Sanford,4392df9a-d6c6-43dd-9920-83df96e5e766,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
+SOFT,phone+stale_claim,Myrtle Ave Apartments,Sanford,e304e4c7-873e-4eb6-a9e8-bf6f6e57797e,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,NCEN130,Winter Park,2bb54eb7-4dfb-47a1-a24f-a79a0daaf5af,,Professionally managed by Atrium Management please call 407-585-2721 to schedule your private showing.
 SOFT,phone+stale_claim,Royal Villas,Titusville,c1c72454-4ede-4817-a6ab-49e6ba5ba41e,,Professionally managed by Atrium Management please call 407-243-8937 to schedule your showing.
 SOFT,phone+stale_claim,Royal Villas,Titusville,cb2dcda9-86b3-4425-8e91-4c4fe5ae44e0,,Professionally managed by Atrium Management please call 407-243-8937 to schedule your showing.
@@ -1769,8 +1769,8 @@ SOFT,stale_claim,Oasis at San Marco,Jacksonville,1b7ee929-5f17-429b-b7ab-42eb383
 SOFT,stale_claim,Oasis at San Marco,Jacksonville,f74cf03a-f04c-435c-9e60-fbc2a90c0f66,,Schedule your tour today — your new home awaits!
 SOFT,stale_claim,Oasis at San Marco,Jacksonville,0faca441-c617-4562-8119-277fcc4b49e8,,Schedule your tour today — your new home awaits!
 SOFT,stale_claim,Oasis at San Marco,Jacksonville,1262020b-1c2a-40ef-a310-7e0046b48ce6,,Schedule your tour today — your new home awaits!
-SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,6ac6c6ed-4714-43fe-a365-1cae6e7c3ebd,,Call today to secure your preferred special before it’s gone!
-SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,6ac6c6ed-4714-43fe-a365-1cae6e7c3ebd,,Schedule your tour today and see why you’ll love calling our community home!
+SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,1f03fc98-5f61-4b06-bfb5-539a0b023f6e,,Call today to secure your preferred special before it’s gone!
+SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,1f03fc98-5f61-4b06-bfb5-539a0b023f6e,,Schedule your tour today and see why you’ll love calling our community home!
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,b122e57e-6d41-4fcb-940a-472b99bdd2c3,,Don’t miss your chance to call Renaissance at Strawberry Creek home—schedule a tour today!
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,a632e273-cc4c-4bc7-8af0-642d8f8b32c2,,Call today to secure your preferred special before it’s gone!
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,a632e273-cc4c-4bc7-8af0-642d8f8b32c2,,Schedule your tour today and see why you’ll love calling our community home!
@@ -1779,8 +1779,8 @@ SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,15dd5b0
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,5179d5e5-7ab1-4287-bd0c-1e0ae7e9d570,,"With comfortable living spaces and a community designed to feel like home, this opportunity won’t last long, reach out today before it’s gone!"
 SOFT,stale_claim,Renaissance at Strawberry Creek Apartments,Jacksonville,5179d5e5-7ab1-4287-bd0c-1e0ae7e9d570,,Schedule your tour today and see why you’ll love calling our community home!
 SOFT,stale_claim,Reserve at Lake Irene,Casselberry,a844b6ca-e648-4388-80c3-2fb8d7aa5ed2,,Contact us today to schedule your personalized tour and find your new home!
-SOFT,stale_claim,Reserve at Lake Irene,Casselberry,df8377a9-8372-4893-b241-f159e3867a06,,Contact us today to schedule your personalized tour and find your new home!
-SOFT,stale_claim,Reserve at Lake Irene,Casselberry,340b6458-3bcb-45b0-aa8e-9a3491012a15,,Contact us today to schedule your personalized tour and find your new home!
+SOFT,stale_claim,Reserve at Lake Irene,Casselberry,aa64c8e2-5ef7-4441-a4cf-cc4abf721177,,Contact us today to schedule your personalized tour and find your new home!
+SOFT,stale_claim,Reserve at Lake Irene,Casselberry,5cb26665-b966-408d-8f76-d1f556d72cf6,,Contact us today to schedule your personalized tour and find your new home!
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,AVAILABLE NOW!!!!!!!!
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,"Don't miss out on your opportunity to call one of these apartments your home, and now, renters can save BIG on our newest  * Rent includes water via monthly fee*"
 SOFT,stale_claim,San Leon,Sanford,31da9ae1-042e-412b-b2a9-41116e73bd50,,Schedule your showing now and APPLY ONLINE
